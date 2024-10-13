@@ -1,0 +1,1816 @@
+,Title,Published_date,Views,Likes,Comments,Month
+0,Hugging Face x LangChain:A new partner package in LangChain,2024-05-19,13848,248,20,May
+1,Project Astra Future of AI Assistants-Is It Better Than Gpt-4o?,2024-05-18,5289,146,20,May
+2,Google's New PaliGemma-Open Vision Language Model,2024-05-17,8202,163,21,May
+3,Getting Started With New Google Gemini Flash MultiModal With Practical Implementation,2024-05-17,12584,235,22,May
+4,Building RAG With OpenAI GPT-4o(omni) Model Using Objectbox Vector Database,2024-05-16,17231,311,19,May
+5,Getting Started with On-Device AI: RAG using ObjectBox Vector Database and LangChain,2024-05-16,8548,209,21,May
+6,Gemini API Developer Competition With Huge Rewards,2024-05-15,10876,303,106,May
+7,OpenAI New GPT-4o(omni) Model Demo In Mobile App With Audio Conversation- It is Just Amazing,2024-05-15,20543,398,55,May
+8,Google I/O '24 Recap in under 10 minutes- Updates In Gemini Models,2024-05-15,7050,236,19,May
+9,Power Of Github Copilot Workspace With Demo-Develop Complete Project By AI,2024-05-14,12049,238,24,May
+10,Open AI New GPT-4o Powerful Demo That Can Change The Learn Experience,2024-05-14,14357,333,31,May
+11,All You Need To Know About Open AI GPT-4o(Omni) Model With Live Demo,2024-05-13,27874,484,61,May
+12,Ollama Web UI Tutorial- Alternate To ChatGPT With Open Source Models,2024-05-13,17338,353,33,May
+13,#3-Deployment Of Huggingface OpenSource LLM Models In AWS Sagemakers With Endpoints,2024-05-13,23743,320,39,May
+14,Amazon Q Developer-Your Inline Code Suggestion- Comparing With Github Copilot,2024-05-12,7340,127,10,May
+15,How Do I Stay Updated With The Recent Development In AI,2024-05-11,11790,501,26,May
+16,Importance of Having Differentiator Skills For Job Market in 2024,2024-05-10,5719,254,24,May
+17,#2- Complete End To End Generative AI Project On AWS Using AWS Bedrock And AWS Lambda,2024-05-10,35136,678,52,May
+18,Advanced Q&A Chatbot Using Ragstack With vector-enabled Astra DB Serverless database And Huggingface,2024-05-09,9454,204,20,May
+19,Exploring Job Market Of Generative AI Engineers- Must Skillset Required By Companies,2024-05-08,16779,398,29,May
+20,Build LLM Pipelines With No Code In Minutes,2024-05-08,7609,175,9,May
+21,Generative AI Fine Tuning LLM Models Crash Course,2024-05-07,52489,1464,66,May
+22,The Future Tech Stack And AI Will Be Part Of It,2024-05-06,7050,285,21,May
+23,#1 Generative AI On AWS-Getting Started With First Project- Problem Statement With Demo,2024-05-06,23238,958,40,May
+24,Transition Story From 12th Commerce To ML Engineers- Izam Story,2024-05-05,8029,319,45,May
+25,Generative AI Project Lifecycle-GENAI On Cloud,2024-05-04,19450,871,29,May
+26,"9-End To End Powerful Document Q&A Chatbot using Llama3,Langchain and Groq API",2024-05-02,22676,1217,105,May
+27,Important Playlist To Cover For Learning Generative AI On AWS And Azure Cloud,2024-05-01,18413,508,20,May
+28,Starting Generative AI On Cloud New Series- AWS And Azure,2024-04-30,32493,814,51,Apr
+29,"Building End To End Webloader RAG Application using Groq With DataStax and Cassio, Langchain",2024-04-29,7674,215,30,Apr
+30,Complete Langchain Course For Generative AI In 3 Hours,2024-04-24,89200,3474,267,Apr
+31,Things Required To Master Generative AI- A Must Skill In 2024,2024-04-22,118508,3086,70,Apr
+32,Fine-tune Gemma models With Custom Data in Keras using LoRA,2024-04-21,19963,374,30,Apr
+33,Artificial Intelligence Index Report 2024 is Here- Measuring Trends In AI,2024-04-21,13003,365,14,Apr
+34,8-Building Gen AI Powered App Using Langchain And Huggingface And Mistral,2024-04-20,20746,410,77,Apr
+35,How To Use Meta Llama3 With Huggingface And Ollama,2024-04-19,46298,701,64,Apr
+36,Meta Llama 3 Is Here- And It Will Rule the Open Source LLM Models,2024-04-18,20957,493,35,Apr
+37,Elon Musk's Grok 1.5 Vision MultiModel Is Here-Open Source Better Than Open AI And Google Gemini Pro,2024-04-18,10783,354,20,Apr
+38,Was Devin AI Demo Fake?,2024-04-17,25769,534,52,Apr
+39,7-End To End Advanced RAG Project using Open Source LLM Models And Groq Inferencing engine,2024-04-16,23275,482,56,Apr
+40,You Won't Believe These Transition Stories!! From Freshers To 300% Amazing Hike,2024-04-16,7335,329,37,Apr
+41,6-Building Advanced RAG Q&A Project With Multiple Data Sources With Langchain,2024-04-15,36595,728,71,Apr
+42,Late Night- Live Q&A,2024-04-14,5757,276,19,Apr
+43,Some Important Advice For People Learning AI,2024-04-14,26239,962,81,Apr
+44,Hands On With Google Gemini 1.5 Pro- Is this the Best LLM Model?,2024-04-13,13161,347,44,Apr
+45,Google Is Back With Huge AI Annoucement- Time To Take Down OPENAI And Microsoft,2024-04-12,20076,479,35,Apr
+46,I Need Your Help!,2024-04-11,50407,1865,285,Apr
+47,The World's First Comprehensive AI Law Is Here!!,2024-04-11,12301,467,37,Apr
+48,5-Langchain Series-Advanced RAG Q&A Chatbot With Chain And Retrievers Using Langchain,2024-04-10,29680,576,71,Apr
+49,Generative AI the new buzz in Startup Funding World- Your Job Search Begins Here,2024-04-09,17329,674,116,Apr
+50,4-Langchain Series-Getting Started With RAG Pipeline Using Langchain Chromadb And FAISS,2024-04-07,45996,802,66,Apr
+51,Perfect Roadmap To Become AI Engineers In 2024 With Free Videos And Materials,2024-04-05,49179,2559,140,Apr
+52,It Is Easy To Start But Difficult to ...,2024-04-05,11382,571,45,Apr
+53,Groq-LPU™ Inference Engine Better Than OpenAI Chatgpt And Nvidia,2024-04-04,13723,943,60,Apr
+54,AI vs ML vs DL vs Generative Ai,2024-04-03,47522,1561,67,Apr
+55,3-Langchain Series-Production Grade Deployment LLM As API With Langchain And FastAPI,2024-04-03,28209,600,56,Apr
+56,AI Engineers- What Do They Do?,2024-04-02,29194,1644,91,Apr
+57,Vision To Make 1% Top Data Data Scientist,2024-04-01,30075,1523,131,Apr
+58,2-Langchain Series-Building Chatbot Using Paid And Open Source LLM's using Langchain And Ollama,2024-04-01,57953,1923,188,Apr
+59,Late Night- Live Q&A,2024-03-31,6613,433,15,Mar
+60,How much Coding Will Be Automated Due To AI?,2024-03-30,10231,415,40,Mar
+61,1- Lets Learn About Langchain-What We Will Learn And Demo Projects,2024-03-29,34277,1883,82,Mar
+62,How is the Job Market 2024?,2024-03-28,71406,2514,140,Mar
+63,Why AI Is The Next Big Thing For Everyone?,2024-03-24,14300,642,75,Mar
+64,Github Repositories To Learn Data Science And Generative AI With Videos And Handwritten Notes,2024-03-22,51113,1711,70,Mar
+65,Fresh And Updated Langchain Series- Understanding Langchain Ecosystem,2024-03-22,59357,2682,244,Mar
+66,Watch This Before You Quit!! Nothing Is Easy,2024-03-21,20336,945,53,Mar
+67,Deploy LLM App as API Using Langserve Langchain,2024-03-21,36907,1285,49,Mar
+68,Freshers Job Market- Getting Your First Job or Internship,2024-03-20,48738,1958,122,Mar
+69,"Race Of Best LLM Models Is On- Kaun Jeetega? Grok-1,Claude 3,Open AI",2024-03-19,11953,444,39,Mar
+70,"Langsmith LLMOPS Platform By Langchain-Debug ,Monitor And Build Production Grade LLM Application",2024-03-19,21788,758,31,Mar
+71,First AI Virus Is Here And It Targets Gen AI Powered Application,2024-03-18,26189,815,48,Mar
+72,It's Time To Learn And Adopt AI- Do it Before You Are Late,2024-03-17,41758,1592,99,Mar
+73,"Devin AI Capabilities,What Can First AI Software Engineer Do? Future Of Software Engineering",2024-03-15,11008,256,46,Mar
+74,Now You Also Have Chatgpt With A Humanoid Robot Body-OpenAI And Figure- Kaha Ja Raha Hai Future?,2024-03-14,21290,396,58,Mar
+75,First AI Software Engineer Devin By Cognition AI :(- Lag Gaye Bhai,2024-03-13,184937,3717,619,Mar
+76,Complete Data Science And GenAI Playlist for 2024 With Free Videos And Materials,2024-03-12,27939,1369,62,Mar
+77,End To End Multi Programming Code Assistant App Using CodeLlama LLAMA2 Large Language Model,2024-03-09,23293,678,57,Mar
+78,What Is Asked In Interviews For Data Science With Genertaive AI Roles?,2024-03-08,36697,1151,39,Mar
+79,What Is a Good Data Science Project For Jobs?,2024-03-05,41459,1379,49,Mar
+80,"Ollama-Run large language models Locally-Run Llama 2, Code Llama, and other models",2024-03-03,53802,1000,67,Mar
+81,The Era of 1-bit LLMs-All Large Language Models are in 1.58 Bits,2024-02-29,43035,810,67,Feb
+82,"Part 2-LoRA,QLoRA Indepth Mathematical Intuition- Finetuning LLM Models",2024-02-27,29568,708,30,Feb
+83,Data Science Projects For Resume,2024-02-26,40512,1602,57,Feb
+84,Meet Gemma: Google's New Open-source AI Model- Step By Step FineTuning With Google Gemma With LoRA,2024-02-23,36641,786,88,Feb
+85,Must Frameworks To Learn In Generative AI #langchain #llamaindex #chainlit #awsbedrock,2024-02-20,31607,748,45,Feb
+86,Simplify LLMOps & Build LLM Pipeline in Minutes,2024-02-17,27885,484,28,Feb
+87,"Part 1-Road To Learn Finetuning LLM With Custom Data-Quantization,LoRA,QLoRA Indepth Intuition",2024-02-15,64628,1134,53,Feb
+88,How AI Can Help You Improve Logic Building In Programming,2024-02-14,9151,351,23,Feb
+89,How Generative AI Will Change All Of Our Jobs In 2024,2024-02-13,12176,331,59,Feb
+90,Steps By Step Tutorial To Fine Tune LLAMA 2 With Custom Dataset Using LoRA And QLoRA Techniques,2024-02-11,115928,2572,130,Feb
+91,How Meta Is Changing the future of Generative AI,2024-02-11,7709,295,23,Feb
+92,80-20% Rule Of Learning Data Science Efficiently,2024-02-10,42077,1216,46,Feb
+93,How to Learn Financial Analysis in Python 10x Faster,2024-02-07,14242,201,18,Feb
+94,Self Motivation vs Derived Motivation,2024-02-07,4349,262,24,Feb
+95,Resume Discussion To Crack Data Science Jobs With GenAI Skills #generativeai #resumes,2024-02-06,24433,402,17,Feb
+96,Raw Morning Talk With Krish- Why Freshers Salaries are stagnant?,2024-02-06,6073,252,43,Feb
+97,End To End Advanced RAG App Using AWS Bedrock And Langchain,2024-02-05,33021,650,44,Feb
+98,Morning Talk With Krish- Will ML be replaced by Generative AI?,2024-02-05,21297,833,70,Feb
+99,Generative AI In AWS-AWS Bedrock Crash Course #awsbedrock #genai,2024-02-04,69488,1390,74,Feb
+100,Race for the Future of Generative AI,2024-02-04,14194,668,73,Feb
+101,End To End Youtube Video Transcribe Summarizer LLM App With Google Gemini Pro,2024-02-03,34600,804,49,Feb
+102,In this Mass Layoff Becoming Recession proof-Is it Possible??,2024-02-03,33433,989,72,Feb
+103,What Skillsets Takes You To Become a Pro Generative AI Engineer #genai,2024-02-02,49320,1453,60,Feb
+104,Mass Layoff In 2024- What the Hell Is Happening?,2024-02-01,98430,1840,362,Feb
+105,Earn With Open Source Contribution-Join the LlamaIndex Generative AI Challenge! #llamaindex #genai,2024-02-01,3901,160,8,Feb
+106,Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex,2024-01-31,65523,1699,137,Jan
+107,Should You Build Generative AI models from scratch? #openai #claude #awsbedrock #genai,2024-01-31,9123,232,7,Jan
+108,End to end RAG LLM App Using Llamaindex and OpenAI- Indexing and Querying Multiple pdf's,2024-01-29,87295,2131,159,Jan
+109,Announcing LlamaIndex Gen AI Playlist- Llamaindex Vs Langchain Framework,2024-01-29,48873,1835,60,Jan
+110,End to End Nutritionist Generative AI Doctor Using Google Gemini Pro Vision Large Image Models,2024-01-28,24975,592,60,Jan
+111,Chai AI $500M Company Generative AI Startup- Future Of AGI And Generative AI,2024-01-27,52299,1911,412,Jan
+112,A Python Package that makes Data Science 10x Faster,2024-01-25,54787,830,36,Jan
+113,Is Machine Learning Still Relevant in 2024?,2024-01-23,44783,1114,71,Jan
+114,Modified End To End Resume ATS Tracking LLM Project With Google Gemini Pro,2024-01-21,60764,703,130,Jan
+115,Not Getting Any Interview Calls?-Avoid These Mistakes #jobs #atsresume,2024-01-20,54462,2016,120,Jan
+116,"Different Ways Of Creating Python Environment In Data Science Projects- Conda,Virtualenv,Python",2024-01-19,52271,911,51,Jan
+117,End To End Resume Application Tracking System(ATS)  Using Google Gemini Pro Vision LIM Model,2024-01-17,53080,1344,132,Jan
+118,Episode 1- Discussing Usecase Generative AI Integrated Real World Products Ft: @iNeuroniNtelligence,2024-01-15,8943,185,18,Jan
+119,Why Dont Machine learning models have a secret 🤔 #genai #machinelearning,2024-01-15,68151,3321,51,Jan
+120,Roadmap to Become Data Analyst in 2024 #shorts #dataanalyst #datasciencecourse,2024-01-14,23848,1539,32,Jan
+121,End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro,2024-01-13,72176,1941,126,Jan
+122,Generative AI Google Gemini Pro Crash Course With End To End Projects,2024-01-12,48923,2033,95,Jan
+123,Mind Blowing Student Support System By @iNeuroniNtelligence,2024-01-10,7485,243,63,Jan
+124,Chat With Multiple PDF Documents With Langchain And Google Gemini Pro #genai #googlegemini,2024-01-09,92583,1964,281,Jan
+125,Perfect Roadmap To Learn Data Science With Free Videos #freedatasciencecourse #shorts  #python,2024-01-06,27186,2348,47,Jan
+126,Complete Roadmap To Become Data Analyst In 2024 With Videos And Materials,2024-01-05,77081,2454,89,Jan
+127,"Complete Langchain GEN AI Crash Course With 6 End To End LLM Projects With OPENAI,LLAMA2,Gemini Pro",2024-01-03,114614,4164,177,Jan
+128,How To Fine Tune  LLAMA2 LLM Models With Custom Data With Graident AI Cloud #generativeai #genai,2024-01-01,28887,727,47,Jan
+129,Live Q&A- Happy New Year 2024,2023-12-31,4436,207,27,Dec
+130,Roadmap to Learn Data Science & Industry Ready Projects In 2024 With Free Videos And Materials,2023-12-29,229336,6587,238,Dec
+131,Programming Languages With Evergreen Huge Growth Scope In 2024,2023-12-28,11659,320,31,Dec
+132,End To End Multi Language Invoice Extractor Project Using Google Gemini Pro Free LLM Model,2023-12-27,29884,1333,78,Dec
+133,Step By Steps Tutorial To Create Conversational Q&A Chatbot Using Gemini Pro Free API,2023-12-25,71005,1638,79,Dec
+134,Magic Of Generative AI And LLM Models Explained By AI,2023-12-24,8006,184,15,Dec
+135,"Why You Should Learn About Generative AI, LLM's Models In 2024?",2023-12-23,20402,1042,34,Dec
+136,Building End To End  LLM And Large Image Model Application Uing Gemini Pro Free Model-Google Is Pro,2023-12-22,48090,1363,100,Dec
+137,Google Gemini Pro LLM Model Free API Demo With Code- Is It Better Than OpenAI GPT's?,2023-12-20,111745,2316,98,Dec
+138,Different Text Summarization Techniques Using Langchain #generativeai,2023-12-19,45780,886,58,Dec
+139,Complete MLOPS Platform To Build LLMs Application In PostgresML-Bring ML code to your Database,2023-12-18,24090,392,18,Dec
+140,Power Of Open Source Contribution-50+ End To End Data Science Projects Contributed By You All,2023-12-17,26390,1059,38,Dec
+141,"Build a PDF Document Question Answering LLM System With Langchain,Cassandra,Astra DB,Vector Database",2023-12-14,63580,930,78,Dec
+142,End To End LLM Project Using LLAMA 2- Open Source LLM Model From Meta,2023-12-13,155224,5008,295,Dec
+143,Roadmap to Learn Generative AI(LLM's) In 2024 With Free Videos And Materials- Krish Naik,2023-12-12,225775,7478,128,Dec
+144,Can We Learn Generative AI Without Knowing Machine Learning And Deep Learning?,2023-12-10,36230,825,55,Dec
+145,Using AI To Train AI,2023-12-08,18187,549,63,Dec
+146,Google Is On Another Level- Check Out Gemini New AI Large Language Model(LLM)- Better Than GPT4,2023-12-07,74638,1196,67,Dec
+147,Spitting Out some of the Important facts about money nobody will talk about #startups,2023-12-06,14679,720,65,Dec
+148,End To End LLM Langchain Project using Pinecone Vector Database #genai,2023-12-05,66344,1215,142,Dec
+149,"Episode 1- AI News For This Week- ChatGPT 1 year,AGI, Q*,Stability AI,SDXL Turbo Text To Image Model",2023-12-04,9018,382,31,Dec
+150,What is Project Q* And Artificial General Intelligence(AGI),2023-12-02,18283,730,65,Dec
+151,Should you learn Data Science In 2024?,2023-11-30,46862,1021,81,Nov
+152,Complete NLP Machine Learning In One Shot,2023-11-27,169233,3449,178,Nov
+153,Open Source Contribution End to End Machine Learning Projects In 2024,2023-11-25,36073,955,39,Nov
+154,My New Home Office Set Up- Recording set up,2023-11-20,9322,411,102,Nov
+155,Reinforcement Learning In Progress @krishivnaikvlogs8998,2023-11-19,33467,997,0,Nov
+156,Future Of Data Science Project Development With OpenAI and Hugging Face API's,2023-11-17,18828,487,27,Nov
+157,I Created An AI Guide Custom GPT To Guide And Prepare for Data Science Interviews,2023-11-15,13997,260,24,Nov
+158,Pandas In Accelerated Mode-Use Pandas With GPU With Nvidia Rapids Cudf Library,2023-11-08,15548,345,25,Nov
+159,"Amazing OpenAI Products announcements- GPT4 Turbo, GPT DevStore, Legal Compliances- OpenAI Dev Day",2023-11-07,8899,257,17,Nov
+160,End To End LLM Conversational Q&A Chatbot With Deployment,2023-11-05,54926,756,34,Nov
+161,Learn LangChain In 1 Hour With End To End LLM Project With Deployment In Huggingface Spaces,2023-11-02,82991,1961,118,Nov
+162,Main factors of switching Companies- Why did i switch many companies?- Krish Naik,2023-11-01,8261,266,26,Nov
+163,Live AI Quiz- Giveaway 5000 INR- Happy Halloween,2023-10-31,4677,227,5,Oct
+164,Amazing Langchain Series With End To End Projects- Prerequisites To Start With,2023-10-27,115135,1865,69,Oct
+165,Many People Have Forgetten This!,2023-10-24,10279,583,39,Oct
+166,"Complete Data Science Resume Repository And Guide For ML engineers, Data analyst With 20+ Resumes",2023-10-20,38908,809,30,Oct
+167,Raw Conversation-What Does Machine Learning Engineer do?,2023-10-17,12076,442,44,Oct
+168,Live Q&A After Long Time- Krish Naik,2023-10-15,4750,299,17,Oct
+169,"Complete ML,DL,NLP And Computer Vision Project Guide With Free Videos And Materials",2023-10-12,55486,1790,78,Oct
+170,Complete Python Guide And 500+ Interview Questions And Solution With Usecases,2023-10-08,42420,1676,61,Oct
+171,"Complete End to End Deep Learning Project With MLFLOW,DVC And Deployment",2023-10-06,81644,1724,141,Oct
+172,3 Things To Improve To Crack Data Science Interview-Tips From Success Stories-Krish Naik,2023-10-05,15372,531,29,Oct
+173,MLOPS-Machine Learning Production Grade Deployment Technqiues With MLOPS In One Shot,2023-10-03,18084,600,16,Oct
+174,Mock Interviews For Data Science And Data Analyst,2023-10-02,16665,531,19,Oct
+175,Complete Statistics Guide With Usecases and Scenario Based Interview Questions With Solutions,2023-09-30,14965,518,26,Sep
+176,"Complete MySQL Guide-Interview Questions With Answers,Cheatsheet,Handwritten Notes Including Videos",2023-09-25,22027,596,36,Sep
+177,"Complete Data Science And Data Analytics Guide-Cheatsheet,Handwritten Notes Including Videos",2023-09-21,95541,2967,220,Sep
+178,Question Of The Decade? Is DSA Required For Data Science? #dsa #datascience,2023-09-18,39516,1147,75,Sep
+179,Benq Sent Me This Amazing Monitor For Coding|BenQ GW2790QT| Eye-Care Programming Monitor,2023-09-17,9861,125,23,Sep
+180,The Most Common Mistakes While Applying Data Science Jobs,2023-09-13,11917,512,53,Sep
+181,Do and Dont's Before Attending Data Science Interviews- Dont Make These Crucial Mistakes,2023-09-11,17248,762,48,Sep
+182,Is Linkedin The Best Platform For Applying Data Science Jobs #datascience,2023-09-08,47954,1836,12,Sep
+183,Importance of following process while learning data science #artificialintelligence #mlprojects,2023-09-07,15570,555,3,Sep
+184,From Faculty to Data Science Thrilling Journey #mlprojects,2023-09-06,10981,325,7,Sep
+185,This 8 minutes Story Will Change Your Life,2023-09-05,24979,1462,217,Sep
+186,Lets Celebrate-Launch of PSLV-C57/Aditya-L1 Mission,2023-09-02,4857,185,4,Sep
+187,Standout With Additional Skillsets In Data Science Interviews #ai #mlprojects #datascience #skills,2023-08-25,17533,774,2,Aug
+188,How To Apply For Data Science Jobs? #mlprojects #datascience #machinelearning,2023-08-24,20738,959,9,Aug
+189,48 Years Old Transition From Faculty To Data Science- Hear Our Kishor Sir Story @PWSkillsTech,2023-08-24,14415,311,32,Aug
+190,Essential Guide To Data Science Self Study #shorts  #ai #datascience #mlprojects #transition,2023-08-23,26151,1361,8,Aug
+191,Mastering Machine Learning Algorithms:The Secret Technique for Interview Success #ai #datascience,2023-08-22,13999,889,8,Aug
+192,Evidently AI Tutorial-Open Source ML Models Monitoring and Observability,2023-08-21,16891,489,35,Aug
+193,Is Transition From Mechanical Engineering To Data Science Possible? Shivam Transition Story Podcast,2023-08-18,16515,273,37,Aug
+194,BentoML Tutorial: Build Production Grade AI Applications,2023-08-16,16900,477,42,Aug
+195,Rohan Successful Transition-Freshers To MLOPS Lead With Equity @PWSkillsTech #datascience #ai,2023-08-14,10897,182,13,Aug
+196,Projjal Transition Story To Data Science With 380% Hike,2023-08-11,16988,360,35,Aug
+197,Tanisha Transition Story To Data Analytics Industry With 200% Hike,2023-08-03,30948,502,50,Aug
+198,Tavishi Transition Story To Data Science With 6 Offers And  170% Hike,2023-07-30,83073,1674,137,Jul
+199,End To End MLOPS Data Science Project Implementation With Deployment,2023-07-28,97025,1838,114,Jul
+200,Live- Discussing Recent Development In Generative AI,2023-07-21,7494,217,10,Jul
+201,Will AI Eat Your Job After ChatGPT And Code Interpreter- What You Should Do?,2023-07-17,15292,462,85,Jul
+202,The Power Of ChatGPT Plugins|Check This Powerful Demo,2023-07-15,7569,177,12,Jul
+203,The Future Of Coding-Code Interpreter With Chatgpt- Its Time To Make AI Your Friend,2023-07-11,36346,664,87,Jul
+204,What Will Change In Data Science Project Development After OPENAI And Hugging Face API,2023-07-10,20259,593,31,Jul
+205,Why You Should Learn Python In 2023 And Focus On Project Development?,2023-07-06,16925,455,28,Jul
+206,A Dedicated Playlist For End To End Data Science Projects Implementation With Deployment In 2023,2023-07-04,23382,678,41,Jul
+207,The Power Of Function Calling Ussing OpenAI API Tutorial #2,2023-07-03,17742,293,27,Jul
+208,OpenAI API With Python Tuorial 1-ChatCompletion API and Completion API,2023-06-30,61810,931,61,Jun
+209,End To End Machine Learning Project Implementation Using AWS Sagemaker,2023-06-24,163339,2663,110,Jun
+210,This Video Has Been Made By An AI With My Avatar- Future OF AI,2023-06-22,16530,516,52,Jun
+211,Learn How Python Data Classes Can Save Your Time In Projects,2023-06-21,18189,563,33,Jun
+212,Build Python LLM apps in minutes Using Chainlit ⚡️,2023-06-18,43482,847,34,Jun
+213,How OpenAI Will Change the Future- Sharing My Experience After Using It,2023-06-16,12271,372,35,Jun
+214,Learn How To Query Pdf using Langchain Open AI in 5 min,2023-06-16,102100,1605,121,Jun
+215,Prompt Engineering And LLM's With LangChain In One Shot-Generative AI,2023-06-15,66214,1013,49,Jun
+216,Getting Started With LangChain In 20 Minutes- Build Celebrity Search Application,2023-06-13,120582,2983,118,Jun
+217,An Important Advice-AI Is Advancing Just Start Learning AI Before Its Late,2023-06-11,31942,1233,111,Jun
+218,What Is Generative AI,2023-06-10,78228,2307,99,Jun
+219,Complete Anomaly Detection Tutorials Machine Learning And Its Types With Implementation | Krish Naik,2023-06-06,69817,1224,49,Jun
+220,End To End Deep Learning Project Using MLOPS DVC Pipeline With Deployments Azure And AWS- Krish Naik,2023-06-03,173536,2679,277,Jun
+221,Aws Activate for Startups! #shorts,2023-06-01,17188,972,6,Jun
+222,End To End NLP Project Implementation With Deployment Github Action- Text Summarization- Krish Naik,2023-05-28,198214,3129,223,May
+223,"Very Good News For Startups- AWS Activate A Program to Support Startups, Founders, & Entrepreneurs",2023-05-27,41442,212,12,May
+224,How Large Language Models (LLM) In Generative AI Are Trained ?,2023-05-26,51204,1193,35,May
+225,Is Google Bard Better Than ChatGPT? You Decide By Seeing These Major Differences,2023-05-24,12070,259,31,May
+226,All you Need To Know About Mojo Programming Language,2023-05-06,44852,987,71,May
+227,Can ChatGPT Take A Company Down?,2023-05-03,14041,250,33,May
+228,Late Night Talks- Live Q&A- Lets See Who Are Awake,2023-04-29,7362,383,7,Apr
+229,Live After A Long Time- Lets Talk About Updates On Data Science,2023-04-15,7032,290,13,Apr
+230,Tutorial 12- Step By Step Production Grade Machine Learning Projects Deployment Azure Web App MLOPS,2023-04-13,20816,286,25,Apr
+231,Tutorial 11- How To Deploy End To End ML Projects In Production AWS Cloud Using CI CD Pipeline,2023-04-09,44046,848,69,Apr
+232,Tutorial 10- Deployment Of ML Application In Azure Cloud Using Github Actions,2023-03-31,35321,1253,54,Mar
+233,Complete Dockers For Data Science Tutorial In One Shot,2023-03-29,124325,2810,90,Mar
+234,End To End Data Science Project Implementation In One Shot- Part 1,2023-03-26,123161,3127,154,Mar
+235,Judging India's Largest Hackathon @physicswallah,2023-03-20,36479,981,20,Mar
+236,Tutorial 9-End To End ML Project-Deployment In AWS Cloud Using CICD Pipelines,2023-03-18,60872,1150,164,Mar
+237,Tutorial 8-End To End ML Project-Create Prediction Pipeline Using Flask Web APP,2023-03-16,53784,936,116,Mar
+238,Tutorial 7-End To End ML Project-Model Hyperparameter Tuning,2023-03-14,34052,643,45,Mar
+239,Tutorial 6-End To End ML Project-Model Training And Model Evaluating Component,2023-03-13,39899,1198,87,Mar
+240,Tutorial 5-End To End ML Project-Data Transformation Implementation Using Pipelines,2023-03-11,50519,985,113,Mar
+241,Tutorial 4-End To End ML Project With Deployment- Data Ingestion Implementation Line By Line,2023-03-10,61714,1093,195,Mar
+242,"Tutorial 3-End To End ML Project With Deployment-Project Problem Statement,EDA And Model Training",2023-03-09,98068,2443,221,Mar
+243,"Tutorial 2- End To End ML Project With Deployment-Project Structure, Logging And Exception Handling",2023-03-07,107951,2512,124,Mar
+244,Inviting You To RAJASTHAN IT Online And Offline HACKATHON Powered By  @PhysicsWallah,2023-03-06,7370,182,50,Mar
+245,Tutorial 1- End To End ML Project With Deployment-Github And Code Set Up,2023-03-05,338000,5235,426,Mar
+246,Now you Can Crack Any ML Interviews- Announcing 7 Days End To End ML Project With Deployment,2023-03-04,528260,4337,136,Mar
+247,How ChatGPT Can Be Wrong About Me?,2023-02-27,8174,200,36,Feb
+248,When Your Kid Doesnt Want You To Work-Just For Fun with @krishivnaikvlogs8998,2023-02-24,29698,892,79,Feb
+249,Changes Is Inevitable And You Need To Change With Time,2023-02-24,12089,530,42,Feb
+250,"Watch This Video To Crack Any Stats Interview For Data Scientist- Understanding PDF,PMF and CDF",2023-02-23,65272,2024,42,Feb
+251,What Is Derivatives In  Calculus In Layman Terms?,2023-02-21,8953,307,11,Feb
+252,How Prakhar Cracked Multiple Job Offers In Data Science,2023-02-20,9699,281,26,Feb
+253,How Jaiyesh Cracked Data Science Job In Siemens From Petroleum Engineering @iNeuroniNtelligence,2023-02-16,6933,161,16,Feb
+254,Will Chatgpt Kill Your Creativity?,2023-02-15,6456,228,60,Feb
+255,Successful Data Science Career Transition Of Shiva To Cisco With High Package @iNeuroniNtelligence,2023-02-14,6255,161,23,Feb
+256,How Raghav Got 6 Offers In Data Science Coming From Non Technical Domain @iNeuroniNtelligence,2023-02-13,18458,584,32,Feb
+257,"Sucessful Transition Story From Mechanical Eng ,UPSC Aspirant To Data Analyst Apprentice At Google",2023-02-12,8623,227,12,Feb
+258,Can We Earn More From FreeLancing Than Full time Jobs? Steps To Start Your Free Lancing Career,2023-02-09,11623,357,24,Feb
+259,Google Chatbot Alternative To ChatGPT- Who Will Win?,2023-02-06,17073,393,26,Feb
+260,Machine Learning Playlist For Interviews #shorts,2023-02-05,31130,2227,23,Feb
+261,How To Build Ideas For Real World Data Science Projects For Interviews,2023-02-04,23251,821,36,Feb
+262,You Know Your Strength And You Are Unique #shorts,2023-02-03,13716,1231,18,Feb
+263,Patience And Practise Is The Key to Learn Anything,2023-02-01,33598,2611,17,Feb
+264,Will ChatGPT Take Our Jobs? #shorts,2023-01-31,19990,1053,14,Jan
+265,Reality Of Data Science Work- What We Learn Vs What We Work In Industries,2023-01-31,43618,1689,62,Jan
+266,AvgWord2vec Indepth Intuition And Practical Implementation,2023-01-29,13641,233,16,Jan
+267,Exponential Learning #shorts,2023-01-28,22903,1882,14,Jan
+268,Lets Talk And Chat!! Live Q&A,2023-01-27,7033,413,30,Jan
+269,Why Big Tech Companies Are Facing Massive Layoffs?,2023-01-26,35671,771,69,Jan
+270,"Word Embeddings, Word2Vec And CBOW Indepth Intuition And Working- Part 1 | NLP For Machine Learning",2023-01-25,30985,521,42,Jan
+271,Demo Of AI Powered Nvidia Broadcast Eye Contact,2023-01-24,11894,222,18,Jan
+272,My Thoughts On Recent Layoffs And Recession,2023-01-22,56741,1349,122,Jan
+273,Live From DUBAI,2023-01-20,10805,315,32,Jan
+274,These Robots Are Really Smart|Museum Of the Future|Dubai #shorts,2023-01-18,26146,1156,16,Jan
+275,PCA Indepth Geometric And Mathematical InDepth Intuition ML Algorithms,2023-01-18,94319,1961,89,Jan
+276,I Used Chatgpt To Create My Own Private Web Browser,2023-01-16,20971,486,41,Jan
+277,Data Collection Stratergy For Machine Learning Projects With API's- RapidAPI,2023-01-15,48333,1151,34,Jan
+278,Why To Choose Data Science As A Career In 2023?,2023-01-13,38626,1326,105,Jan
+279,Just Change Your Approach,2023-01-12,55448,3930,37,Jan
+280,The Ultimate 2023 Data Analyst Roadmap: From Zero to Hero|Krish Naik,2023-01-11,84405,2680,99,Jan
+281,Top 6 CI/CD Tools for MLOPS Engineers,2023-01-09,7638,247,20,Jan
+282,6 Months Data Science RoadMap 2023,2023-01-07,122587,3823,196,Jan
+283,Create Amazing Data Science Resume Using ChatGPT- Try It Out,2023-01-06,28214,768,42,Jan
+284,Amazing Data Science Content In 2023,2023-01-05,19809,753,77,Jan
+285,Amazing Things That ChatGPT Can Do!!,2022-12-28,17370,412,23,Dec
+286,Last Live Q&A Of 2022- Ask Me All your Queries,2022-12-27,7821,397,31,Dec
+287,One Thing You Need To Acquire To Learn Any Technology- Must Watch,2022-12-04,19105,867,64,Dec
+288,Live Q&A- Amazing Community Courses Announcement- Ask Me Anything,2022-11-25,6629,316,5,Nov
+289,Black Friday Sales 50% off On All Courses And Mobile App Announcement @iNeuroniNtelligence,2022-11-25,14198,152,51,Nov
+290,All Possible Ways To Apply Jobs In Data Science Industry,2022-11-17,36092,1278,54,Nov
+291,Companies That Are Hiring Aggressively For Data Science or Data Analytics Roles,2022-11-12,85577,2899,114,Nov
+292,Best MLOPS Architecture For Data Science Projects,2022-11-11,22061,543,30,Nov
+293,When Are We Launching iNeuron Mobile App- Both IOS And Android,2022-11-08,84198,268,60,Nov
+294,Is Recession Coming? What You Should Do?,2022-11-06,127703,2915,171,Nov
+295,Don't Panic While Learning Data Science😨😨😨😨,2022-11-04,48014,2115,109,Nov
+296,Now Developing Your Deep Learning Application Is Easy Using Neurolab,2022-11-03,9584,224,24,Nov
+297,I have Become A Recording Machine For Data Science 😎😎😎😎,2022-11-01,16288,704,97,Nov
+298,ML Project Implementation And Deployment Using NeuroLab @iNeuroniNtelligence,2022-10-31,10431,229,23,Oct
+299,The Best Course For Data Science Starters With Neuro Lab @iNeuroniNtelligence,2022-10-27,10806,215,51,Oct
+300,We Are Working Hard For The Virtual Lab @iNeuroniNtelligence Happy Diwali All,2022-10-24,16069,352,54,Oct
+301,Live Testing Of NeuroLab- Free Coding Platform For All,2022-10-22,18052,412,23,Oct
+302,Need All Your Help To Test NeuroLabs Coding Platform  Today At 6pm,2022-10-22,6066,243,41,Oct
+303,Scikit-Learn and Hugging Face Bhai Bhai👬👬,2022-10-20,9353,293,24,Oct
+304,The Best Course For Data Analyst,2022-10-19,16782,291,99,Oct
+305,We Have An Amazing Gift For Every Developers And Coders @iNeuroniNtelligence,2022-10-17,209151,4838,208,Oct
+306,Live Full Stack Data Analytics Bootcamp 2.0 Course For Data Analyst @iNeuroniNtelligence,2022-10-16,17879,324,140,Oct
+307,Power Of Internship For Your First Data Science Job- Transition Story Of Rohan,2022-10-15,19965,936,69,Oct
+308,RoadMap For 30 Days Data Science Interview Preparation With Materials @iNeuroniNtelligence,2022-10-14,55404,3619,119,Oct
+309,@GitHub Sent Me These Amazing Gifts As A Github Star 🌟,2022-10-13,8940,254,23,Oct
+310,Resume Discussion To Crack Data Science Jobs For Freshers- Just Follow The Process,2022-10-09,121678,3447,90,Oct
+311,Live Q&A-Data Science Jobs-Ask Anything Related To Data Science,2022-10-06,9831,290,22,Oct
+312,Navaratri Celebration In iNeuron😇😇,2022-10-04,19759,331,20,Oct
+313,New Research-How To Stay Updated In AI-Action And Text To Motion Models Using AI,2022-10-04,5588,168,6,Oct
+314,Do Not Miss This Opportunity From @iNeuroniNtelligence - Start Getting Skilled,2022-10-02,10543,176,53,Oct
+315,Amazing AI Use Cases-Google Cloud ML Increases On Time Flight Using Wind Forecasting,2022-09-30,11786,261,19,Sep
+316,Complete RoadMap To Learn AIOPS or MLOPS,2022-09-27,85839,2225,85,Sep
+317,This Is How We Teach In Ineuron: Introduction Session Industry Ready Projects,2022-09-25,25504,302,57,Sep
+318,Live Q&A-Ask Anything Related To Data Science,2022-09-22,10986,369,15,Sep
+319,Data Science Industry Ready Project Course Announcement For Everyone-24th September,2022-09-21,16209,467,80,Sep
+320,30 Days Live Data Science Interview Preparation Induction Session,2022-09-19,14731,484,20,Sep
+321,Detailed Interview Process To Crack FAANG Companies- Ft:@PriyaBhatia,2022-09-19,8083,253,14,Sep
+322,Roadmap To Crack Your First Data Science Job,2022-09-17,27834,1075,58,Sep
+323,Detailed Roadmap To Learn Data Stuctures And Algorithms Ft: @PriyaBhatia,2022-09-15,24071,750,45,Sep
+324,Data Science Jobs And Salary Are Booming!! Watch This Video To Know How?,2022-09-14,32665,1102,111,Sep
+325,How 5  Years Career Gap Student Made A Transition to Data Science- Ft: @iNeuroniNtelligence,2022-09-12,30430,997,144,Sep
+326,Live Q&A- Ask Anything Related Data Science,2022-09-11,10332,378,22,Sep
+327,Last Day To Avail 30% off On All Courses @iNeuroniNtelligence,2022-09-11,4290,75,42,Sep
+328,Why Statistics Is Super Important For Data Science? Must Watch,2022-09-08,16027,492,31,Sep
+329,Solving FAANG DSA Interview Questions With Its Implementation,2022-09-08,9230,182,11,Sep
+330,End To End Data Science Industry Ready Projects Course Announcement- Be Industry Ready⭐⭐⭐⭐,2022-09-07,16887,386,110,Sep
+331,Full Stack Data Science Bootcamp 2.0 With Job Guaranteed Course Announcement,2022-09-06,18924,386,115,Sep
+332,Messages From Our Students -Teachers Day@Telusko @mysirgdotcom @HiteshCodeLab @MahatmajiTechnical,2022-09-06,4512,126,9,Sep
+333,Neuro Lab Launch Celebration- Live 7PM,2022-09-05,8048,336,47,Sep
+334,Announcing NeuroLab- World's First Free Community Coding Platform Ft: @iNeuroniNtelligence,2022-09-05,128991,1035,116,Sep
+335,Complete RoadMap To Learn Computer Vision,2022-09-04,44225,1382,34,Sep
+336,Hyperparameter Tuning Using Machine Learning Pipelines,2022-09-03,17730,457,18,Sep
+337,Solve this Data Science Interview Question From Product Based Company,2022-09-02,9757,251,14,Sep
+338,"FAANG Interview DSA Series-Heap Sort,Binary Tree,Min Heap and Max Heap Tree AND Interview Questions",2022-09-02,7287,162,13,Sep
+339,Implementing Machine Learninng Pipelines USsing Sklearn And Python,2022-09-01,52690,1980,52,Sep
+340,"FAANG DSA Series-Discussing Sorting Algorithms-Selection, Bubble and Insertion Sort- Ft Priya Bhatia",2022-08-31,6328,135,10,Aug
+341,"End To End Machine Learning Project Implementation With Dockers,Github Actions And Deployment",2022-08-30,335229,7233,250,Aug
+342,How To Prepare And Overcome Fear In Maths For Data Science- Follow This Approach,2022-08-29,8714,294,16,Aug
+343,DSA-Discussing All Search Algorithms With Interview Based Questions- Ft: Priya Bhatia,2022-08-28,26612,471,16,Aug
+344,Trackersheet That Can Make You From Zero To HERO In Data Science,2022-08-27,19197,1054,37,Aug
+345,Cracking Data Science Interview Is Easy By This Approach!! Solve this Problem,2022-08-26,24916,829,32,Aug
+346,Just Watch!!,2022-08-25,8302,591,53,Aug
+347,Meet My Son Krishiv Naik @krishivnaikvlogs8998,2022-08-24,30573,1838,272,Aug
+348,Biral Video- Too Much Automation #shorts,2022-08-24,47620,1286,23,Aug
+349,Quick CheatSheet To Prepare For Statistics For Data Analyst And Data Scientist,2022-08-23,20535,1157,50,Aug
+350,How To Get 1cr Data Scientist Package?,2022-08-22,24394,1231,234,Aug
+351,Data Science Mock Interview iNeuron FSDS Batch With Feedbacks,2022-08-21,18781,473,18,Aug
+352,Use This Way Of Training Machine Learning Models For Efficiency,2022-08-20,72697,2750,76,Aug
+353,3 Months Updated RoadMap To Learn Machine Learning With Videos And Materials,2022-08-19,23977,921,43,Aug
+354,Day 11-Advance NLP Series-Bidirectional LSTM Intuition And Implementation Deep Learning|Krish Naik,2022-08-17,29665,819,59,Aug
+355,Huge Announcement-Access 250+ Recorded And Live Tech Courses For Lifetime-Limited Offer,2022-08-17,5785,160,53,Aug
+356,Visualizing High Dimension Data Using UMAP Is A Piece Of Cake Now,2022-08-16,28225,1006,30,Aug
+357,This Independence Day- Huge Announcement- Lifetime Offer  Tech Neuron,2022-08-15,10615,290,44,Aug
+358,Advance NLP Series Announcement- Happy 76th Independence Day,2022-08-15,13478,473,68,Aug
+359,DSA Series-Lets Become a Pro In Queues Data Structures,2022-08-14,4432,132,7,Aug
+360,DSA Series-Lets Become a Pro In Stacks Data Structures,2022-08-12,8321,220,29,Aug
+361,How I Easily Optimized My Blogging Website In Minutes With 10Web Booster,2022-08-11,3405,72,5,Aug
+362,Automate EDA And Python Coding Using Mito Library,2022-08-11,8820,331,17,Aug
+363,Let's Crack Any Data Structures And Algorithms Interviews- Amazing Announcement,2022-08-09,11990,521,42,Aug
+364,Can You Solve These Data Science Usecases?,2022-08-08,9387,354,51,Aug
+365,General Doubts And Queries Everybody Have Before Starting Data Science ML And AI,2022-08-02,8450,253,52,Aug
+366,History Of Machine Learning- Dicussing The Entire Timeline,2022-07-31,258737,625,37,Jul
+367,You Need Not Learn Everything In Data Science- Honest Talks,2022-07-30,17484,767,47,Jul
+368,Getting Started With Dockers- All Basics Command Covered In 1 Video,2022-07-30,11130,240,8,Jul
+369,Out Of Bag Evaluation(OOB) And OOB Score Or Error In Random Forest,2022-07-27,14152,345,15,Jul
+370,Part 3-Git And Github Series- Resolving Git Branch Merge Conflicts In Simple Steps With Commands,2022-07-26,9840,253,26,Jul
+371,How To Deploy Machine Learning Models Using Docker And Github Action In Heroku,2022-07-25,49228,1459,44,Jul
+372,"Part 2-Git And Github Series- Git Merge,Push, Checkout And Log With Commands",2022-07-24,13743,278,6,Jul
+373,"Part 1-Git And Github Series- Introduction, Installation Of Git And Understanding Basic Commands",2022-07-23,55792,882,30,Jul
+374,How To Apply Jobs From iNeuron Job Portal,2022-07-21,6512,181,31,Jul
+375,Announcing iNeuron Job Portal-Now Start Applying Jobs,2022-07-19,13789,507,68,Jul
+376,Day 10- LSTM Practical Implementation In NLP Application|Krish Naik,2022-07-18,29767,935,34,Jul
+377,Live Q&A Ask Anything,2022-07-17,5102,244,15,Jul
+378,Blockchain Hackathon 5.0 In Collaboration With Neo @iNeuroniNtelligence  @Telusko,2022-07-17,3328,66,11,Jul
+379,Live Q&A Ask Anything,2022-07-11,8865,351,34,Jul
+380,Can We Have Multiple Constructors In Python?,2022-07-10,11941,371,32,Jul
+381,Announcing Job Guaranteed Full Stack Javascript Web Developer @HiteshCodeLab |July 10th,2022-07-04,7487,132,31,Jul
+382,600k Subscriber Live Celebration,2022-07-03,7074,290,45,Jul
+383,Announcing Job Guaranteed Big Data Bootcamp @iNeuroniNtelligence @shashank_mishra,2022-07-02,14842,315,131,Jul
+384,Day 9-Word Embedding Layer And LSTM Practical Implementation In NLP Application|Krish Naik,2022-07-01,38733,1382,46,Jul
+385,Day 8-LSTM Recurrent Neural Network In Depth Intuition And NLP Application|Krish Naik,2022-06-29,35121,1043,31,Jun
+386,Biggest Announcement In Techneuron OTT Platform @iNeuroniNtelligence,2022-06-29,7824,243,75,Jun
+387,Day 7-BackPropogration In Recurrent Neural Network And NLP Application|Krish Naik,2022-06-28,30987,986,18,Jun
+388,Day 6-Recurrent Neural Network Indepth Intuition And NLP Application|Krish Naik,2022-06-27,53529,1472,33,Jun
+389,AI/ML Live Hackathon @iNeuron,2022-06-25,50095,942,36,Jun
+390,Pro Tips For Data Science Interviews- Part 1,2022-06-24,13083,570,24,Jun
+391,Day 5-Training Word2Vec From Scratch And AvgWord2vec Indepth Inutuition|Krish Naik,2022-06-22,49138,1140,43,Jun
+392,Hackathon 3.0 In Collaboration With Mu Sigma,2022-06-22,5123,160,25,Jun
+393,"Live Day 4-Word Embedding, CBOW And Skipgram Word2vec NLP And Quiz-5000Inr Give Away",2022-06-20,74544,1613,45,Jun
+394,Complete Statistics For Data Science In 6 hours By Krish Naik,2022-06-19,1004593,20524,564,Jun
+395,Live Full Stack Data Analytics With Job Assistance Batch Live Induction,2022-06-18,9279,231,15,Jun
+396,Live Day 3- TF-IDF With Practical Application NLP And Quiz-5000Inr Give Away,2022-06-17,59723,1806,55,Jun
+397,Upcoming Affordable Tech Courses From @iNeuroniNtelligence,2022-06-16,7443,216,99,Jun
+398,"Live Day 2- Bag Of Words, TF-IDF, Word2Vec NLP And Quiz-5000Inr Give Away",2022-06-15,100867,2498,72,Jun
+399,Hackathon In Collaboration With Jetbrains,2022-06-15,7090,141,16,Jun
+400,Live Day 1- Introduction And Roadmap To Natural Language Processing And Quiz-5000Inr Give Away,2022-06-14,160810,5310,85,Jun
+401,Prerequisites For NLP Live Community Session For ML And DL,2022-06-13,42922,988,26,Jun
+402,Github Hackathon Ending Moments,2022-06-12,6538,221,8,Jun
+403,Hackathon Live At iNeuron,2022-06-11,10380,366,7,Jun
+404,Announcing NLP Live community Sessions,2022-06-10,126168,1313,69,Jun
+405,Podcast With Shishir Chandra On System Design at MAANG,2022-06-08,4438,97,10,Jun
+406,How To Be Consistent While Learning  Data Science?,2022-06-06,15900,806,33,Jun
+407,Importance Of Cybersecurity For Data Scientist,2022-06-05,20431,648,35,Jun
+408,Complete Exploratory Data Analysis And Feature Engineering In 3 Hours| Krish Naik,2022-06-04,194332,4719,117,Jun
+409,Automate Financial Data Analysis Using Mito,2022-06-03,5798,207,29,Jun
+410,Life At IIt's| AI @ IIT Hyderabad| Podcast With Priya Bhatia,2022-06-02,14373,346,26,Jun
+411,"Announcing Data Science, ML,DL,AI Videos In Hindi @krishnaikhindi",2022-06-01,8632,380,34,Jun
+412,@iNeuroniNtelligence First Offline 24 hrs Hackathon With Github Community Partner,2022-05-31,7629,210,25,May
+413,Big Data Engineering RoadMap And FAANG Interview Process,2022-05-30,34750,1107,53,May
+414,Live Data Science Quiz With @Telusko,2022-05-29,11846,370,29,May
+415,Complete Machine Learning In 6 Hours| Krish Naik,2022-05-28,920612,16730,403,May
+416,Why the Journey Matters More Than Your Goal|Motivation,2022-05-26,6468,398,28,May
+417,Surprise Conversation With FSDS Batch Student|Sucessful Career Transition|Episode 2,2022-05-25,4036,141,17,May
+418,Podcast With Subham To Understand The Data Science Interview Process In FAANG,2022-05-23,93883,1090,46,May
+419,Deep Learning Indepth Tutorials In 5 Hours With Krish Naik,2022-05-22,331607,7470,384,May
+420,Elasticnet Regression Machine Learning Algorithm Explained In Depth,2022-05-21,12714,262,7,May
+421,Amazon Data Science Hiring Process- Part 2,2022-05-20,16732,458,52,May
+422,Suprise Call With iNeuron FSDS Students For Live Review-Episode 1,2022-05-18,11424,347,39,May
+423,"Finally Got The Github Codespace Access- Deploy, Debug and Test Your App In Cloud In Seconds",2022-05-17,8789,525,21,May
+424,Reinforcement Learning Live Example With My Baby 👶👶👶,2022-05-17,101231,2581,83,May
+425,6 Months Live Data Analytics Bootcamp With Placement Assistance,2022-05-16,36753,923,263,May
+426,Google I/O 2022 Announcements For AI/ML Developer Community|Must Watch Video,2022-05-15,13622,511,19,May
+427,How To Crack Data Science Interviews In Amazon| Discussing The Entire Process,2022-05-13,48897,1430,61,May
+428,Day 5-Understanding CNN &Impementation| Live Deep Learning Community Session,2022-05-12,69757,1788,84,May
+429,Best Practises Of Data Science Resume Making,2022-05-11,9616,370,35,May
+430,iNeuron 2nd Courseathon Announcement- May 9th-June 9th,2022-05-09,6637,190,24,May
+431,Episode 1- Code Cash Show- Initiative To Give Back The Community,2022-05-07,6661,237,64,May
+432,Day 4-Practical ANN Impementation| Live Deep Learning Community Session,2022-05-05,52719,1657,119,May
+433,Pyscript|Run Python In Your HTML,2022-05-05,70161,1076,54,May
+434,Day 3- Optimizers And ANN Implementation| Live Deep Learning Community Session,2022-05-04,44328,1787,85,May
+435,"Day 2-Forward Propogation, Loss Functions, Chain Rule Of Derivatives|Deep Learning Live",2022-05-03,68239,2364,132,May
+436,Day 2- Live Deep Learning Community Sessions Announcement,2022-05-03,3648,92,7,May
+437,Day 1- Live  Deep Learning Community Session,2022-05-02,86764,3623,106,May
+438,5 Days Live Deep Learning Community Session Announcement,2022-04-30,82745,1175,62,Apr
+439,3 Reasons Why Elon Musk Bought Twitter,2022-04-28,9595,329,23,Apr
+440,Importance Of POC Projects For Data Science Transition,2022-04-27,16795,576,46,Apr
+441,Monte Carlo DropOut Layers In  Deep Learning,2022-04-22,10110,233,23,Apr
+442,Machine Learning Projects CheckList,2022-04-21,16796,577,29,Apr
+443,Solve This Statistics Interview Question If You Can,2022-04-18,10218,366,84,Apr
+444,Look At the Brighter Side- Motivational Story To Keep You Focussed,2022-04-15,10453,569,51,Apr
+445,iNeuron And LCO Merger- Gifts Give Away,2022-04-14,14432,437,44,Apr
+446,What Is FOMO? Use It As A Weapon,2022-04-11,11023,462,29,Apr
+447,Openai DALL.E 2 AI System- Lets Recreate Your Imagination,2022-04-10,10837,248,18,Apr
+448,Live Q&A-Ask Anything Related To Data Science,2022-04-09,7400,346,10,Apr
+449,Mindset For Learning Data Science,2022-04-08,22753,978,68,Apr
+450,Are Software Engineering Jobs Roles More Than Data Science/AI?,2022-04-06,13288,357,36,Apr
+451,7 Most In Demand Tech Skills to Learn in 2022,2022-04-04,23039,669,51,Apr
+452,Brief Introduction To Knowledge Graph In NLP,2022-04-02,27403,474,31,Apr
+453,Live Q&A- Ask Anything Related Data Science,2022-03-31,8603,449,19,Mar
+454,Data Science Is A Process And Not Just Model Buidling,2022-03-30,8950,379,30,Mar
+455,Sharing My Experience As A TEDx Speaker,2022-03-28,3192,145,20,Mar
+456,Steps To Define Key Performance Indicators(KPI's) for Data Analyst,2022-03-24,22987,643,15,Mar
+457,Now You Can Earn From @iNeuroniNtelligence,2022-03-23,12167,362,24,Mar
+458,4 Evergreen Job Profiles In IT Companies- Part 1,2022-03-23,65289,772,64,Mar
+459,3D Prinitng Demo To Create Drone Components🔥🔥🔥🔥🔥,2022-03-21,10366,286,18,Mar
+460,Automated Python Generation from the Mito Spreadsheet,2022-03-19,11814,240,13,Mar
+461,iNeuron Meet Up With @HiteshCodeLab  27th March 2022,2022-03-17,5470,129,10,Mar
+462,Motivational Stories From iNeuron Meet Up,2022-03-14,6498,214,19,Mar
+463,Live Podcast On Blockchain With @Telusko,2022-03-12,6682,314,14,Mar
+464,"Perform Easy EDA, Feature engineering and Find KPI's With PowerBI",2022-03-10,17764,506,57,Mar
+465,PowerBI Vs Tableau| Which One Should You Use,2022-03-09,41749,984,98,Mar
+466,Meet Me And iNeuron Team This Sunday(13th  March),2022-03-08,3465,97,24,Mar
+467,Time Series Vs Non Time Series Problems- Why Time Series Forecasting Is Difficult?,2022-03-04,50002,1061,31,Mar
+468,OneNeuron Lifetime Time Access Offer Is Extended till March 31st 2022,2022-03-02,6844,163,28,Mar
+469,"Live Day 3- ARIMA,SARIMAX, Fbprophet Session",2022-02-27,71589,1557,68,Feb
+470,"Live Day 2- TimeSeries,ETS,EWMA,ARIMA,SARIMAX, Fbprophet Session",2022-02-26,81522,1739,48,Feb
+471,Live Day 1- Exploratory Data Analysis And Stock Analysis With Time series Data,2022-02-25,150929,4330,146,Feb
+472,Announcing Time Series Live Session With Syllabus And Prerequisites,2022-02-24,37189,853,68,Feb
+473,Big Announcements !! Live With @HiteshCodeLab,2022-02-23,15739,560,21,Feb
+474,My Updated Recording Gears For Video Content Creation,2022-02-22,4639,103,15,Feb
+475,Differences Between Microcontroller And Microprocessor-Nvidia Jetson Nano- Ft: Sunny,2022-02-22,3458,87,7,Feb
+476,Live Day 4-Live Session On Automated Exploratory Data Analysis,2022-02-21,41515,1358,36,Feb
+477,Announcements And Upcoming Live Sessions- Must Watch,2022-02-21,9352,354,54,Feb
+478,Happy Birthday Python Programming Language🥳🥳🥳🥳,2022-02-20,19668,1030,20,Feb
+479,Live Day 3-Live Session On EDA And Feature Engineering- Flight Price Prediction Dataset,2022-02-19,59856,1805,84,Feb
+480,Live Day 2-Live Session On EDA And Feature Engineering- Black Friday Dataset,2022-02-18,91594,3342,141,Feb
+481,Live Day 1-Live Session On EDA And Feature Engineering- Zomato Dataset,2022-02-17,214989,6523,194,Feb
+482,Prerequisites To Attend The Live Session On EDA And Feature Engineering,2022-02-16,67552,1486,56,Feb
+483,Announcing Next Community Session 7 Days Live Session From 17th Feb,2022-02-14,10473,644,81,Feb
+484,These 2 sentences Can Change Your Life #shorts,2022-02-12,50429,2962,65,Feb
+485,Jack Of All Trades Is Not An Insult #shorts,2022-02-11,41252,2831,70,Feb
+486,Best Laptops For Data Science In 2022 With Geforce RTX GPU's,2022-02-11,87061,1050,128,Feb
+487,Interview 1-MySQL Interview Question With Solutions- Solving Queries- Part 2,2022-02-10,30084,613,33,Feb
+488,Announcing Kids Tech Oneneuron Platform- Now Kids Can Learn Amazing Tech,2022-02-09,3080,64,24,Feb
+489,Announcing Live Classes And Course-A-Thon In One Neuron Platform,2022-02-09,7176,240,57,Feb
+490,Interview 1-MySQL Interview Question With Solutions- Part 1,2022-02-09,35849,785,23,Feb
+491,"Live Day 7-Discussing SVM,SVR And Xgboost MAchine Learning Algorithms",2022-02-08,64493,2123,53,Feb
+492,Definition Of Bias And Variance In Machine Learning- Interview Question,2022-02-08,22989,502,34,Feb
+493,"Live Day 6- Discussing KMeans,Hierarchical And DBScan Clustering Algorithms",2022-02-07,130005,3351,87,Feb
+494,You Are The One!!,2022-02-06,31121,2772,44,Feb
+495,"Live Day 5- Discussing Adaboost,Random forest, Xgboost  Machine Learning Algorithms",2022-02-05,100113,3637,66,Feb
+496,Live Day 4- Discussing Decision Tree And Ensemble Machine Learning Algorithms,2022-02-04,138845,4375,105,Feb
+497,Live Day 3- Discussing KNN And Naive Baye's Machine Learning Algorithms,2022-02-03,135743,4376,148,Feb
+498,"Live Day 2- Discussing Ridge, Lasso And Logistic Regression Machine Learning Algorithms",2022-02-02,175595,5523,125,Feb
+499,Live Day 1- Introduction To Machine Learning Algorithms For Data Science,2022-02-01,563291,12413,273,Feb
+500,Announcing 7 Days Live Sessions On Machine Learning Algorithms(Feb 1- Feb7th),2022-01-31,127140,2327,148,Jan
+501,Earth In 2050,2022-01-30,13650,335,36,Jan
+502,How To Calculate P Value In Hypothesis Testing,2022-01-30,15942,423,28,Jan
+503,Live Day 7- Summarizing Statistics With Python In Data Science,2022-01-29,72481,2959,172,Jan
+504,Tutorial 9- MYSQL Stored Procedures -MySQL Complete Playlist,2022-01-29,109772,1752,53,Jan
+505,Live Day 6- Advance Statistics With Python In Data Science,2022-01-28,96486,3231,110,Jan
+506,Live Day 5- Advance Statistics With Python In Data Science,2022-01-27,123677,3930,107,Jan
+507,Tutorial 8- Discussing All Types Of Joins -MySQL Complete Playlist,2022-01-27,26795,557,28,Jan
+508,Live Day 4- Advance Statistics With Python In Data Science,2022-01-26,163861,4971,140,Jan
+509,Vision Of OneNeuron Platform- How We Are Solving All Your Problems?,2022-01-25,8745,321,98,Jan
+510,Live Day 3- Intermediate Statistics With Python In Data Science,2022-01-24,181944,6378,131,Jan
+511,Finish Work Faster with Acer Nitro 5 equipped with NVIDIA GeForce RTX 3060,2022-01-23,107149,1034,108,Jan
+512,Live Day 2- Basic To Intermediate Statistics,2022-01-23,200827,8672,215,Jan
+513,Important Components In A Drone,2022-01-23,21673,495,23,Jan
+514,Live Day 1- Introduction To statistics In Data Science,2022-01-22,626706,16228,391,Jan
+515,Live Stats For Data ScienceCommunity Sessions Announcement - 7 days Session,2022-01-21,13581,749,23,Jan
+516,I Searched Myself In Google And Youtube And The Suggestions Is 😍😍😍😍,2022-01-21,8546,264,23,Jan
+517,Decrypting Web 3.0,2022-01-21,7299,279,15,Jan
+518,Tutorial 7- Interview Preparation MySql Views-MySQL Complete Playlist,2022-01-20,25917,516,34,Jan
+519,We Use Stats Everywhere!!,2022-01-20,9355,204,9,Jan
+520,Smartphone Controlled RC Car Using Arduino #shorts,2022-01-19,6000,110,16,Jan
+521,iNeuron New Office Tour 2022,2022-01-19,42114,1626,93,Jan
+522,Tutorial 6- Indexing In MySQL-MySQL Complete Playlist,2022-01-18,38294,534,17,Jan
+523,"Tutorial 5- Primary Key, Foreign Key, Check And Default Constraints-MySQL Complete Playlist",2022-01-17,32651,548,30,Jan
+524,"Raspberry Pi Installation, Set Up And Object Detection Application- AI In Hardwares",2022-01-17,49945,648,39,Jan
+525,Tutorial 4- SQL Constraints Part1 - My SQL Complete Playlist,2022-01-16,38676,618,28,Jan
+526,Designing Drones For Programming,2022-01-16,36195,1128,23,Jan
+527,AI In Hardware,2022-01-16,231622,1143,47,Jan
+528,My 5 Developer And Entrepreneur Goals In 2022,2022-01-15,5138,180,36,Jan
+529,Live Q&A Upcoming Courses In OneNeuron- Ask Anything,2022-01-14,9582,445,55,Jan
+530,Road From 0-500K Subscribers-Special Video,2022-01-14,3029,168,37,Jan
+531,"Covariance,Pearson Correlation And Spearman Correlation Coefficient With Real World Examples",2022-01-13,21179,457,33,Jan
+532,All The Job Offers That I Had In My Career,2022-01-13,18414,615,54,Jan
+533,"Tutorial 3-MYSQL NULL Values, UPDATE,DELETE,ALTER Query-Complete MySQL Tutorial",2022-01-12,46151,949,48,Jan
+534,Complete Roadmap For Becoming A Blockchain Developer In 2022,2022-01-11,448019,2121,86,Jan
+535,Tutorial 2-Create and Drop Database and Table-Complete MySQL Tutorial-,2022-01-10,79576,1606,97,Jan
+536,Experience Metaverse With These Platforms- What Is Metaverse?-Blockchain,2022-01-09,8873,272,39,Jan
+537,What Recruiters Are Looking From Freshers And College Students For Jobs?,2022-01-08,13888,661,36,Jan
+538,Updated Skills For Data Science Based On Experience In 2022,2022-01-07,36194,1417,53,Jan
+539,RoadMap With Minimal Skills To Become Data Analyst In 2022,2022-01-06,422142,7745,791,Jan
+540,@GitHub Sent Me This Gift- Github Star Awards⭐⭐⭐⭐,2022-01-05,10676,419,52,Jan
+541,Learning Data Science In 2022- Step By Step Plan,2022-01-04,453241,6957,207,Jan
+542,Technology That Can Create An Impact In 2022,2022-01-02,16933,593,69,Jan
+543,My YouTube Channel 2021 Rewind,2021-12-31,6982,239,16,Dec
+544,Learn How to Set Up Goals Like A Pro In 2022,2021-12-30,9500,470,23,Dec
+545,How Much Did I Earn From YouTube In 2021,2021-12-29,28354,1275,136,Dec
+546,Why Everybody Should Code In 2022,2021-12-28,13157,603,54,Dec
+547,Planning To Change My Profession- From Data Scientist to Tik Tok Star #shorts,2021-12-23,61434,1636,231,Dec
+548,iNeuron Projectathon 2021 Winner Announcement- Prize Money 2 Lakhs Rs INR,2021-12-23,9605,211,19,Dec
+549,What Is Smart Contract In Ethereum Blockchain?,2021-12-22,11835,292,18,Dec
+550,What is Web 3.0?,2021-12-21,24513,729,38,Dec
+551,What Is NFT In Blockchain?,2021-12-20,14310,378,29,Dec
+552,Live Q&A One Neuron Platform- Ask Anything,2021-12-19,9184,510,56,Dec
+553,Does OneNeuron Include Full Stack Data Scientist Course?,2021-12-19,32149,767,126,Dec
+554,My Speech-OneNeuron OTT Platform Launch,2021-12-18,22107,580,57,Dec
+555,Roles And Responsibilities Of Devops Engineer- Highest Paid Salary,2021-12-17,17238,431,39,Dec
+556,Lifetime Subscription Offer Of OneNeuron Platform Till Jan-15-2022,2021-12-15,32568,1105,255,Dec
+557,LIVE One Neuron OTT Platform Launch Event,2021-12-11,18470,503,18,Dec
+558,OTT Platform For Education OneNeuron- Education As A Service,2021-12-11,737347,985,111,Dec
+559,Roles And Responsibilities Of An AI Engineer,2021-12-07,24394,773,41,Dec
+560,Tutorial on Automated Machine Learning using MLBox,2021-12-05,21720,592,21,Dec
+561,Companies That Has Regular Job Openings For Data Science,2021-12-03,29545,1205,65,Dec
+562,Face Matching Application Using Deep Learning End to End Implementation,2021-12-02,26410,871,36,Dec
+563,3 Ways To Efficiently Increase Your Salary In Data Science Job Switch,2021-12-01,10869,463,31,Dec
+564,iNeuron Full Stack Data Science Course With Job Guarantee,2021-11-25,24462,496,159,Nov
+565,The Best Book For Learning & Get Your Basics Strong In Data Science,2021-11-23,57263,1693,135,Nov
+566,This Is The Perfect Resume For Data Science Role,2021-11-21,99652,2296,75,Nov
+567,Skills Based On Experience For Data Science Roles,2021-11-20,20760,596,27,Nov
+568,Day 3- Final Results Announcement- KIET Hackathon,2021-11-19,8542,222,24,Nov
+569,Day 2- 24 Hours Hackathon Competition Vlog At KIET,2021-11-18,9650,265,13,Nov
+570,Day 1-AI and Machine Learning Hackathon Workshop For KIET,2021-11-16,18873,513,29,Nov
+571,Trailer- Ineuron First College 24 hours Hackathon 2021 At KIET Kakinada,2021-11-15,15043,464,26,Nov
+572,Is This An Efficient Way To Handle 90 Days Notice Period?,2021-11-08,12944,351,49,Nov
+573,Sunday Live Resume Review Session,2021-11-07,8522,428,11,Nov
+574,Live Resume Reviews Session Announcent,2021-11-07,10455,425,7,Nov
+575,Create Your Custom Dataset Using Faker Library,2021-11-07,18262,350,13,Nov
+576,INEURON DIWALI CELEBRATION VIDEO,2021-11-06,17041,535,43,Nov
+577,Suggest Me Some Ideas Give Aways,2021-11-04,3042,141,61,Nov
+578,Python – Different Ways To Import Module From Different Directory,2021-11-03,79121,1010,60,Nov
+579,"Tutorial 3- What is Blockchain Technology, and How Does It Work?",2021-11-02,6210,202,30,Nov
+580,Last Moment Interview Preparation In Data Science,2021-11-02,8233,408,11,Nov
+581,Why Sample Variance is Divided by n-1,2021-11-01,50514,1503,86,Nov
+582,Reasons Why Your Resume May Not Get Selected?,2021-11-01,34065,903,28,Nov
+583,Benefits And Perks Of Working As A Data Scientist,2021-10-31,14064,430,42,Oct
+584,Story Of Bappy- Successful Career Transition From Fresher To Freelancing Data Scientist,2021-10-28,9558,250,15,Oct
+585,About Demystify AI and OpenVINO™ Toolkit,2021-10-27,3207,80,4,Oct
+586,Checking My Data Science Resume Score?,2021-10-26,28453,390,31,Oct
+587,Intel AI Global Impact Festival,2021-10-25,6474,224,11,Oct
+588,Learn From These Experienced Data Scientist Resumes,2021-10-24,64153,805,25,Oct
+589,Better Salary Or Better Work? Which One Would You Prefer AS Fresher Or Experienced?,2021-10-23,5279,243,46,Oct
+590,Few Important Pointers For Preparing Fresher Data Science Resumes,2021-10-22,81292,1499,60,Oct
+591,iNeuron Projectathon 2021- Win Amazing Cash Rewards💰💰💰💰,2021-10-21,7851,372,32,Oct
+592,What Can You Learn From Internships?🤩🤩🤩🤩,2021-10-21,9926,475,33,Oct
+593,What We Can Learn From These Resumes For Data Science?,2021-10-20,16071,326,12,Oct
+594,How to Install Ubuntu in Windows 10 with WSL2-Windows Subsystem for Linux,2021-10-19,7997,108,11,Oct
+595,Complete Implementation Of Perceptron In Deep Learning Using Python From Scratch,2021-10-19,9087,146,6,Oct
+596,Implementation Of Perceptron In Deep Learning Using Python From Scratch- Part 1- Ft: Sunny,2021-10-18,11416,227,9,Oct
+597,Automated Python Code Generation with Mito,2021-10-17,8802,303,23,Oct
+598,Complete Feature Engineering And EDA In Data Science in 31 Videos,2021-10-17,6819,281,14,Oct
+599,Freshers Vs Experience Resume Review For Data Science Role,2021-10-16,19707,465,19,Oct
+600,Tutorial 2- Revolutionary Applications Of Blockchain Technology,2021-10-15,12483,333,26,Oct
+601,Meet iNeuron Team,2021-10-14,57997,1760,110,Oct
+602,How Vishwa Made A Successful Career From A Fresher To Data Science,2021-10-13,13000,323,25,Oct
+603,Tutorial 1- What Is Blockchain?,2021-10-12,26217,891,61,Oct
+604,Reviewing Mechanical Engineer Resume For Data Science Role,2021-10-11,33365,698,22,Oct
+605,Remote Work Vs Working From Office- Which Is Good For Longer Run?,2021-10-11,4691,175,46,Oct
+606,Why Companies Hire Less Data Scientist In College Placements? For 2nd Tier And 3rd Tier,2021-10-10,13984,389,40,Oct
+607,Live Q&A- Ask Anything Related Data Science,2021-10-09,7526,412,29,Oct
+608,What’s New In Python 3.10? Discussing All The New Features,2021-10-08,11952,353,22,Oct
+609,What Role Should You Select In Analytics Industry? Common Q&A,2021-10-07,6418,224,24,Oct
+610,How To Install Ubuntu Linux In Windows- ft: Paul iNeuron,2021-10-04,15329,141,19,Oct
+611,Perform Easy EDA And Generate Python Using Mito,2021-10-03,6036,218,27,Oct
+612,"20+Jobs Opening In Ineuron For Data Scientist,Data Analyst,Cloud Engineer For Freshers- Just Apply",2021-10-03,19932,654,67,Oct
+613,FLAML - Fast and Lightweight AutoML Library By Microsoft,2021-10-01,12559,439,14,Oct
+614,iNeuron New Office Vlog In Bangalore,2021-09-28,30468,1192,92,Sep
+615,Mito Turns Your Data Visualizations into Code,2021-09-27,5944,186,14,Sep
+616,Time Series Forecasting Made Easy Using Dart Library - Perform Multivariate Forecasting In No Time,2021-09-25,55421,1460,92,Sep
+617,Important Points To Remember While Discussing CTC And Inhand Salary In Industry,2021-09-19,17579,606,42,Sep
+618,Appraisal Vs Resignation- Special Video For Everyone,2021-09-17,14992,579,57,Sep
+619,Reviewing A Fresher And Experienced Resume For Data Science Role,2021-09-14,34134,656,34,Sep
+620,Part 5- Create Image classification Using Google ML Kit in an Android app,2021-09-11,10639,138,13,Sep
+621,Problem With Companies On Dealing With Notice Period,2021-09-10,7317,290,29,Sep
+622,Part 4- Developing UI To Select User image and displaying it in an Android app,2021-09-10,4417,55,6,Sep
+623,Why Many People Are Obsessed With FAANG?,2021-09-09,13431,565,39,Sep
+624,Common Mistakes While Preparing Data Science Resumes,2021-09-08,11058,348,21,Sep
+625,Part 3- Handling Storage permissions in Android app- Building ML usecases using Tensorflow lite,2021-09-08,3432,64,5,Sep
+626,Suggest More Services That We Should Provide In iNeuron Affordable Courses,2021-09-07,5844,251,121,Sep
+627,Part 2- Creating and Running a Hello World app in Android Studio,2021-09-07,7946,122,8,Sep
+628,The Smallest Data Science Resume- Feedback On Resumes,2021-09-06,24617,542,43,Sep
+629,Part 1- Building 7 Usecases of ML on Android App Using Tensorflow Lite- Introduction & Installation,2021-09-06,12459,235,12,Sep
+630,Happy Teacher's Day Everyone,2021-09-05,2051,197,69,Sep
+631,How To Write Data Science Project Description In Resumes,2021-09-04,25236,742,30,Sep
+632,What is Cloud Computing In Layman Terms,2021-09-03,10197,308,34,Sep
+633,How Would I Learn Data Science If I Want To Start Over?,2021-09-02,32389,1631,72,Sep
+634,Btech Degree In Data Science  In Collaboration With KIET Group Of Institution And iNeuron,2021-09-02,5830,220,17,Sep
+635,Reviewing Resume For Data Science Role For Freshers- Part 2,2021-09-01,31688,696,37,Sep
+636,India Academia Connect AI Hackathon By Nvidia And Its Partners,2021-08-31,5946,299,39,Aug
+637,Automating Data Cleaning and Data Analysis with Mito,2021-08-31,14587,491,24,Aug
+638,Prerequisites To Apply For Data Scientist And Data Analyst Role Internship In iNeuron,2021-08-30,23682,913,45,Aug
+639,Step By Step Process In EDA And Feature Engineering In Data Science Projects,2021-08-29,141479,4428,78,Aug
+640,Reviewing Resume For Data Science Role- Part 1,2021-08-28,72923,1379,67,Aug
+641,Gartner Hype Cycle Of Emerging Technologies 2021 Is Out,2021-08-27,16967,315,16,Aug
+642,Work Is More Important Than Role- Focus More On The Work⭐⭐⭐⭐,2021-08-25,6244,323,27,Aug
+643,Affordable Machine Learning And Advance Deep Learning  Course From iNeuron,2021-08-23,15243,436,124,Aug
+644,"Clean, Analyze, Visualize And Perform EDA With Klib Library In No Time ️‍🔥️‍🔥️‍🔥️‍🔥",2021-08-22,38503,1499,49,Aug
+645,300+ Solved Interview Questions And Answer For Big Data Engineering️‍🔥️‍🔥️‍🔥️‍🔥,2021-08-21,16663,459,42,Aug
+646,Reality Of Job Description😂😂😂😂,2021-08-19,11214,726,96,Aug
+647,Build Your Resume In No Time Using This Online Tool,2021-08-19,33722,993,56,Aug
+648,Mistakes To Avoid While Applying Data Science Jobs? Know How To Fine Tune Your Resume,2021-08-18,9240,458,40,Aug
+649,If You Are Losing Motivation While Learning Data Science- Hear This Story Out️‍🔥️‍🔥️‍🔥️‍🔥️‍🔥,2021-08-17,20822,1029,86,Aug
+650,My CTC Is More But Salary IS Less? Why? CTC Vs Inhand Salary,2021-08-17,9027,328,26,Aug
+651,How Deep Made Successful Career Transition From Non Programmer To Data Analyst in Just 4 months,2021-08-16,20903,491,40,Aug
+652,Complete Roadmap To SQL And 100+Interview Questions With Answers For Data Scientist And Data Analyst,2021-08-15,49589,2349,119,Aug
+653,Is Google Colab Pro Slow?,2021-08-15,13080,302,33,Aug
+654,500+ Interview Questions On Data Analyst And Business Analytics,2021-08-14,49787,1724,99,Aug
+655,250+ Data Science Interview Questions- Just Prepare Before The Interview🔥 🔥 🔥 🔥,2021-08-13,55294,1644,67,Aug
+656,GauGAN AI Art Tool By Nvidia- Convert Imagination Into Real Picture- Application Of GAN,2021-08-13,10898,252,13,Aug
+657,Run VSCode In Web-Github Codespaces Introduction,2021-08-12,3236,91,13,Aug
+658,5 Main Reasons Why Data Science Is Growing So Much?,2021-08-12,8298,433,48,Aug
+659,Based on WorkEX What Work You May Get As A Data Scientist?,2021-08-11,7666,304,25,Aug
+660,All My Passive Income From Starting Of My Career- Necessity Is The Mother Of My Passive Income😂😂😂😂,2021-08-11,26142,970,68,Aug
+661,My Salary As A Data Scientist From Starting Of My Career,2021-08-10,413224,11894,593,Aug
+662,How Santosh Cracked Data Science Interview As Fresher With 12 Lakhs per annum,2021-08-09,120212,3336,165,Aug
+663,Top 7 Best Extensions In VSCode For Python Programming That I Use For Data Science Projects,2021-08-09,127615,2538,64,Aug
+664,Are you Losing Motivation for Programming? Follow These Steps To Overcome It,2021-08-08,19653,1115,72,Aug
+665,How To Land The Right Data Science Job,2021-08-08,10024,416,40,Aug
+666,Announcing iNeuron Open Data Analyst And Business Analytics Internship,2021-08-07,34289,1425,124,Aug
+667,2nd Tier And 3rd Tier Colleges To Data Scientist Or Data Analyst Role- Yes It Is Possible🔥🔥🔥,2021-08-06,10492,370,34,Aug
+668,7 Days Plan To Learn Statistics For Data Analyst And Data Scientist,2021-08-06,372721,4738,118,Aug
+669,Announcing iNeuron Data Science Open Internship To All With 15+ Different Domains Projects,2021-08-05,65098,3338,338,Aug
+670,20+ Data Science Project Ideas From 5 Domains,2021-08-03,54088,1946,83,Aug
+671,Analyzing Python Data Quickly with Mito,2021-08-03,6972,252,20,Aug
+672,The Easiest way to create a README For Github,2021-08-02,64281,1389,38,Aug
+673,30+ Python Practice Problem Set For Data analyst And Data Scientist- Part 1,2021-08-02,83443,2384,61,Aug
+674,Funny Bloopers And Behind The Scenes And Mistakes Part 2 | Data Science Videos😂😂😂😂,2021-08-01,5873,309,23,Aug
+675,"Acer Predator Helios 300 With Nvidia RTX 3060  Deep learning Benchmarking, Get The Speed You Want😎🎉😎",2021-08-01,10845,218,66,Aug
+676,12 days Plan To Learn Python For Data Analyst And Data Science,2021-07-31,218446,9031,161,Jul
+677,Many Reasons Why I Like VS Code IDE- Data Science,2021-07-30,11154,274,26,Jul
+678,Data Structures And Algorithms Playlist For You All- Ft- iNeuron,2021-07-29,18265,420,66,Jul
+679,Is Data Privacy A Major Issue? Sharing A Recent Incident,2021-07-29,2967,146,32,Jul
+680,How Did We Start iNeuron? Affordable Education Company,2021-07-28,15655,785,97,Jul
+681,Coding In Movies Vs Reality Vs Coding Using Github Copilot-Savage Moments,2021-07-27,13356,936,141,Jul
+682,Funny Behind The Scenes And Mistakes | Data Science Videos😂😂😂😂,2021-07-26,42051,1654,191,Jul
+683,How Much Maths Do You Need To Know To Become A Data Scientist,2021-07-25,117184,4683,147,Jul
+684,Are You Procrastinating To Learn Data Science?,2021-07-24,31632,1455,113,Jul
+685,"Face Detection, Face Mesh, OpenPose, Holisitic, Hand Detection Using MediaPipe On Live Stream Video",2021-07-24,34161,724,40,Jul
+686,Tracker Sheet To Learn Data Analyst Curriculum From My Playlist- Track Your Learning,2021-07-23,22057,1034,57,Jul
+687,Skills Required For A Data Analyst In 2021- How To Learn By Self Study And For Free in 3 Months,2021-07-22,60154,3113,147,Jul
+688,My New Laptop Acer Predator Helios 300 Unboxing With Nvidia RTX 3060 For Deep Learning And Gaming,2021-07-22,11336,300,62,Jul
+689,Non Programmer To Data Analyst Or Data Scientist?Which Is Best To Get In Analytics Industry Quickly,2021-07-19,28858,1118,142,Jul
+690,"Preparing Data Science From My Playlist?- Use This Tracker To Track Your Learning For ML,DL,Stats",2021-07-18,35855,1734,128,Jul
+691,Fake Jobs In Data Science- Be Careful And Report Them,2021-07-18,20007,707,135,Jul
+692,Krish Naik 400k Special Video,2021-07-17,5401,516,94,Jul
+693,Pros And Cons Working In Startup Vs Service Vs Product Based Companies As Data Scientist,2021-07-17,21664,742,78,Jul
+694,Road To 400K Live Q&A- Ask Anything Related Data Science,2021-07-16,8992,529,21,Jul
+695,Are You Learning Data Science In The Right Way?,2021-07-16,21239,717,74,Jul
+696,"Announcing AWS Cloud Master And AIOPS , MLOPS Affordable Course From iNeuron",2021-07-15,5957,161,42,Jul
+697,Can We Have A YouTube Channel With Full Time Job Like Data Science,2021-07-15,3784,167,14,Jul
+698,How To Handle Career Gaps In Job Interviews?,2021-07-14,10785,545,49,Jul
+699,Crab Mentality- Stay Away From These Kind Of People🦀🦀🦀🦀,2021-07-14,18059,1210,100,Jul
+700,Is There Any Official Certification For Data Science,2021-07-13,51710,1546,107,Jul
+701,What I Hate About Job Interviews?,2021-07-12,9481,532,93,Jul
+702,Important SQL Interview Questions FOR DATASCIENCE & ANALYTICS- Part 2- Ft: @SatyajitPattnaik,2021-07-12,41070,777,39,Jul
+703,Data Scientist Opening In Tredence For Fresher And Experienced- Apply You Will Get Lucky,2021-07-11,17210,642,65,Jul
+704,Making Money As A Data Scientist- How I Doubled My Income💲 💲 💲 💲,2021-07-11,25941,1160,85,Jul
+705,"BlockChain,Cloud,Devops,Data Science, Big Data, Cybersecurity- Which Technology To Select?😰😰😰😰😰",2021-07-10,90767,3286,207,Jul
+706,"Huge Openings Data Scientist, ML engineer, Data Analyst For Freshers In PAYPAL 2021-Start Applying",2021-07-09,22451,709,58,Jul
+707,Now You Have AI Assisted SQL Query Generator- Don't Worry You Will Not Lose Jobs!,2021-07-09,33914,575,40,Jul
+708,Companies To Apply For Data Analyst In 2021- How To Apply?,2021-07-08,23747,1050,80,Jul
+709,Make Money While Studying-Build Your Brand,2021-07-07,14911,873,42,Jul
+710,Privacy Issues With Github Copilot😲😲😲😲,2021-07-07,5128,166,19,Jul
+711,Minimum Laptop Configuration To Start With Machine Learning And Deep Learning💻💻💻💻💻💻,2021-07-06,92449,2537,270,Jul
+712,Generate Python Faster with Mito⭐ ⭐ ⭐ ⭐,2021-07-06,5388,245,13,Jul
+713,My View On Github Copilot- Will Developers Lose Their Jobs?Must Watch For Everyone,2021-07-05,15849,704,92,Jul
+714,Companies To Apply For Data Scientist And ML And DL Roles in 2021- Dont Wait-Just Apply✌ ✌ ✌ ✌ ✌ ✌,2021-07-04,68861,2642,192,Jul
+715,Average Salary Hike Of Data Scientist In 2021 From the Data I Collected From January,2021-07-03,23904,628,68,Jul
+716,Github Copilot Vs Tabnine AI Code Completion Autocomplete Vs KITE- Which Is Your Favourite ?,2021-07-03,68623,830,57,Jul
+717,Sharing Devavrat Experience Of Working In Nvidia As Intern ⭐⭐⭐⭐,2021-07-02,10395,251,7,Jul
+718,Writing Machine Learning Pipelines And Deep Learning Code Using Github Copilot ⭐⭐⭐⭐⭐⭐,2021-07-02,28218,595,64,Jul
+719,First Time Using Github Copilot- How To Do Coding Using 1 Finger😂😂😂😂😂,2021-07-01,73921,1793,265,Jul
+720,Breakthrough Announcement- Github Copilot- Your AI Pair Programmer- Saviour For Developers🙌🙌🙌🙌🙌🙌🙌,2021-07-01,11285,490,44,Jul
+721,Last Week Of Data Science Preparation Before Job Interviews- Maximize Your Chances,2021-06-30,15030,397,15,Jun
+722,Follow This Statergy To Increase Your Salary Hike In Job Interviews- Learn This Art💲 💲 💲 💲 💲 💲,2021-06-30,15522,815,61,Jun
+723,Interesting Interview Question On Performance Metrics,2021-06-29,12506,263,27,Jun
+724,Tutorial 3-Creating My Simple Weekly Study Timetable Using Django Views And Urls,2021-06-29,11878,233,15,Jun
+725,Mistakes I Made In College Which You Should Not Repeat,2021-06-28,9812,565,55,Jun
+726,Sharing My Time Table And Efficient Strategy To Learn Machine Learning In Quick Time,2021-06-27,36082,1294,64,Jun
+727,How Data Science Projects Are Implemented Using Agile Methodology🤔 🤔 🤔 🤔 🤔 🤔 🤔,2021-06-26,36416,884,56,Jun
+728,Important SQL Interview Questions FOR DATASCIENCE & ANALYTICS- Ft: @SatyajitPattnaik,2021-06-25,64907,1912,42,Jun
+729,How A Support Engineer Applied ML Knowledge In His Domain And Cracked Data Science Job 👨‍🔬👨‍🔬👨‍🔬👨‍🔬,2021-06-24,7866,262,23,Jun
+730,Day To Day Activities Of A Full Stack Data Scientist By Saurav From Nvidia And Interview Process,2021-06-23,17239,504,22,Jun
+731,How A Manual Tester Applied Data Science Knowledge In Their Domain- Successful Transition Story,2021-06-23,9892,185,20,Jun
+732,"AutoGluon + Nvidia Rapids-Advancing the State of the Art in AutoML,Now 10x Faster with NVIDIA RAPIDS",2021-06-23,4359,118,6,Jun
+733,White Box Vs Black Box Models In Machine Learning- Data Science Interview Question,2021-06-21,13982,487,32,Jun
+734,Developed Many End To End Data Science Projects But Unable To Explain In Interviews- General Q&A,2021-06-20,10263,353,30,Jun
+735,Real Time Image Segmentation And Object Detection From Live Video Stream Using PixelLib,2021-06-20,32719,534,28,Jun
+736,Image Segmentation And Object Detection Using 5 Lines Of Code Using PixelLib,2021-06-20,56356,822,41,Jun
+737,Face Recognition Project In Flask Web Framework- Recognize Different Faces Easily,2021-06-19,74502,1546,76,Jun
+738,OpenCV Face And Eye Detection In Flask Web Framework,2021-06-19,38249,718,22,Jun
+739,Tutorial 2-Creating And Running A Default Django Project In Local Server,2021-06-17,31106,316,22,Jun
+740,"Common Doubts,Questions And Fear After Getting Data Science Job- Must For EveryOne😕😕😕😕",2021-06-16,14325,480,60,Jun
+741,Introduction To Django Python Web Framework. When To Use Django OR When To Use Flask?,2021-06-15,20625,346,19,Jun
+742,How to Make an Data Science Projects More Likely to Succeed? Sharing My Experience,2021-06-15,10090,146,7,Jun
+743,The Importance Of Story Telling In Data Science Interviews,2021-06-15,10970,328,25,Jun
+744,Video Streaming Using Webcam In Flask Web Framework,2021-06-14,84668,1695,109,Jun
+745,Why Data Science Project Fails? Sharing My 9+ Years Experience,2021-06-14,5118,223,30,Jun
+746,Sunday Live Q&A- Ask Anything Related Data Science,2021-06-13,6484,413,11,Jun
+747,Integrating CSS and Javascript in Flask Web Framework,2021-06-13,53766,851,35,Jun
+748,Understanding Jinja2 Template Engine In Flask Web Framework,2021-06-12,45627,878,35,Jun
+749,Integrating HTML With FLASK Web Framework With HTTP VERBS(Get And POST),2021-06-12,85445,1443,44,Jun
+750,How Do You Handle Multicollinearity In Machine Learning-Asked In Interview,2021-06-11,12707,239,47,Jun
+751,Building Url Dynamically In Flask Web Framework,2021-06-11,61348,1141,38,Jun
+752,Best Practices For Becoming A Good Python Developer,2021-06-11,14978,498,23,Jun
+753,When To Use Entropy Vs When To Use Gini Impurity In Decision Tree- Asked In Interviews,2021-06-11,20266,325,28,Jun
+754,Understanding A Sample Flask Web Application Skeleton,2021-06-10,71929,1284,30,Jun
+755,Setting VSCode IDE To Learn Flask Web Framework For Machine Learning,2021-06-10,95582,1556,42,Jun
+756,Introduction To Flask Web Framework,2021-06-09,187764,2739,63,Jun
+757,How Do I Prepare My Data Science Materials- Evolution From Writing Notes From Book To Ipad,2021-06-09,20049,291,28,Jun
+758,Dynamic Pricing Machine Learning Usecase Discussion,2021-06-09,22625,382,27,Jun
+759,Announcing iNeuron's 30 Days Fast Track Data Science Interview Preparation Live Classes,2021-06-08,6982,115,16,Jun
+760,How To Handle Data Privacy In Data Science Projects- Solution- Asked In Interview,2021-06-08,6343,177,10,Jun
+761,How To Handle Data Privacy In ML Projects?-Machine Learning Interview#8,2021-06-07,5827,205,81,Jun
+762,Announcing ML Usecase Discussion Series- Dynamic Pricing-Part 1,2021-06-07,13448,212,19,Jun
+763,Which Machine Learning Algorithm Will You Apply For A Usecase-Best Way To Answer In Interview?,2021-06-07,18067,479,48,Jun
+764,Applied More Than 250+ Data Science Jobs But Still Not Getting Calls? What Is the Solution For This?,2021-06-06,21341,755,102,Jun
+765,Announcing Our Second Startup- Firstfiling.in Legal And Tax Compliances,2021-06-05,9663,499,75,Jun
+766,Success Story Of Ashesh- Getting Job As Data Scientist In US,2021-06-05,5563,178,7,Jun
+767,Announcing iNeuron Big Data Masters Affordable Course,2021-06-04,13040,277,96,Jun
+768,Machine Learning Interview Series With Solution #6-Asked In Interview ⭐ ⭐⭐⭐⭐⭐⭐⭐,2021-06-04,10468,289,24,Jun
+769,Deep Learning Interview Series #7-Asked In Interview-Epochs Vs Batch Vs Iterations In Deep Learning,2021-06-04,24817,738,30,Jun
+770,Machine Learning Interview Series #5-Asked In Interview ⭐ ⭐⭐⭐⭐⭐⭐⭐,2021-06-03,13262,263,61,Jun
+771,Deep Learning Computer Vision Interview Series #4-Asked In Interview ⭐ ⭐⭐⭐⭐⭐⭐⭐,2021-06-02,19805,378,68,Jun
+772,Tutorial 2-Linear Algebra For ML-How To Add 2 Vectors,2021-06-02,9805,246,17,Jun
+773,Linear Algebra-What is Scalar and Vectors And Its Practical Applications In Machine Learning? ⭐⭐⭐⭐⭐⭐,2021-06-01,29708,622,27,Jun
+774,Success Story Of Ameya- Transition To Devops In Vodafone  At GermanyFt:iNeuron,2021-06-01,2930,74,11,Jun
+775,Explaining An End To End Machine Learning Project To A Interviewer,2021-05-31,64698,2033,44,May
+776,Explaining An End To End Data Analyst/Business Analytics Projects,2021-05-30,120843,2915,49,May
+777,Success Story Of Dhruv- Transition As Data Scientist In McKinsey & Company,2021-05-29,16945,439,19,May
+778,Permutation And Combination Easily Explained,2021-05-28,57355,1650,62,May
+779,Success Story Of Rahul- Transition From Support To Data Analyst|ft: iNeuron,2021-05-28,18195,409,26,May
+780,Custom Training Question Answer Model Using Transformer BERT,2021-05-27,130436,2230,87,May
+781,Success Story Of Purvansh- How He Got Into GSOC In The Field Of Machine Learning| Ft:iNeuron,2021-05-27,7566,275,7,May
+782,Success Story Of Sarthak- Transition From Mechanical Engineer To Data Science- Ft:iNeuron,2021-05-26,6482,213,27,May
+783,All Important Topics In Probability For Data Science In 1 Video,2021-05-25,81111,2330,83,May
+784,Success Story Of Arun- Transition From Support To Data Science Ft: iNeuron,2021-05-25,6649,169,20,May
+785,Monday Live Q&A Ask Anything Related Data Science,2021-05-24,6085,436,8,May
+786,Generating Python By Editing Spreadsheet Using Mito,2021-05-24,6002,185,11,May
+787,How To Perform Hypothesis Testing-Confidence Interval|Z Test Statistics| Derive Conclusion- Part 1,2021-05-23,45089,1162,91,May
+788,What Should Be A Proper Structure Of Your Data Science Projects In Github?,2021-05-23,39750,1105,31,May
+789,Training Machine Learning Algorithms In GPU Using Nvidia Rapids cuML Library,2021-05-22,13961,282,26,May
+790,Deep Successful Career Transition From Mechanical Engineer & Teacher To Data Analyst|Ft:iNeuron,2021-05-22,13462,431,36,May
+791,Himanshu Successful Career Transition From MCA Graduate Fresher To Data Science- Ft: iNeuron,2021-05-21,10683,323,43,May
+792,Tutorial 2- Fine Tuning Pretrained Model On Custom Dataset Using 🤗 Transformer,2021-05-20,194563,2546,184,May
+793,Bitcoin Market Crash Analyzing As A Data Scientist Part 1-₿₿₿₿₿₿,2021-05-20,7679,375,47,May
+794,Tutorial 1-Transformer And Bert Implementation With Huggingface,2021-05-18,216788,4030,137,May
+795,"Introduction To Nvidia Rapids- cuDF,cuML Libraries- Run Anything In GPU⭐⭐⭐⭐⭐⭐",2021-05-18,18026,347,26,May
+796,Tutorial 8- Pyspark Multiple Linear Regression Implementation In Databricks,2021-05-17,34640,506,49,May
+797,Power Law Distribution And Its Examples And Application- Statistics Interview Question,2021-05-17,35881,619,54,May
+798,Z Score And Its Applications- Important Stats Interview Question,2021-05-16,62595,1608,96,May
+799,Whether We Should Reduce False Positive Or Negative In Confusion Matrix-Machine Learning Interviews,2021-05-16,33551,770,93,May
+800,3 Important Things To Focus On Data Science #shorts,2021-05-15,59955,3503,31,May
+801,"Tools, Softwares And Tips For Virtual Live Interviews",2021-05-15,5050,202,17,May
+802,DATA SCIENCE Is All About Continuous Learning #shorts,2021-05-14,27732,1565,19,May
+803,Octoparse- Easy Web Scraping Tool Without Any Coding Knowledge,2021-05-14,97349,1450,111,May
+804,Focus In These Things In Data Science Interview #shorts,2021-05-13,40931,2563,15,May
+805,Most Important Skills In Data Science For Jobs #shorts,2021-05-13,48070,2878,29,May
+806,How Sudhanshu And iNeuron Team Overcome COVID- Precaution To Be Taken-Stay Safe,2021-05-13,5745,233,16,May
+807,Tutorial 7- Pyspark With Python|Introduction To Databricks,2021-05-12,82292,834,27,May
+808,Tutorial 6- Pyspark With Python-Introduction To Pyspark Mlib,2021-05-11,37422,530,26,May
+809,Different Type Of Sampling Techniques With Examples| Statistics Interview Question,2021-05-11,40661,1027,40,May
+810,Tutorial 5- Pyspark With Python-GroupBy And Aggregate Functions,2021-05-10,46221,589,30,May
+811,How To Start Data Science From My Channel- Follow This Order Of Playlist,2021-05-10,18244,1144,131,May
+812,"1000+ VideosRegarding Data Science,ML,DL Uploaded In My Channel In 2.5 years🥳 🥳 🥳 🥳 🥳",2021-05-09,7405,396,55,May
+813,5 Number Summary And How To handle Outliers Using IQR-Statistics,2021-05-09,33030,858,62,May
+814,Stats Interview Series #3-Asked In Interview #shorts⭐ ⭐⭐⭐⭐⭐⭐⭐,2021-05-09,21928,426,41,May
+815,Why Deep Learning Is Becoming So Popular?🔥🔥🔥🔥🔥🔥,2021-05-08,351168,2790,46,May
+816,Atoti Library- Free Python BI Analytics Platform,2021-05-07,13084,458,50,May
+817,50+ Successful Transition Stories To Data Science In 2 months- Ft Ineuron Team ✨🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥,2021-05-07,6467,324,36,May
+818,Top 25 Machine Learning & AI Hackathons To Move To Data Science,2021-05-06,21711,783,38,May
+819,Tutorial 4- Pyspark With Python-Pyspark DataFrames- Filter Operations,2021-05-06,44288,716,34,May
+820,Tutorial 3- Pyspark With Python-Pyspark DataFrames- Handling Missing Values,2021-05-05,64639,941,70,May
+821,Tutorial 2-Pyspark With Python-Pyspark DataFrames- Part 1,2021-05-04,106892,1496,86,May
+822,Tutorial 1-Pyspark With Python-Pyspark Introduction and Installation,2021-05-04,311371,3505,359,May
+823,10 Tips To Learn Python Efficiently And Effectively,2021-05-03,30937,1406,52,May
+824,Sunday Live Q&A Ask Anything Related Data Science,2021-05-02,7648,368,18,May
+825,"Bernoulli distribution- Mean, Variance And Standard Deviation OF Bernoulli distribution",2021-05-02,47533,892,29,May
+826,Introduction To Statistics And Its Types For Starters,2021-05-01,114029,2618,59,May
+827,Review Discussion Of Data Scientist Resume- Tips For Preparing A Perfect Resume,2021-04-30,12652,383,39,Apr
+828,DataPrep Library- Perform Faster EDA Within No Time,2021-04-30,22254,765,49,Apr
+829,Complete Road Map Towards Data Science In 2021,2021-04-29,143201,4820,201,Apr
+830,All Type Of Cross Validation With Python All In 1 Video,2021-04-28,48816,1383,58,Apr
+831,AutoScraper- Scrap Images From Amazon Ecommerce- End To End Web Scraping Application,2021-04-28,16040,377,34,Apr
+832,Complete RoadMap Towards Data Analyst In 2021,2021-04-27,72685,2982,148,Apr
+833,Drawdata-Python Library To Draw Dataset In Jupyter Notebook,2021-04-26,5871,242,19,Apr
+834,Your GitHub story in 3D- View a 3D Model of your GitHub Contribution graph.,2021-04-26,6441,167,20,Apr
+835,Sunday Live Q&A Ask Anything Related Data Science,2021-04-25,4510,354,19,Apr
+836,Autoviz-Automatically Visualize Any Dataset With Single Line Of Code,2021-04-25,42820,1209,77,Apr
+837,Who Are Data Scientists?,2021-04-24,11817,445,42,Apr
+838,AutoScraper and Flask: Create an API From Amazon Website in Less Than 10 Minutes,2021-04-24,24098,533,28,Apr
+839,Automating WebScraping Amazon Ecommerce Website Using AutoScrapper,2021-04-23,163548,2783,134,Apr
+840,Deep Learning Interview Series #2- Asked In interview,2021-04-23,10516,217,48,Apr
+841,Automating Web Scrapping Using AutoScraper Library,2021-04-22,31141,891,62,Apr
+842,Discussing All The Types Of Feature Transformation In Machine Learning,2021-04-21,79628,2011,64,Apr
+843,All Automated EDA Libraries All At One Place,2021-04-20,33446,1098,64,Apr
+844,Machine Learning Interview Series#1-Asked in Interview,2021-04-20,18339,312,54,Apr
+845,Deployment Of ML Models Using PyWebIO And Flask In Heroku,2021-04-19,8091,219,22,Apr
+846,Numba Library- Let's Make Python Faster,2021-04-19,13428,360,28,Apr
+847,Text Generation with Transformers (GPT-2) In 10 Lines Of Code,2021-04-18,61473,1063,71,Apr
+848,Introduction To Machine Learning And Deep Learning For Starters,2021-04-18,119267,1980,56,Apr
+849,TFOD 2.0 Custom Object Detection Step By Step Tutorial,2021-04-17,228290,3645,478,Apr
+850,Deep Learning Interview Series #1- Asked In Interview,2021-04-17,15134,247,39,Apr
+851,Friday Live Q&A Ask Anything Related Data Science,2021-04-16,4140,233,7,Apr
+852,Comparing Transfer Learning Models Using Gradio,2021-04-16,8428,211,19,Apr
+853,Gradio Library-Interfaces for your Machine Learning Models,2021-04-15,57502,1149,34,Apr
+854,How To Automate NLP Tasks Using EvalML Library,2021-04-15,8229,293,15,Apr
+855,Lazy Predict Python- Understanding Which Models Works Well Without Any Tuning,2021-04-14,13048,484,25,Apr
+856,"EvalML AutoML Library To Automate Feature Engineering, Feature Selection,Model Creation And Tuning",2021-04-14,23978,781,56,Apr
+857,Joining Bonus- Whether We should Take Joining Bonus? General Q&A,2021-04-14,26789,557,66,Apr
+858,Confidence Intervals In Statistics- Part 1,2021-04-13,146698,2464,107,Apr
+859,Best Freelancing Work- Earn By Answering Questions,2021-04-13,12337,492,46,Apr
+860,"Difference Between fit(), transform(), fit_transform() and predict() methods in Scikit-Learn",2021-04-12,93984,3657,145,Apr
+861,What Is Probation Period?General Q&A,2021-04-11,54658,1094,107,Apr
+862,The Art Of Writing Resume For Data Science- Must For EveryOne,2021-04-10,16014,546,24,Apr
+863,Amazing Initiative For Kids- Ineuron K-12 Youtube Channel- Free Content #shorts,2021-04-09,9950,297,8,Apr
+864,How To Handle 90 Days Notice Period With HR,2021-04-09,148772,4367,336,Apr
+865,Stats Interview Series #2-Asked In Interview,2021-04-09,34870,620,89,Apr
+866,"Statistics-Left Skewed And Right Skewed Distribution And Relation With Mean, Median And Mode",2021-04-08,128170,2798,69,Apr
+867,Stats Interview Series #1- Asked In Interview,2021-04-08,46733,852,69,Apr
+868,Interview Question -Risks In Data Science Projects,2021-04-07,6024,146,13,Apr
+869,Shapash- Python Library To Make Machine Learning Interpretable,2021-04-06,23472,734,39,Apr
+870,Interesting Fact About Data #shorts,2021-04-06,17573,764,202,Apr
+871,Deployment Of ML Models Using PyWebIO And Flask,2021-04-05,14257,340,32,Apr
+872,What Is P Value In Statistics In Simple Language?,2021-04-05,303508,5779,143,Apr
+873,Creating BMI Calculator Web APP Using Python And PyWebIO,2021-04-04,12302,365,29,Apr
+874,You Don't Require A Master's Or Phd To Become Citizen Data Scientist #shorts,2021-04-04,17283,682,19,Apr
+875,PyWebIO- Creating WebAPP Using Python Without Using HTML And JS,2021-04-03,24064,774,102,Apr
+876,#shorts Believe You Can You Are Halfway Done-Motivation,2021-04-03,10339,541,12,Apr
+877,Part 4-Testing ANN Model-Audio Classification Project Using Deep Learning,2021-04-02,29544,515,61,Apr
+878,#shorts Three Most Important Points To Remember To Grow You In Your Life,2021-04-01,14083,886,16,Apr
+879,Part 3-Model Creation-Audio Classification Project Using Deep Learning,2021-04-01,36965,517,50,Apr
+880,Part 2-Data Preprocessing-Audio Classification Project Using Deep Learning,2021-03-31,61293,945,73,Mar
+881,Part 1-EDA-Audio Classification Project Using Deep Learning,2021-03-31,143599,2751,122,Mar
+882,March 30th- Live Virtual Mock Interview From Mechanical To Data Scientist,2021-03-30,13094,279,22,Mar
+883,March 29- Live Virtual Mock Interview For Fresher For Data Science Role-iNeuron Student,2021-03-29,16375,570,15,Mar
+884,Follow These Playlist Before Interviews- Guide to Crack Data Science Interviews,2021-03-28,15662,512,26,Mar
+885,Rainfall Prediction- Converting A Kaggle Project to End To End Machine Learning Project,2021-03-27,70277,1539,39,Mar
+886,Friday Live Q&A Ask Anything RelatedData Science,2021-03-26,4648,223,25,Mar
+887,"Colab Pro Now Available In India, Brazil, France, Thailand,Japan,UK- BOON FOR Data Science Aspirants",2021-03-26,15924,367,47,Mar
+888,Successful Career Transition Story From Fresher College Student To Data Science-Sameer Singh,2021-03-26,9815,260,34,Mar
+889,Amazing Initiative For School Kids By iNeuron,2021-03-25,3438,141,23,Mar
+890,"Texthero-Text Preprocessing, Representation And Visualization From Zero to Hero.",2021-03-25,11445,384,29,Mar
+891,1 Day Off From Work After 2 months- Start Up Stories#shorts,2021-03-24,93730,3488,125,Mar
+892,Lux - Python Library for Intelligent Visual Discovery,2021-03-23,19558,637,55,Mar
+893,Devops Vs MLOPS- Understand The Differences And Why IT is Important,2021-03-21,95289,1860,76,Mar
+894,Day 4- MLOPS Continuous Integration And Model Tracking Using MLFlow- Machine Learning,2021-03-19,19783,318,41,Mar
+895,Day 3- MLOPS End To End Implementation With Deployment- Machine Learning,2021-03-18,22655,353,31,Mar
+896,Day 2- MLOPS End To End Implementation From Basics- Machine Learning,2021-03-17,31909,596,24,Mar
+897,Day 1- MLOPS End To End Implementation- Machine Learning,2021-03-16,83359,1173,101,Mar
+898,14+ ML And DL End To End Projects From My Channel,2021-03-15,23992,947,31,Mar
+899,How To Revise Data Science  Concepts And Algorithms Efficiently Before Interviews-Most Important🔥🔥🔥🔥,2021-03-14,18343,715,35,Mar
+900,What is the Interviewer Looking For In A Data Science Interview?,2021-03-13,14000,617,41,Mar
+901,MLOps Live Community Session Announcement,2021-03-12,24471,509,22,Mar
+902,Waste Classification Machine Learning Classification Project-Waste Recycling,2021-03-11,23465,445,18,Mar
+903,SVM Kernal- Polynomial And RBF Implementation Using Sklearn- Machine Learning,2021-03-10,72079,1509,57,Mar
+904,SVM Kernels In-depth Intuition- Polynomial Kernels Part 3 | Machine Learning Data Science,2021-03-10,96426,2098,68,Mar
+905,Live AWS For Data Science - Deploying Machine Learning Application In EC2 Instance,2021-03-04,56185,1741,89,Mar
+906,Amazing Data Science End To End Project From Starters In ML and Deep Learning- Agriculture Domain,2021-03-03,99863,2323,119,Mar
+907,Face Recognition Attendance Based Project In Machine Learning,2021-03-02,192800,3863,244,Mar
+908,Monday Night Live Q&A - Ask Anything Related  To Data Science,2021-03-01,6691,211,16,Mar
+909,Step 6- TensorFlow 2 Detection Model Zoo- Object Detection,2021-03-01,19083,200,27,Mar
+910,Introduction To MLflow-An Open Source Platform for the Machine Learning Lifecycle,2021-03-01,117965,1811,42,Mar
+911,Arpit Gupta's Successful Career Transition To Data Science After Many Rejection-Finally 4 Job Offers,2021-02-27,8947,169,15,Feb
+912,"Affordable Business Analytics Master,DSA And Competitive Programming And Mern Stack- Join The Demo",2021-02-27,2930,96,17,Feb
+913,"Secure Hash Algorithms Using Python- SHA256,SHA384,SHA224,SHA512,SHA1- Hashing In BlockChain",2021-02-26,21107,321,23,Feb
+914,"Day 2-9 Hours Live Community Session- Power BI Usecases And Interview Prep, Competitive Programming",2021-02-26,9752,268,3,Feb
+915,"9 Hours Live Community Session- Interview Questions On Sql, Power BI End to End Project,Mern Stack",2021-02-25,25742,717,9,Feb
+916,"Live Community Session On 25th And 26th Feb From 1pm- Projects on Power BI, Tableau, Mern Stack",2021-02-25,7603,249,25,Feb
+917,A Brief Intro About My Channel If You Are New- Data Science #shorts,2021-02-25,21525,721,31,Feb
+918,Successful Transition From Mechanical Engineering To Data Science In Ireland Dublin- Ft:iNeuron,2021-02-24,25066,428,36,Feb
+919,Logging Implementation In Python,2021-02-23,31703,522,22,Feb
+920,Live Discussion- Transition From Web Developer To Data Scientist In Sweden- Ft: Ineuron,2021-02-23,8082,231,5,Feb
+921,Inderpreet Successful Career Transition From A Freshers To Data Science With 5 Job Offers,2021-02-20,12319,279,19,Feb
+922,PIP Freeze- Creating Packages(Requirements.txt) For The Application,2021-02-19,43513,510,37,Feb
+923,Sumit Successful Career Transition From BCA To Data Science- Ft: Ineuron,2021-02-18,5331,131,8,Feb
+924,Successful Transition Story From Non Tech To Data Science Director With 20+ Year Experience In UK,2021-02-18,7416,223,23,Feb
+925,Successful Career Transition Of Kartik From Civil Engineering To Data Science With Career Gap,2021-02-18,22773,393,58,Feb
+926,PerceptiLabs-The Best Machine Learning Visual Modeling Tool-Train Deep Learning Neural Network,2021-02-18,25095,691,26,Feb
+927,Session On Different Types Of Loss Function In Deep Learning,2021-02-16,79903,1292,66,Feb
+928,Sunday Late Night Live Q&A - Ask Anything Related  To Data Science,2021-02-14,7336,239,28,Feb
+929,Pdf Password Protection Using Python,2021-02-13,12334,377,19,Feb
+930,10+ year experience Raghu Who Made Transition Into Data Science As A Director- Ft: Ineuron,2021-02-12,13603,221,21,Feb
+931,Feb12- Live Virtual Mock Interview To Real Interview For Data Scientist- Hired By iNeuron-Commerce,2021-02-12,208226,6481,253,Feb
+932,"Recent Jobs On Data Science,Data Analyst And Data Engineers In Google- Apply For It",2021-02-12,10268,244,38,Feb
+933,Step 5-Final TFOD Set Up With Tensorflow 2.0 In Windows- COCO API installation Object Detection API,2021-02-11,22541,218,76,Feb
+934,"Upcoming Community Sessions Announcements For Everyone- Data Science, Machine Learning,Feat: Ineuron",2021-02-10,5489,384,60,Feb
+935,Live 15 hour Session In Implementing End To End Data Science Projects- Community Event,2021-02-09,130122,3346,93,Feb
+936,15 hours Live Session On Data Science Projects- Community Event- Feat Ineuron Sudhanshu And Team,2021-02-08,15301,991,111,Feb
+937,Feb 8- Live Virtual Mock Interview For Data Science Role,2021-02-08,16356,393,34,Feb
+938,Step 3-TFOD Set Up With Tensorflow 2.0 In Windows-Installing Tensorflow Object Detection API,2021-02-07,18407,242,15,Feb
+939,Step 4-TFOD Set Up With Tensorflow 2.0 In Windows-Protobuf  Installation And Compilation,2021-02-07,18840,243,43,Feb
+940,Python Zip Function- Easy Parallel Iteration for Multiple Iterators,2021-02-07,7731,194,6,Feb
+941,Placement Seasons-Its Ok If You Are Not From Tier 1 College-Strategy To Prepare For Placements,2021-02-07,3785,221,24,Feb
+942,Step 2-TFOD Set Up With Tensorflow 2.0 In Windows-Installing Cuda Toolkit And CuDnn,2021-02-06,28279,278,24,Feb
+943,Step 1-Tensorflow Object Detection Set Up With Tensorflow 2.0 In Windows-Creating The Environment,2021-02-06,70683,804,35,Feb
+944,Feb 4th Live Virtual Interview Of Freshers For Data Science Role,2021-02-04,24771,801,27,Feb
+945,3000+ Research Datasets For Machine Learning Researchers By Papers With Code,2021-02-04,31957,928,31,Feb
+946,Feb 3- Live Virtual Mock Interview Of Freshers For Data Science Role,2021-02-03,43853,935,37,Feb
+947,Successful Career Transition From Fresher To Data Science With 4 years Gap- ft Saket & iNeuron,2021-02-03,15432,476,58,Feb
+948,Feb 2 - Live Virtual Mock Interview Of Fresher For Data Science Role,2021-02-02,38219,804,64,Feb
+949,Vulture Library- How To Find Unused And Dead Code In Python Projects,2021-02-01,7428,177,11,Feb
+950,Live Virtual Mock Interview For Data Science Role,2021-02-01,42770,1006,52,Feb
+951,Live Virtual Mock Interview On Data Science In My Channel,2021-01-31,9145,227,25,Jan
+952,Problem 8 Solution-Anagram Check Analysis Using Python - Competitive Programming,2021-01-31,6386,113,31,Jan
+953,Object Localization Vs Object Detection Deep Learning,2021-01-31,24564,539,20,Jan
+954,Sharing 15+ Interview Experience For Data Science-Msc In Stats IIt Bombay-Success After 15 Failures,2021-01-30,11559,360,15,Jan
+955,Problem 8-Anagram Check Analysis Using Python - Competitive Programming,2021-01-30,4345,89,27,Jan
+956,Advance Python Series-Asynchronous Execution(Parallel Execution) With Thread Using Python,2021-01-30,12680,259,12,Jan
+957,Sharing Experience Of Doing MS In Big Data And Analytics  in Germany - Ft Akshay,2021-01-29,22141,727,44,Jan
+958,Curated List Of All  500+ Awesome  Python Frameworks Libraries And Software In One Place,2021-01-29,4233,226,12,Jan
+959,How To Implement Image Classification Using SVM In Convolution Neural Network,2021-01-28,50207,973,94,Jan
+960,Tutorial 5- Feature Selection-Perform Feature Selection Using Chi2 Statistical Analysis,2021-01-28,45026,756,71,Jan
+961,Tutorial 4- Feature Selection-Perform Feature Selection Using Information Gain For Regression In ML,2021-01-27,36297,597,22,Jan
+962,Python Eval Function- Evaluating Python Expressions Dynamically,2021-01-27,19446,362,21,Jan
+963,Tutorial 3- Feature Selection-How To Select Features Using Information Gain For Classification In ML,2021-01-26,69336,1149,41,Jan
+964,Non Technical/Non Programmer  Follow This Approach to Become Data Scientist,2021-01-24,14230,701,58,Jan
+965,Advance Python Series- Multiple Inheritance In Python,2021-01-24,14660,311,20,Jan
+966,Hardwork Is Directly Proportional To Luck Factor- Saturday Motivation,2021-01-23,4703,299,54,Jan
+967,"Cloud Computing AWS -Upload,Read And Write And Download Files In And From S3 bucket Using Python",2021-01-23,58881,945,51,Jan
+968,TextBlob Library In Python For Natural Language Processing,2021-01-22,20012,360,17,Jan
+969,Python Advance Series- Static Methods Indepth Understanding And Implementation In Python,2021-01-21,15916,347,18,Jan
+970,How He Made A Successful Transition From College Student To Data Science In E&Y- With Self Study,2021-01-21,23155,820,70,Jan
+971,Important Guidelines For Placements For Fresher’s And College Students,2021-01-20,6583,469,37,Jan
+972,First Live Q&A Of 2021 - Ask Anything Related  To Data Science,2021-01-19,6653,359,32,Jan
+973,Phd Vs Masters Vs BE Vs Certification- Which Degree Is Better For Data Science or AI,2021-01-19,11714,487,59,Jan
+974,Class Variables And Class Methods In Python,2021-01-19,31629,625,15,Jan
+975,How To Speed Up Pandas By 4X Times- Modin Pandas Library,2021-01-18,24546,685,45,Jan
+976,Shallow Copy Vs Deep Copy in Python,2021-01-18,76702,2238,85,Jan
+977,60 Python Projects With Source Code- Solved And Explained,2021-01-18,217926,5532,63,Jan
+978,Python Series- is Vs == Indepth Explanation- Boolean Evaluation,2021-01-17,12994,365,28,Jan
+979,Why Is Bitcoin Price Rising? Announcing BlockChain Playlist Soon,2021-01-17,4813,182,41,Jan
+980,Tutorial 1- Cloud Computing-AWS-Introduction To S3(Simple Storage Services),2021-01-16,33810,719,29,Jan
+981,Advance Python-Decorators Indepth Implementation,2021-01-16,38295,1037,53,Jan
+982,Advanced Python Series - Iterators Vs Generators,2021-01-15,53255,1173,50,Jan
+983,"Papers With Code: The Latest in Machine Learning, Deep Learning And AI",2021-01-15,35732,1074,31,Jan
+984,Which Is Best Programming Language For Data Structures And Algorithms?😜😜😜,2021-01-14,43041,1619,103,Jan
+985,Stopping Blaming Anyone Or Your College For Not Getting Jobs- Motivation,2021-01-13,5297,410,92,Jan
+986,Advanced Python Series- Assert Statement In Python,2021-01-13,35338,849,32,Jan
+987,Whatsapp Privacy Policy-How Facebook Are Planning For Monetization- Analytics Usecase Discussion,2021-01-12,7013,314,63,Jan
+988,Some Important Announcements Regarding Data Science Jobs- Direct Referrals From My Side,2021-01-11,27206,1450,108,Jan
+989,"How Do I Manage My Time-Full time Job, Teaching And Family Time-Time Management-300K Special Video",2021-01-11,10739,648,53,Jan
+990,Ineuron's New Portal For Community Free And Affordable Courses,2021-01-09,15616,808,138,Jan
+991,Past 10 Years Of AI 2010 - 2020-What All Innovation And Research We Saw?,2021-01-09,2546,121,12,Jan
+992,Advance Python Series-Magic Methods In Classes,2021-01-09,28688,685,16,Jan
+993,What Is A Citizen Data Scientist?,2021-01-08,9517,487,36,Jan
+994,Do Not Quit Your Job Until? Sharing My Experience,2021-01-07,26852,870,120,Jan
+995,Advance Python Series- Inheritance In Python,2021-01-07,46002,1012,27,Jan
+996,Advance Python Series- Public Private And Protected Access Modifiers,2021-01-06,49351,1296,43,Jan
+997,Successful  Career  Transition  Non Programmer To Machine Learning Engineer In  ZYCLYX Consulting,2021-01-06,14423,530,70,Jan
+998,Live Virtual Mock Interview For Data Science For Fresher Msc Graduate,2021-01-05,33696,855,0,Jan
+999,Advanced Python Series- Custom Exception Handling In Python,2021-01-05,46945,1040,30,Jan
+1000,Advanced Python- Exception Handling Detailed Explanation In Python,2021-01-05,70209,1584,66,Jan
+1001,Problem 7 Solution- Find The Time Complexity,2021-01-04,18801,403,69,Jan
+1002,Google Colab Pro Vs Colab Free- Benefits Of Using Colab Pro- How To Access From India,2021-01-04,36285,594,59,Jan
+1003,"Top 6 Programming Languages For Data Science,Machine Learning And Deep Learning In 2021",2021-01-04,6390,273,40,Jan
+1004,Tutorial 7-Competitive Programming-Find The Time Complexity Of This Problem,2021-01-03,10359,276,48,Jan
+1005,500+ Machine Learning And Deep Learning Projects All At One Place,2021-01-03,166052,6839,193,Jan
+1006,Is Data Science A Hype Or Overrated? Sharing A Conversation With An Old Friend,2021-01-02,29508,1017,191,Jan
+1007,Tutorial 6-Competitive Programming-New Problem & Visualization Tool To Visualize Python Programming,2021-01-02,13223,429,75,Jan
+1008,Lets Start Competitive Programming Using Python- First Problem Statement,2021-01-01,50662,1584,141,Jan
+1009,Target Learning Data Science Within 4-5 Months From My Channel- Follow These Playlists In Order,2021-01-01,45322,2430,159,Jan
+1010,"Special Message From Krish, Sudhanshu And Ineuron Data Science Team",2020-12-31,13602,618,112,Dec
+1011,6 Certifications In Data Science But No Jobs- Sharing A True Story-Focus More On Data Science Jobs,2020-12-31,434819,12572,728,Dec
+1012,Negotiating Salaries With HR for Any Job Is An Art. Learn IT Before It's Late 😭😭😭😭,2020-12-30,775039,16905,612,Dec
+1013,"Data Science Jobs Hiring For Freshers And Experienced-TraceBloc,IBM,Accenture,Apptio Hiring 2020",2020-12-30,7002,229,20,Dec
+1014,"Data Science Interns Hiring- YouBotics,IBM,Asmadiya Technologies,Tarah AI Hiring ML Paid Interns",2020-12-29,8968,358,19,Dec
+1015,Last Live Q&A Of 2020- Ask Anything Related  To Data Science,2020-12-29,5571,282,11,Dec
+1016,Faking Data Science Experience- Is It Good Or Bad? Important For EveryOne,2020-12-29,39064,1087,155,Dec
+1017,EY Scholarship Program For College Students- 1 Lakh Prize Money With Internship-Last Date 31st Dec,2020-12-29,9976,390,36,Dec
+1018,"Data Science Jobs Hiring For Freshers- Confidential, Siemens,Bayer,Avatar.me And Milk Mantra Hiring",2020-12-28,27260,1047,74,Dec
+1019,The Most Challenging Thing Working As Data Scientist Or In A Data Science Team-Sharing My Experience,2020-12-28,10736,383,24,Dec
+1020,Various Components Of CTC Salaries. Important To Understand Your In Hand Salary,2020-12-27,11320,368,22,Dec
+1021,EY To Hire 9000 AI/ML Professionals IN 2021- Hiring And Interview Process Of EY An EX Employee Of EY,2020-12-26,62849,1979,191,Dec
+1022,Data Scientist- Working In Start Ups Or MNC. Which Is Better? Sharing My Experience,2020-12-25,18531,746,77,Dec
+1023,4 Important Things I Have Learnt From 2020. It May Really Help You Out.,2020-12-24,4525,352,36,Dec
+1024,CTC(Cost to Company ) Vs In Hand Salary. Why It is Important To Understand The CTC Components,2020-12-23,36554,1557,64,Dec
+1025,Should I Leave My Current Job To Prepare For Data Science Or Any Competitive Jobs?,2020-12-23,47132,846,121,Dec
+1026,Best Programming Jobs For IT In 2021,2020-12-22,12811,650,104,Dec
+1027,2020 Is Almost Over-Upcoming Plans In 2021- Advance AI& ML Concepts and Competitive Programming,2020-12-21,9139,575,109,Dec
+1028,What Should Be Your First Data Science Projects In Your Resume?,2020-12-20,21486,806,36,Dec
+1029,Complete RoadMap For Preparing Competitive Programming- Part 1,2020-12-18,8118,337,38,Dec
+1030,What Is Full Stack Data Scientist? Why Many Analytics Job Profiles Wants These Requirements?,2020-12-18,29551,1024,62,Dec
+1031,How To Identify Companies To Apply For Data Science Jobs,2020-12-16,9742,342,12,Dec
+1032,Data Science Jobs In LinkedIn For Entry Level/Freshers- Never Hesitate To Apply,2020-12-15,41432,1302,96,Dec
+1033,Rajesh Successful Transition Story From Automation Testing To Data Science-Niki.ai Internal Switch,2020-12-12,15239,297,37,Dec
+1034,Ishant Successful Transition Story From Data Analyst To Data Scientist In E&Y And Ericsson,2020-12-10,6811,195,50,Dec
+1035,What Is API? Application Programming Interface And Why It Is Important-Data Science,2020-12-08,22852,767,22,Dec
+1036,"Overfitting, Underfitting And Data Leakage Explanation With Simple Example",2020-12-07,23401,886,56,Dec
+1037,Ritaksh Successful Transition Story From Data Analyst To Data Scientist In Xceedance Consulting,2020-12-06,6444,123,17,Dec
+1038,"Transition Story Of Aditya 2020 Passed Student Working As A FreeLancer In Python,Machine Learning",2020-12-05,16024,616,24,Dec
+1039,Why Competitive Programming IS Important For Product Based Companies?,2020-12-04,8953,396,41,Dec
+1040,Naman Successful Career Transition To Data Analyst in Metlife 2019 Passed Out E&C Branch-Ft: Ineuron,2020-12-04,7073,220,16,Dec
+1041,Sourabh Successful Career Transition From Mainframe To Data Science in Xoriant Solutions-Ft: Ineuron,2020-12-03,19697,361,44,Dec
+1042,Successful Career Transition Of Prerna From BSc IT To Data Scientist In L&T Finance- Ft Ineuron,2020-12-02,29560,755,80,Dec
+1043,Live Virtual Mock Interview- Successful Transition From Diploma Engineer To Data Science Intern,2020-12-01,28990,714,53,Dec
+1044,6 Healthcare End To End Machine Learning Projects- Credits Devansh and Bedanta,2020-11-30,41347,1026,40,Nov
+1045,How To Interpret The ML  Model? Is Your Model Black Box? Lime Library,2020-11-30,19294,582,32,Nov
+1046,Live Virtual Mock Interview Of Statistician IIT Kanpur For Data Science,2020-11-27,222207,4246,377,Nov
+1047,Live Q&A Tips For Interview Preparation Of Data Science,2020-11-26,11195,599,37,Nov
+1048,How To Deploy FastAPI Machine Learning Models In Heroku,2020-11-26,15609,260,19,Nov
+1049,Live Virtual Mock Interview For Data Science By Krish And Sudhanshu,2020-11-24,75700,1759,88,Nov
+1050,How To Train Machine Learning Model Using  CPU Multi Cores,2020-11-24,11588,265,28,Nov
+1051,Time Series Forecasting Using Facebook FbProphet,2020-11-23,64006,1183,75,Nov
+1052,Custom Ensemble Machine Learning Algorithms,2020-11-22,10896,341,19,Nov
+1053,What is Web Hosting? Important For Everyone,2020-11-21,3020,129,19,Nov
+1054,Handling Imbalanced Dataset Using Cost Sensitive Neural Networks- Credit Card Fraud Detection,2020-11-21,15086,416,22,Nov
+1055,Ineuron's Affordable BI And ML DL Course With Remote Internship From 21st  November,2020-11-20,9047,256,127,Nov
+1056,How To Deploy Machine Learning Models Using FastAPI-Deployment Of ML Models As API’s,2020-11-19,130147,2060,84,Nov
+1057,Introduction To FastAPI- How To Create API's Using FastAPI- Data Science,2020-11-18,80938,1387,49,Nov
+1058,Designing Data Science Projects Architecture- AI Car Solution-Important For Interviews🔥🔥🔥🔥,2020-11-17,8798,298,31,Nov
+1059,Tutorial 1-Building My Wedding Invitation Website Using Hostinger,2020-11-16,10550,238,44,Nov
+1060,Google AI Announces Objectron Dataset- Why it is important for Object Detection?,2020-11-16,7364,272,14,Nov
+1061,How To Run Flask In Google Colab,2020-11-15,35363,741,64,Nov
+1062,Ineuron's Detailed Course Content Discussion Of ML And DL- Affordable AI Education,2020-11-15,18964,596,154,Nov
+1063,Live Q&A Happy Diwali Ask Anything Related Data Science,2020-11-13,6295,258,32,Nov
+1064,Deciding Career Paths For College Students And Freshers- Sharing My Experience,2020-11-13,3140,180,10,Nov
+1065,Do College Students And Freshers Requires Data Structures & Algorithms And Competitive Prog For DS?,2020-11-09,14569,649,79,Nov
+1066,Late Night Talks-Live Q&A-Ask Anything Related Data Science,2020-11-08,8865,428,28,Nov
+1067,Saturday Live Q&A Ask Anything Related Data Science,2020-11-07,5780,364,27,Nov
+1068,Important Interview Questions On Convolution Neural Network- Deep Learning,2020-11-07,37730,796,46,Nov
+1069,Important Steps I Have Followed To Improve My Data Science Skills- Sharing My Experience,2020-11-06,11622,673,48,Nov
+1070,"Why There Are So Many Start Ups In AI, ML And DL? Important For Everyone",2020-11-05,14002,628,51,Nov
+1071,Important Tips For College Students And Freshers- Sharing My Experience,2020-11-04,8924,568,35,Nov
+1072,"Deep Learning-All Optimizers In One Video-SGD with Momentum,Adagrad,Adadelta,RMSprop,Adam Optimizers",2020-11-03,139712,3211,191,Nov
+1073,"Deep Learning-Activation Functions-Elu, PRelu,Softmax,Swish And Softplus",2020-11-02,110815,2075,105,Nov
+1074,Difficulties I Faced As A Data Scientist-Sharing My Experience From Start,2020-11-01,13906,645,39,Nov
+1075,Saturday Live Q&A Ask Anything  Regarding Data Science,2020-10-31,4124,201,13,Oct
+1076,Tutorial 4- Julia For Data Science-String In Julia Along With Indepth Functions,2020-10-31,2747,81,12,Oct
+1077,Types Of Data Scientist In Analytics Industry,2020-10-30,4837,216,27,Oct
+1078,Updated Best YouTube Channels To Learn Data Science For Free,2020-10-28,26240,1358,93,Oct
+1079,Tutorial 2- Implementing Basic Reinforcement Learning Using Python- Data Science,2020-10-27,32877,630,52,Oct
+1080,My Entrepreneur Journey- From Software Engineer To Data Scientist To Entrepreneur- Future Plans,2020-10-26,16483,926,134,Oct
+1081,"Tutorial 3- Julia Basics-Strings And Numerical Operations, Commenting",2020-10-25,5821,186,28,Oct
+1082,Tutorial 2- Installing Julia And Running In Jupyter Notebook,2020-10-24,19929,444,31,Oct
+1083,Tutorial 1- Introduction To Julia Programming  Language For Machine Learning,2020-10-24,24090,595,37,Oct
+1084,"TensorDash- How To Monitor Your Deep Learning Model Metrics, Loss, Accuracy Using Mobile App",2020-10-23,8090,270,28,Oct
+1085,"Google Datasets Search Engine- Search All Datasets From One Place For Data Science,Machine Learning",2020-10-22,11274,388,30,Oct
+1086,"ML Interview Preparation- Important Interview Questions On Xgboost, Adaboost And Gradient Boost",2020-10-21,36485,721,23,Oct
+1087,Top 5 Programming Languages For Data Science In 2020,2020-10-20,24086,364,47,Oct
+1088,Xgboost Regression In-Depth Intuition Explained- Machine Learning Algorithms 🔥🔥🔥🔥,2020-10-19,85111,1685,94,Oct
+1089,Keras Tuner Hyperparameter Tuning-How To Select Hidden Layers And Number of Hidden Neurons In ANN,2020-10-18,84151,1760,155,Oct
+1090,Interview Prep Day 6-How To Learn Machine Learning Algorithms For Interviews-Random Forest Algo🔥🔥🔥🔥,2020-10-18,27060,572,17,Oct
+1091,How to Prepare For Deep Learning Interviews- Important Interview Questions in ANN-Part 1🔥🔥🔥🔥,2020-10-17,55947,802,43,Oct
+1092,Live - Understanding About GPU's- CPU VS GPU- Which GPU We Should Buy?,2020-10-16,4503,217,9,Oct
+1093,Why Automation Will Not Kill Data Science Jobs?,2020-10-14,10781,456,52,Oct
+1094,Future Of Python-Will It be Replaced?,2020-10-13,19067,855,104,Oct
+1095,Xgboost Classification Indepth Maths Intuition- Machine Learning Algorithms🔥🔥🔥🔥,2020-10-12,200191,3228,176,Oct
+1096,Hottest And Best Domains Where Data Scientist And Data Analyst Are Paid More Salaries 🔥🔥🔥🔥,2020-10-10,32138,927,69,Oct
+1097,Tutorial 1-What Is Reinforcement Machine Learning? 🔥🔥🔥🔥,2020-10-09,53316,1059,27,Oct
+1098,Live Q&A For Aspiring  Data Scientist-Ask Any Question Regarding Data Science,2020-10-08,6520,323,15,Oct
+1099,Interview Prep Day 5-How To Learn Machine Learning Algorithms For Interviews- Logistic Regression🔥🔥🔥,2020-10-06,27907,465,25,Oct
+1100,Complete Roadmap To Follow To  Prepare Machine Learning With All Videos And Materials,2020-10-05,304883,5258,170,Oct
+1101,Path of Non Technical Person Towards Data Analytics Industry-Data Analyst And Data Scientist,2020-10-04,33444,1425,96,Oct
+1102,Tutorial 1-Machine Learning Model Retraining Approach-Incremental And Continuous Model Training 🔥🔥🔥🔥,2020-10-03,36546,931,72,Oct
+1103,Live- Conversation With Amit Bose-Transition From Commerce Background To Data Analyst,2020-10-02,13759,633,40,Oct
+1104,Tutorial 2- Feature Selection-How To Drop Features Using Pearson Correlation,2020-10-02,152627,3267,213,Oct
+1105,Complete Road Map To Prepare For Deep Learning🔥🔥🔥🔥,2020-10-01,258475,3776,97,Oct
+1106,D-Tale The Best Library To Perform Exploratory Data Analysis Using Single Line Of Code🔥🔥🔥🔥,2020-09-30,41998,1452,96,Sep
+1107,Tutorial 1- Feature Selection-How To Drop Constant Features Using Variance Threshold,2020-09-30,119691,2094,85,Sep
+1108,Pandas Visual Analysis- Perform Exploratory Data Analysis In A Single Line Of Code🔥🔥🔥🔥,2020-09-29,26653,949,102,Sep
+1109,Data Science Myths Vs Reality Explained- Sharing My Experience- Must Watch For Everyone🔥🔥🔥🔥,2020-09-27,20481,1079,133,Sep
+1110,Interview Prep Day 4-How To Learn Machine Learning Algorithms For Interviews- Decision Trees🔥🔥,2020-09-27,39249,622,25,Sep
+1111,How To Convert A Kaggle Project To A End To End Data Science With Deployment For Freshers 🔥🔥🔥🔥,2020-09-26,47122,1770,42,Sep
+1112,Complete Road Map To Prepare NLP-Follow This Video-You Will Able to Crack Any DS Interviews🔥🔥,2020-09-25,672020,5032,149,Sep
+1113,Data Science Live Q&A- Ask Any Queries Related To Data Science Interviews🔥🔥,2020-09-24,5325,308,17,Sep
+1114,Exploring RapidMiner-Amazing Data Science Platform To Solve Machine Learning And DL Usecases,2020-09-23,10472,314,15,Sep
+1115,Interview Prep Day3-How To Prepare Support Vector Machines Important Questions In Interviews🔥🔥,2020-09-23,29700,660,56,Sep
+1116,Interview Prep Day 2- Linear Regression Interview Question-The Most Important Algorithm In ML & DS🔥🔥,2020-09-22,101954,2573,82,Sep
+1117,Final Year Student To Deep Learning Engineer Internship- Transition Story- Must For Freshers,2020-09-21,11672,435,43,Sep
+1118,Interview Prep Day 1-How To Learn Machine Learning Algorithms For Interviews- Naive Bayes Classifier,2020-09-21,329442,3413,229,Sep
+1119,Top 5 Data Science Projects/Ideas For Your Resume For Freshers From My Playlist- Must Watch🔥🔥🔥,2020-09-20,102709,3914,132,Sep
+1120,Focus On Story Telling-How To Ace Data Science Interviews?,2020-09-19,16120,867,37,Sep
+1121,Tutorial 7- Database As A Service- Setting Up MongoDB ATLAS In Cloud With Python,2020-09-19,10238,240,18,Sep
+1122,Complete Road Map To Be Expert In Python- Follow My Way,2020-09-18,1930144,20978,508,Sep
+1123,Data Science In Medical-Live Tracking Of CO--VID Cases In India using Python,2020-09-18,13311,414,37,Sep
+1124,How to Learn Statistics for Data Science As A Self Starter- Follow My Way,2020-09-17,346873,5976,162,Sep
+1125,How To Set Profile And Apply Data Science Jobs In LinkedIn- Must For Freshers,2020-09-16,75443,2623,76,Sep
+1126,"Tutorial 6- MongoDb With Python- Aggregate Functions($group,$sum,$avg,$project)- Data Science",2020-09-15,17191,311,22,Sep
+1127,Step By Step Path Of Transition From Data Analyst To Data Scientist,2020-09-14,9203,411,19,Sep
+1128,VGGNET Architecture In-depth Discussion Along With Code -Deep Learning Advanced CNN,2020-09-12,64432,1393,111,Sep
+1129,Step By Step Path To Become A Data Analyst in 2020,2020-09-12,56968,2226,122,Sep
+1130,Tutorial 3- MySQL With Python And Data Science Performing CRUD Operations On Table,2020-09-11,16465,325,27,Sep
+1131,Live- Virtual Interview For Data Scientist By Krish And Sudhanshu,2020-09-11,19681,625,65,Sep
+1132,Alexnet Architecture In-depth-Discussion Along With Code-Deep Learning Advanced CNN,2020-09-11,46470,909,50,Sep
+1133,Tutorial 2- MySQL With Python And Data Science- Installing MySQL DB Connector And Creating Databases,2020-09-10,20479,419,18,Sep
+1134,Live- How To Create Deep Learning Model Using Tensorflow JS,2020-09-09,7047,183,8,Sep
+1135,Tutorial 1- MySQL With Python And Data Science- MySQL Installation Steps,2020-09-09,171121,2160,76,Sep
+1136,Why Domain Knowledge Is Important In Data Science?,2020-09-07,14033,665,79,Sep
+1137,How To Train Deep Learning Models In Google Colab- Must For Everyone,2020-09-06,320875,5744,352,Sep
+1138,Live - Data Science Q&A And Upcoming Videos Plan,2020-09-05,3156,228,7,Sep
+1139,Machine Learning And Deep Learning Model Deployment Architecture Using TF Lite In Mobile,2020-09-05,12965,360,24,Sep
+1140,Special Thanks To Youtube - Happy Teacher's Day Youtube,2020-09-05,2892,301,103,Sep
+1141,Machine Learning And Deep Learning Model Deployment Architecture Using API's,2020-09-05,34175,944,60,Sep
+1142,Live- Virtual Interview Session For Data Science- Session 8,2020-09-04,12569,436,12,Sep
+1143,Live -Transformers Indepth Architecture Understanding- Attention Is All You Need,2020-09-03,222859,4457,240,Sep
+1144,Data Science Is Just Not About Model Building,2020-09-03,14961,629,64,Sep
+1145,Live -End To End Docker Implementation Of Data  Science Projects,2020-09-02,7842,297,9,Sep
+1146,Debugging Server Side Application Using Python In Pycharm,2020-09-01,6157,195,7,Sep
+1147,Live Virtual Interview Of Experienced For Data Scientist,2020-09-01,65269,1571,103,Sep
+1148,"Tutorial 7-Build,Train,Deploy Machine Learning Model AWS SageMaker- Predicting Test Data Endpoints",2020-08-31,42344,645,114,Aug
+1149,Live- Conversation With Data Structure And Algorithms Mentor For Free Community Session,2020-08-30,10233,381,38,Aug
+1150,"Tutorial 6-Build,Train,Deploy Machine Learning Model AWS SageMaker- Deployment Of Xgboost ML Model",2020-08-30,40395,603,20,Aug
+1151,"Tutorial 5-Build,Train, Deploy Machine Learning Model In AWS SageMaker-Training Xgboost ML ALgo",2020-08-30,49833,668,70,Aug
+1152,Live-How To Prepare Resume For Data Scientist As A Fresher,2020-08-29,55769,2555,67,Aug
+1153,"Tutorial 4-Build,Train, Deploy Machine Learning Model In AWS SageMaker- Uploading Files In S3 Bucket",2020-08-29,60750,775,77,Aug
+1154,"Tutorial 3-Build,Train, Deploy Machine Learning Model In AWS SageMaker- Creating S3 Buckets",2020-08-29,78270,1057,92,Aug
+1155,"Tutorial 2-Build,Train, Deploy Machine Learning Model In AWS SageMaker- Creating Notebook Instance",2020-08-29,103597,1573,74,Aug
+1156,Live -Virtual Interview Of Fresher For Data Science - Session 6,2020-08-28,25642,719,52,Aug
+1157,Live- Exploring Nvidia RAPIDS- Open GPU Data Science,2020-08-27,7428,327,12,Aug
+1158,"Live- Attention Models, Transformers  In depth Intuition Deep Learning- Part 2",2020-08-26,40956,1221,64,Aug
+1159,AWS SageMaker For ML And DL Tutorial Playlist- What Will We Learn In This Playlist?,2020-08-26,139465,2499,74,Aug
+1160,Live Community Sessions Announcements- Covering All Technology Stack,2020-08-25,13862,751,76,Aug
+1161,Silhouette (clustering)- Validating Clustering Models- Unsupervised Machine Learning,2020-08-25,58624,1393,66,Aug
+1162,"Live Session- Encoder Decoder,Attention Models, Transformers, Bert Part 1",2020-08-24,84211,2015,71,Aug
+1163,Pytorch Tutorial 6- How To Run Pytorch Code In GPU Using CUDA Library,2020-08-24,81968,829,28,Aug
+1164,Live - Successful Transition Story Of SAP Consultant To Data Scientist,2020-08-23,23856,813,70,Aug
+1165,Live Project-Cotton Disease Prediction Deep Learning Live Project Implementation,2020-08-22,112836,2394,132,Aug
+1166,Live Virtual Interview For Data Science Fresher By Krish And Sudhanshu,2020-08-21,157000,3657,207,Aug
+1167,Live-Best Practices For Data Science Project Development|Session By Chief Technology Officer-Ineuron,2020-08-20,8536,277,25,Aug
+1168,Finally Built My Deep Learning And Gaming Workstation With Nvidia Titan RTX GPU 🔥🔥🔥🔥🔥- It's A Beast🔥,2020-08-20,30126,823,119,Aug
+1169,Live Session- Understanding Attention Models Architecture And Maths Intuition- Deep Learning,2020-08-19,63652,1574,64,Aug
+1170,Live Virtual Interview For Data Science- Background Applied Geology From IIT Kharagpur,2020-08-18,35478,955,46,Aug
+1171,Live Project Developing AI Advertisement Platform Using Deep Learning,2020-08-17,8798,289,19,Aug
+1172,Announcement For Give Away For Women Data Science Aspirants - Promoting Data Science,2020-08-16,6534,190,27,Aug
+1173,Live Q&A Data Science By Krish And Sudhanshu- Give Away For Women To Promote AI,2020-08-16,10971,377,8,Aug
+1174,Live Virtual Interview For Data Science From Teaching Assistant To Data Scientist,2020-08-14,20097,657,25,Aug
+1175,Live Project- Web Application - Loan Default Prediction- Masters Thesis,2020-08-13,30732,694,27,Aug
+1176,Live Interview Of Lakshay For Data Science- Commerce And Statistics Background,2020-08-12,23889,644,39,Aug
+1177,Nvidia Titan RTX Unboxing And Specs And Comparison- Deep Learning,2020-08-11,12653,423,98,Aug
+1178,Live Data Science Q&A With Krish And Sudhanshu- Give Away ML for Deployment+Internships For Women,2020-08-09,11420,474,39,Aug
+1179,Live Virtual Nervous Interview Of Mechanical Engineer For Data Science,2020-08-07,27215,440,61,Aug
+1180,Live- Discussion On Cross Validation Techniques And Selection of Machine Learning Algorithms,2020-08-06,9619,453,13,Aug
+1181,Live Transition Story Of Civil Engineer To Data Scientist With 2 Years Gap,2020-08-05,20877,752,40,Aug
+1182,Problems With Encoders And Decoders- Indepth Intuition,2020-08-05,37554,686,21,Aug
+1183,Step By Step Playlist To Follow To Learn Data Science Through My Channel - Part 2,2020-08-04,32114,1202,88,Aug
+1184,Live Virtual Interview For Data Science By Krish And Sudhanshu,2020-08-04,35760,940,54,Aug
+1185,Step By Step Playlist To Follow To Learn Data Science Through My Channel Part 1- Must for Everyone,2020-08-03,130730,5498,299,Aug
+1186,Live Discussion On Outlier And Its Impacts On Machine Learning UseCases,2020-08-02,52629,2063,74,Aug
+1187,Live Discussion On Handling Imbalanced Dataset- Machine Learning,2020-08-01,81078,2882,91,Aug
+1188,Live Virtual Interview For Internship For College Student By Krish And Sudhanshu,2020-07-31,48538,1400,106,Jul
+1189,Pytorch Tutorial 5-Live- Kaggle Advance House Price Prediction Using Pytorch Deep Learning,2020-07-30,21774,589,26,Jul
+1190,Live Virtual Interview For Data Science By Krish And Sudhanshu Part 2,2020-07-28,35659,989,189,Jul
+1191,Live In-depth Discussion Of PyCaret Automated Machine Learning Library Part 2,2020-07-27,5618,249,10,Jul
+1192,Live In-depth Discussion Of PyCaret Automated Machine Learning Library,2020-07-26,15422,495,27,Jul
+1193,Hyperparameter Tuning Techniques Genetic Algorithms And Optuna Data Science Machine Learning- Part 2,2020-07-25,19510,659,24,Jul
+1194,Live- Data Science Virtual Interview By Krish And Sudhanshu-Part 1,2020-07-24,93661,1817,154,Jul
+1195,Live-Discussing All Hyperparameter Tuning Techniques Data Science Machine Learning,2020-07-23,82677,2333,71,Jul
+1196,Live Q&A Data Science With Sudhanshu Kumar Part 2,2020-07-22,10650,397,24,Jul
+1197,Live-Charity Stream To Help Bihar And Assam Floods- My Special Journey To 200k subscribers,2020-07-21,6691,486,23,Jul
+1198,Live-Features Selection-Various Techniques To Select Features  Day 7,2020-07-20,59962,1622,69,Jul
+1199,Pytorch Tutorial 4- Solving Kaggle Pima Diabetes Prediction Using ANN With PyTorch Library,2020-07-20,30538,729,51,Jul
+1200,Live-Feature Engineering-All Standardization And Transformation Techniques- Day 6,2020-07-19,51156,1597,54,Jul
+1201,Live-Feature Engineering- Forecasting Time Series Using Facebook Fbprophet-Day 5,2020-07-18,22724,553,35,Jul
+1202,Summary Live Streaming-Feature Engineering- Probability Ratio Encoding- Handling Categorical Feature,2020-07-18,21577,485,20,Jul
+1203,Summary Live Q&A-Sudhanshu Journey On Data Science,2020-07-17,10206,504,44,Jul
+1204,Pytorch TutoriaL 3-How To Perform BackPropogation Using Pytorch,2020-07-17,18502,349,30,Jul
+1205,Live-Feature Engineering-All Techniques To Handle Categorical Features - Day 4,2020-07-16,51241,1487,66,Jul
+1206,Live-Feature Engineering-All Techniques To Handle Missing Values- Day 3,2020-07-15,64577,1709,56,Jul
+1207,Live-Feature Engineering-All Techniques To Handle Missing Values- Day 2,2020-07-14,69935,2009,87,Jul
+1208,Pytorch Tutorial 2-Understanding Of Tensors Using Pytorch,2020-07-14,28905,532,34,Jul
+1209,Live-Feature Engineering-All Techniques To Handle Missing Values- Day 1,2020-07-13,133907,3950,136,Jul
+1210,Live Unboxing MSI Laptop For Machine Learning And Deep Learning,2020-07-12,18942,342,74,Jul
+1211,Pytorch Tutorial 1-Pytorch Installation For Deep Learning,2020-07-12,69026,979,54,Jul
+1212,Live Discussion Of Roles And Responsibilities In Data Science Project- Further Announcements,2020-07-11,5987,419,15,Jul
+1213,Live- How To Approach Interviews For Data Science,2020-07-10,8520,613,18,Jul
+1214,Live- Implementation Of Malaria Disease Using Deep Learning End To End Projects With Deployment,2020-07-09,67340,1575,123,Jul
+1215,Live Summary- Memory Profiler In Python- How To Effectively Check Your Code Quality With Memory,2020-07-08,15208,276,26,Jul
+1216,Live- Implementation Of 7 HealthCare End To End Projects With Deployment,2020-07-08,98699,2163,33,Jul
+1217,Summary Recap Of Live Implementation Of Movie Recommendation With Deployment Using Heroku,2020-07-07,27767,728,55,Jul
+1218,Summary Of Live- Implementation Of Flight Fare Prediction Web App Project With Deployment,2020-07-07,14186,399,25,Jul
+1219,Live Implementation Of Movie Recommendation With Deployment Using Heroku,2020-07-06,141463,3991,169,Jul
+1220,Live- Implementation Of Flight Fare Prediction Web App Project With Deployment,2020-07-05,213477,6601,235,Jul
+1221,Live- Implementation of Cricket Score Prediction App With Deployment For IPL(Sport Analytics),2020-07-04,70446,2596,102,Jul
+1222,Summary of Live Discussion- Career Guidance For Freshers And Experienced In Data Science,2020-07-04,2867,200,23,Jul
+1223,Live Discussion- Career Guidance For Freshers And Experienced In Data Science,2020-07-03,10626,885,27,Jul
+1224,Live Discussion - How To Read Research Papers As A Data Scientist,2020-07-03,7312,286,15,Jul
+1225,Live Project-Stock Sentiment Analysis using News Headlines Machine Learning,2020-07-02,94870,2690,63,Jul
+1226,Live Session-Implementing Deep Learning Project From Scratch To Deployment- Heroku(Car Brand Class),2020-07-01,85014,1648,109,Jul
+1227,Live- Implementation of End To End Kaggle Machine Learning Project With Deployment,2020-06-30,609170,14118,681,Jun
+1228,Live-3 Weeks Big Data With Pyspark Community Classes Announcement For EveryOne For Free,2020-06-29,9695,457,46,Jun
+1229,Live Discussion - How To Read Text From Images Using Pytesseract,2020-06-29,51182,1015,101,Jun
+1230,Live Discussion - How To Read Text From Images Using Pytesseract,2020-06-29,7411,234,11,Jun
+1231,Live Discussion - How To Read Research Papers As A Data Scientist,2020-06-28,6044,221,27,Jun
+1232,Live Discussion of Resume Of Data Scientist,2020-06-27,17310,541,39,Jun
+1233,Live Discussion of Resume Of Data Scientist,2020-06-27,4201,265,5,Jun
+1234,Encoder And Decoder- Neural Machine Learning Language Translation Tutorial With Keras- Deep Learning,2020-06-27,101188,1391,113,Jun
+1235,How To Prepare For Applying Freelancing Jobs For Data Science,2020-06-26,16207,623,24,Jun
+1236,Amazing Guidelines For Creating GitHub Profiles For Data Scientist,2020-06-25,37801,1206,28,Jun
+1237,Impact Of Artificial Intelligence On Employment- Data Science,2020-06-24,6093,247,28,Jun
+1238,Indian Paper Currency Predictor- Data Science Projects From Subscribers,2020-06-23,6350,212,27,Jun
+1239,Deployment Of Machine Learning PIPELINES Using Dockers and Kubernetes,2020-06-23,51941,953,64,Jun
+1240,Biggest Hurdles In AI Adoption Faced By Executives And Companies| Data Science,2020-06-22,2744,133,16,Jun
+1241,Live Q&A -  Future Videos To Come Regarding Data Science,2020-06-21,4117,149,15,Jun
+1242,All Automated Machine Learning Libraries At One Place- Project From Subscribers,2020-06-21,7402,322,12,Jun
+1243,Interesting Facts And Stats On Artificial Language,2020-06-20,2648,127,17,Jun
+1244,How To Debug Logs And Web Application In Heroku|Data Science,2020-06-20,35399,558,108,Jun
+1245,Building Automated Exploratory Data Analysis Project- Project From Subscriber,2020-06-20,15315,573,32,Jun
+1246,Important Point To Consider When Implementing Data Science Projects & Interviews-Must For Everyone,2020-06-19,5350,410,47,Jun
+1247,Twitter Tweet's Analyzer Using Streamlit Web App- Projects From Subscribers,2020-06-19,9706,270,18,Jun
+1248,Deploy Streamlit WebApp ML Models In Heroku(PAAS)- Data Science,2020-06-18,26571,516,42,Jun
+1249,The Correct Guidance To Learn Deep Learning Techniques|Sharing My Experience,2020-06-17,16951,953,81,Jun
+1250,Be Aware Of Data Science Job Description And Assignment,2020-06-16,19574,1025,148,Jun
+1251,Sequence To Sequence Learning With Neural Networks| Encoder And Decoder In-depth Intuition,2020-06-16,147008,2893,58,Jun
+1252,Salary By Developer Type Based On Experience|Analyzing Stack Overflow Developer Survey 2020,2020-06-15,3144,99,10,Jun
+1253,Live Q&A  Data Science,2020-06-14,4434,141,25,Jun
+1254,How To Perform Post Pruning In Decision Tree? Prevent Overfitting- Data Science,2020-06-14,40912,924,49,Jun
+1255,Most Popular Databases Used By Professionals,2020-06-14,5348,153,11,Jun
+1256,"Most Loved, Dreaded And Wanted Programming Languages",2020-06-13,14304,138,19,Jun
+1257,Deploy Machine Learning Models Using StreamLit Library- Data Science,2020-06-13,132305,1946,53,Jun
+1258,Hummingbird-Run Traditional Machine Learning model on Deep Neural Network frameworks-Data Science,2020-06-13,18940,303,22,Jun
+1259,Develop Your First Deep Learning End To End Project As A Beginner In Data Science in 30 minutes,2020-06-12,46492,1019,84,Jun
+1260,Give Away Results Of Abhishek Thakur New Books- Best Of Luck,2020-06-11,3921,151,52,Jun
+1261,4 End To End Projects Till Deployment For Beginners In Data Science| All You Have To Do Is Learn,2020-06-10,63767,2406,111,Jun
+1262,How To Convert Business Ideas And Opportunities Into Data Science Projects?,2020-06-10,7329,331,14,Jun
+1263,Is Age A Barrier To Get Into Data Science? Misconception,2020-06-09,20307,798,114,Jun
+1264,"Guidance Towards Data Science|Panel Discussion With Dhaval, Ken Jee And Data Professor",2020-06-08,13946,734,80,Jun
+1265,All You Want To Know About Kaggle-  Podcast With Abhishek Thakur Kaggle Grandmaster- Give Away Books,2020-06-07,31002,1474,369,Jun
+1266,Perform EDA In Seconds With Visualization Using SweetViz Library,2020-06-06,28617,1117,90,Jun
+1267,Tips For Resume Preparation For None Coding Background For Data Science- Podcast Summary,2020-06-06,4531,185,15,Jun
+1268,Free Statistics Community Live Classes For All|Initiative To Give To Data Science Community,2020-06-05,12055,633,140,Jun
+1269,Successful Transition From Finance Domain To Data Science- Author Of PyCaret| Podcast Summary,2020-06-05,2195,69,13,Jun
+1270,Should We Learn All Data Science LifeCycle Even Though We Have Automated Libraries|Author Of PyCaret,2020-06-05,2877,113,12,Jun
+1271,How To Read And Process Huge Datasets in Seconds Using Vaex Library| Data Science| Machine Learning,2020-06-04,25622,771,49,Jun
+1272,Perform Exploratory Data Analysis In Minutes- Data Science| Machine Learning,2020-06-03,73998,2189,150,Jun
+1273,Best Website Blogs For Data Science Tutorials|Important For Everyone,2020-06-02,10737,528,20,Jun
+1274,Julia Vs R Vs Python Programming Language For Data Science,2020-06-01,14470,379,48,Jun
+1275,Python Vs R Programming Language- Which One Should You Choose?,2020-05-31,16287,475,47,May
+1276,Top Data Science Communities to Join For Learning | Must For Making Transition To Data Science,2020-05-31,21691,652,38,May
+1277,StackOverflow Developer Survey 2020 Overview,2020-05-30,2232,76,13,May
+1278,Implement Kaggle Fake News Classifier Using Bidirectional LSTM RNN,2020-05-30,32882,682,60,May
+1279,Bidirectional RNN Indepth Intuition- Deep Learning Tutorial,2020-05-30,71516,1662,38,May
+1280,How To Contribute To Open Source Data Science Projects And Libraries,2020-05-29,19584,761,17,May
+1281,Blue Yeti Mic Unboxing - Best Mic For Youtube Videos Recordings,2020-05-28,1827,84,13,May
+1282,Data Science Vs Data Mining,2020-05-28,20275,617,40,May
+1283,Live Q&A DATA SCIENCE,2020-05-27,3368,102,18,May
+1284,Whether Data Science Is Becoming Software Engineering?,2020-05-26,7730,342,63,May
+1285,Stock Price Prediction And Forecasting Using Stacked LSTM- Deep Learning,2020-05-25,513954,9244,552,May
+1286,How To Create Your Own Brand As A Data Scientist? Yes You Can Do It,2020-05-24,9749,473,43,May
+1287,Conversation with the Author of PyCaret-Career Transition from Finance to Data Science,2020-05-24,5622,241,24,May
+1288,Lets Implement LSTM RNN Models For Univariate Time Series Forecasting- Deep Learning,2020-05-23,107798,1791,137,May
+1289,"Docker Tutorial 6- Writing, Building And Running Docker Image| Machine Learning",2020-05-23,43146,695,158,May
+1290,Why OOPS Concepts Is Must For Implementing Complex Data Science Projects,2020-05-22,14493,596,39,May
+1291,Did You Improve Your Productivity During This Lockdown?- Data Science - Sharing My Experience,2020-05-21,4658,228,56,May
+1292,Docker Tutorial 5- Understanding Docker Commands- Machine Learning,2020-05-21,32058,810,50,May
+1293,Atmanirbhar- Let's Become Specialized Data Scientist,2020-05-20,8777,605,94,May
+1294,Docker Tutorial 4-Docker Installation instructions In Windows And Other OS | Machine Learning,2020-05-20,37437,471,50,May
+1295,Kaggle Faker News Classifier Using LSTM- Deep LEarning| Natural Language Processing,2020-05-19,111582,1929,181,May
+1296,Successful Transition Story From Civil Engineer To A Data Scientist,2020-05-18,46359,1236,122,May
+1297,Live Q&A Data Science,2020-05-17,11701,372,53,May
+1298,Please Help Each Other To Pass This Crisis- Motivation(Important For Everyone),2020-05-17,2150,173,24,May
+1299,Docker Tutorial 3-Deploying Machine Learning Models Using Flask And Flasgger,2020-05-17,48750,828,92,May
+1300,Docker Tutorial 2- Building A Flask App For A Bank Note Authentication,2020-05-16,66445,1401,136,May
+1301,Successful Transition Story From Mechanical Engineer To A Data Scientist,2020-05-16,51594,1544,185,May
+1302,How To Stay Relevant in Data Science Industry- Sharing My Experience,2020-05-15,5506,309,27,May
+1303,"Docker Tutorial 1- Why and What is Docker, Dockers Containers, Virtualization In Machine Learning",2020-05-14,127742,3250,137,May
+1304,Gradient Boosting Complete Maths Indepth Intuiton Explained| Machine Learning- Part2,2020-05-14,106218,2190,137,May
+1305,Neural Network 3d Visualization Framework- Deep Learning,2020-05-13,4791,233,25,May
+1306,Develop your Neural Network Like A Google Deep Learning Developer,2020-05-12,38048,1451,96,May
+1307,Gradient Boosting In Depth Intuition- Part 1 Machine Learning,2020-05-11,209618,4246,158,May
+1308,Feedback Regarding The Initiative To Give Back To The Data Science Community- Ft: Ineuron,2020-05-10,2705,157,110,May
+1309,Implementing Word Embedding Using Keras- NLP | Deep Learning,2020-05-10,100325,2048,112,May
+1310,Machine Learning Challenge Or Competition For EveryOne Ft: Ineuron,2020-05-09,5167,195,32,May
+1311,My Laptop Lenovo Legion Y 540 Performance After Using 1 Month,2020-05-09,37120,918,150,May
+1312,Word Embedding - Natural  Language Processing| Deep Learning,2020-05-08,172409,3733,133,May
+1313,FAKE NEWS CLASSIFIER WITH MACHINE LEARNING ALGORITHMS USING Natural Language Processing- PART 2,2020-05-08,35743,522,30,May
+1314,FAKE NEWS CLASSIFIER WITH MACHINE LEARNING ALGORITHMS USING Natural Language Processing- PART 1,2020-05-07,98408,1458,111,May
+1315,Free Data Science Project Architecture And Resume Building Sessions- Giving Back To DS Community,2020-05-06,11232,597,173,May
+1316,All About Recessions And Its Impact Due To These Recent Events,2020-05-05,6702,313,63,May
+1317,Machine Learning-Bias And Variance In Depth Intuition| Overfitting Underfitting,2020-05-04,279345,7785,457,May
+1318,Who Are My Channel Audience? (Important Message For Everyone),2020-05-03,10867,988,349,May
+1319,Natural Language Processing|TF-IDF Intuition| Text Prerocessing,2020-05-02,280293,7133,209,May
+1320,Natural Language Processing|Bag Of Words Intuition,2020-05-02,198547,4045,78,May
+1321,Natural Language Processing| Stemming And Lemmatization Intuition,2020-05-02,141683,3086,83,May
+1322,Maths Intuition Behind Support Vector Machine Part 2 | Machine Learning Data Science,2020-05-02,218483,5625,328,May
+1323,Are Certification Necessary For Data Science?,2020-05-01,30264,1497,179,May
+1324,How To Develop Multi Output Regression Models With Python- Machine Learning,2020-05-01,24470,430,39,May
+1325,Impacts On Hiring For Jobs Due To The Recent Events,2020-04-30,12015,572,68,Apr
+1326,Hottest Domains To Work To Get Into Data Science Careers,2020-04-29,21060,910,99,Apr
+1327,Support Vector Machine (SVM) Basic Intuition- Part 1| Machine Learning,2020-04-28,393333,8770,227,Apr
+1328,How To visualize Decision Tree In Random Forest- Machine Learning,2020-04-28,16973,286,18,Apr
+1329,Easy Way To Visualize Decision Tree- Machine Learning Algorithm,2020-04-27,23166,429,57,Apr
+1330,Automate Anomaly Detection Using Pycaret -Data Science And Machine Learning,2020-04-27,36020,749,91,Apr
+1331,Who Is The Best Person To Judge You? Motivational Talks,2020-04-26,3284,276,46,Apr
+1332,Live Q&A Data Science,2020-04-26,5214,206,25,Apr
+1333,Free Python Live Sessions For Data Science-  Initiative To Give Back To Data Science Community,2020-04-25,11458,439,347,Apr
+1334,Step By Step Process To Learn Machine Learning Algorithm Efficiently,2020-04-24,67842,2935,150,Apr
+1335,Do Not Memorize Code In Data Science. Just Google It(Important For Freshers And Experienced),2020-04-23,38773,2317,258,Apr
+1336,Giving Back To The Data Science Community Initiative- Free Tableau and Power BI Live Sessions,2020-04-22,17352,713,241,Apr
+1337,Tutorial 49- How To Apply Naive Bayes' Classifier On Text Data (NLP)- Machine Learning,2020-04-21,126894,2472,148,Apr
+1338,Tutorial 48- Naive Bayes' Classifier Indepth Intuition-  Machine Learning,2020-04-20,331732,7719,311,Apr
+1339,Tutorial 47- Bayes' Theorem| Conditional Probability- Machine Learning,2020-04-19,311590,5849,132,Apr
+1340,Solving Kaggle Credit Card Fraud Detection Using Pycaret Library- Data Science,2020-04-18,22221,550,52,Apr
+1341,Sharing My Experience- How Teaching Has Improved My Data Science Skills,2020-04-17,2191,176,39,Apr
+1342,Automate LifeCycle Of Data Science Projects By Using This Open Source Library,2020-04-14,12376,428,48,Apr
+1343,Teachable  Machine By Google- Train Your Model With Ease,2020-04-13,20214,441,48,Apr
+1344,How to Build A Data Science Portfolio That Can Get You Jobs?,2020-04-12,60558,2685,97,Apr
+1345,Live Q&A Data Science,2020-04-12,3725,170,13,Apr
+1346,Tutorial 42-How To Find Optimal Threshold For Binary Classification - Data Science,2020-04-11,77790,1483,65,Apr
+1347,How Should You Explain Your Data Science Projects To Recruiters?- Must Watch For Everyone,2020-04-10,98683,4172,111,Apr
+1348,Tutorial 12 PowerQuery DateTime Functions,2020-04-10,5879,88,17,Apr
+1349,Tutorial 11 PowerQuery Merge Queries,2020-04-10,4712,69,4,Apr
+1350,Tutorial 10 PowerQuery Append Queries,2020-04-10,5036,67,4,Apr
+1351,Tutorial 9 - PowerQuery Text Transformation,2020-04-10,6292,79,8,Apr
+1352,Tutorial 8-Power Query Add And Transform Column,2020-04-10,7123,80,1,Apr
+1353,Tutorial 7- Data Types In PowerBI,2020-04-10,9967,115,7,Apr
+1354,Tutorial 6- Introduction And In Depth Understanding of Power Query(ETL),2020-04-10,12666,137,12,Apr
+1355,Tutorial 5- Introduction To Power BI Desktop,2020-04-10,11692,120,7,Apr
+1356,Tutorial 4- Power BI Installation,2020-04-10,10653,95,9,Apr
+1357,Tutorial 3- Introduction To Power BI,2020-04-10,11819,109,5,Apr
+1358,Tutorial 2- What Is Business Intelligence?,2020-04-10,16104,171,11,Apr
+1359,Tutorial 1 Power BI Course Overview. What All We Will Learn?,2020-04-10,44644,479,13,Apr
+1360,Feature Engineering-How to Transform Data to Better Fit The Gaussian Distribution-Data Science,2020-04-09,28243,723,57,Apr
+1361,My Recording Gears For Data Science Videos,2020-04-07,4855,234,42,Apr
+1362,Tutorial 7- FAQ Chatbot Using RASA NLU- Conclusion and Further Work,2020-04-06,5158,73,19,Apr
+1363,Tutorial 6- FAQ Chatbot Using RASA NLU- Telegram Integration,2020-04-06,10032,88,10,Apr
+1364,Tutorial 5- FAQ Chatbot Using RASA NLU- FAQ Chatbot Implementation,2020-04-06,12872,94,15,Apr
+1365,Tutorial 4- FAQ Chatbot Using RASA NLU- FAQ Problem Statement,2020-04-06,8256,53,3,Apr
+1366,Tutorial 3- FAQ Chatbot Using RASA NLU- Introduction To RASA,2020-04-06,19244,158,19,Apr
+1367,Tutorial 2- FAQ Chatbot Using RASA NLU- Chatbot Introduction,2020-04-06,15242,87,6,Apr
+1368,Tutorial 1- FAQ Chatbot Using RASA NLU,2020-04-06,26679,162,5,Apr
+1369,Why Domain Knowledge Is Important For Data Scientist?,2020-04-05,3986,187,21,Apr
+1370,How Do I Learn Complex Topics In Machine Learning And Deep Learning?,2020-04-04,5586,316,46,Apr
+1371,Tableau Tutorial BI- Bar Graph KPI,2020-04-01,5372,54,8,Apr
+1372,Tableau Tutorial BI- Market Basket Analysis,2020-04-01,8896,91,5,Apr
+1373,Tableau Tutorial BI- Sunburst Pie Charts,2020-04-01,7762,62,7,Apr
+1374,Tutorial 8-Weather Chatbot Project Using Azure Luis- Conclusion,2020-04-01,3879,30,7,Apr
+1375,Tutorial 7-Weather Chatbot Project Using Azure Luis- Integration With Telegram,2020-04-01,4233,16,3,Apr
+1376,Tutorial 6-Weather Chatbot Project Using Azure Luis- Deployment Of Chatbot,2020-04-01,5213,23,6,Apr
+1377,Tutorial 5-Weather Chatbot Project Using Luis-  Building the Python App,2020-04-01,9080,47,25,Apr
+1378,Tutorial 4-Weather Chatbot Project Using Luis-  Building the Luis App,2020-04-01,11731,75,4,Apr
+1379,Tutorial 3- Weather Chatbot Project Using Luis-  Problem Statement,2020-04-01,8120,30,1,Apr
+1380,Tutorial 2-Weather Chatbot Project Using Azure Luis- Chatbot Introduction,2020-04-01,9744,53,8,Apr
+1381,Tutorial 1 Weather Chatbot Project Using Azure Luis Outline,2020-04-01,17107,89,7,Apr
+1382,"Tableau Tutorial BI- Scatter Plot, Bar Chart, Histogram",2020-03-31,7553,86,6,Mar
+1383,arXiv.org- Find Research Papers And Scholarly Articles In Data Science,2020-03-30,8833,232,19,Mar
+1384,Tutorial 28-MultiCollinearity In Linear Regression- Part 2,2020-03-29,102875,1640,93,Mar
+1385,Live Q&A Data Science- Charity Towards PM Relief Fund,2020-03-29,4754,226,9,Mar
+1386,Tableau Tutorial BI- Data Aggregation- Local And Global Aggregation- Continuation,2020-03-28,6624,69,6,Mar
+1387,Tableau Tutorial BI- Data Aggregation- Local And Global Aggregation,2020-03-28,9208,94,7,Mar
+1388,Utilize This Time For Learning Skills And Improving Productivity- Saturday Motivation,2020-03-28,2056,109,17,Mar
+1389,Tableau Tutorial BI- Data Connection & Charts,2020-03-28,14529,195,22,Mar
+1390,Tableau Tutorial BI -Tableau Overview,2020-03-27,36888,320,17,Mar
+1391,Tableau Tutorial BI -Tableau Pricing In Details,2020-03-27,15120,100,2,Mar
+1392,Tableau Tutorial BI -Project Architecture Of a BI Project,2020-03-27,12514,120,5,Mar
+1393,Tableau Tutorial BI-Tableau Desktop Architecture,2020-03-27,15775,140,8,Mar
+1394,Tableau Tutorial BI -Tableau Introduction,2020-03-27,18250,152,8,Mar
+1395,Friday Live Q&A- Data Science,2020-03-27,2224,110,4,Mar
+1396,Chatbot With Google Dialoglow-  Summary And Further Work,2020-03-27,8038,82,9,Mar
+1397,Chatbot With Google Dialoglow- Integration With Telegram,2020-03-27,10819,68,6,Mar
+1398,Chatbot With Google Dialoglow- Implementing The FulFillment,2020-03-27,14884,107,17,Mar
+1399,Chatbot With Google Dialoglow- Building The Solution,2020-03-27,17055,120,19,Mar
+1400,Chatbot With Google Dialogflow- Business Problem- Let's Build The Chatbot,2020-03-27,15981,122,1,Mar
+1401,Chatbot With Google Dialogflow- Understanding The Framework,2020-03-27,30058,304,18,Mar
+1402,Chatbot With Google Dialogflow- Chatbot Fundamentals,2020-03-27,26101,134,9,Mar
+1403,End to End Chatbot with Deployment And Custom Service Integration,2020-03-27,46585,324,13,Mar
+1404,Live Q&A,2020-03-25,2710,179,29,Mar
+1405,Live Q&A Showing My Workspace,2020-03-25,2317,107,10,Mar
+1406,I have Reordered My Complete Machine Learning And Deep Learning Playlist- Complete it in 21 days,2020-03-25,6072,277,54,Mar
+1407,Interview Questions On Statistics - Data Science Interviews,2020-03-25,29494,889,25,Mar
+1408,Some Quick and Important Announcements,2020-03-25,4498,257,39,Mar
+1409,Spearman's rank correlation coefficient- Statistics,2020-03-24,71951,1486,61,Mar
+1410,Tutorial 34- LSTM Recurrent Neural Network In Depth Intuition,2020-03-24,210951,3117,131,Mar
+1411,Time Management- How Do I Efficiently Manage My Time?  My Experience- Motivation,2020-03-23,6514,358,18,Mar
+1412,Interview Questions On Decision Tree- Data Science,2020-03-23,37494,1180,68,Mar
+1413,Performance Metrics On MultiClass Classification Problems,2020-03-23,73609,1306,52,Mar
+1414,Time Complexity Of Machine Learning Models- Interview Questions- Data Science,2020-03-22,5822,185,17,Mar
+1415,Tutorial 36- Logistic Regression Mutliclass Classification(OneVsRest)- Part 3| Data Science,2020-03-21,114508,2382,72,Mar
+1416,Saturday Live Q&A,2020-03-21,2567,145,8,Mar
+1417,Performance Metrics Interview Questions- Data Science,2020-03-21,21201,543,47,Mar
+1418,Data Science Interview Questions- Multicollinearity In Linear And Logistic Regression,2020-03-20,40272,1104,72,Mar
+1419,What is Social Distancing?,2020-03-20,1287,69,6,Mar
+1420,Face Recognition Using Keras And Open CV Part 2- Model Creation And Testing,2020-03-20,33600,520,120,Mar
+1421,All About Membership In Krish's Channel,2020-03-20,34509,1776,112,Mar
+1422,How To Follow My Channel Playlist To Learn Data Science Efficiently,2020-03-19,14889,876,71,Mar
+1423,Forecasting Future Sales Using ARIMA and SARIMAX,2020-03-19,330881,5123,295,Mar
+1424,Face Recognition Using Keras And OpenCV- Part 1- Data Collection,2020-03-17,70972,1151,95,Mar
+1425,Uber Data Science Interview Process,2020-03-16,24281,796,88,Mar
+1426,Tutorial 33-  Installing Cuda Toolkit And cuDNN For Deep Learning,2020-03-15,190560,1961,233,Mar
+1427,E&Y Interview Process For Data Scientist- Job Referrals The Best Way to Get A Job,2020-03-14,53101,1632,75,Mar
+1428,Tutorial 13-Hadoop 2.X Yarn Architecture,2020-03-13,7704,146,25,Mar
+1429,Tutorial 12- Name Node Architecture,2020-03-13,2982,55,5,Mar
+1430,Web Scraping Reviews And Product Information From Flipkart- Showcasing Subscriber's Work,2020-03-13,14320,307,25,Mar
+1431,Amazon Data Science Interview- Part 1 & Internship Opportunities,2020-03-12,35403,930,98,Mar
+1432,Lecture 4- Bubble Sort -Competitive Programming Problem 2,2020-03-11,8755,207,47,Mar
+1433,Visibility Climate Prediction- You Can Add This In Your Resume,2020-03-11,32679,694,39,Mar
+1434,Lecture 3-  Competitive Programming Problem 1 Solution- Happy Holi!!,2020-03-10,18131,523,49,Mar
+1435,My Laptop Lenovo Legion Y 540 Unboxing For Deep Learning! Important Message At The Last,2020-03-10,70357,2405,263,Mar
+1436,Lecture 2- Competitive Programming- Problem Statement 1,2020-03-09,33863,757,36,Mar
+1437,Lecture 1-  Data Structures And Analysis Of Algorithms,2020-03-09,58114,1621,100,Mar
+1438,Tutorial 33- Chi Square Test Implementation with Python- Hypothesis Testing- Part 2,2020-03-08,89197,1368,70,Mar
+1439,What is Competitive Programming? Announcement Regarding Data Structure And Algorithms,2020-03-08,5785,338,64,Mar
+1440,Tutorial 11- Understanding The HDFS Design- Big Data Tutorial,2020-03-07,5098,75,8,Mar
+1441,Tutorial 10-Components Of Hadoop- Big Data Tutorial,2020-03-07,4375,66,7,Mar
+1442,Tutorial 9- Introduction To Hadoop - Big Data Tutorial,2020-03-07,3546,83,8,Mar
+1443,Tutorial 8-What Are The Problems IN Scaling Out- Big Data Tutorial,2020-03-07,3661,69,5,Mar
+1444,Live Q&A Data Science,2020-03-07,3905,259,22,Mar
+1445,"Tutorial 41-Performance Metrics(ROC,AUC Curve) For Classification Problem In Machine Learning Part 2",2020-03-06,207652,4740,186,Mar
+1446,Tutorial 40- Decision Tree Split For Numerical Feature,2020-03-06,105982,2488,99,Mar
+1447,Tutorial 7- What Is Scaling In Scaling Out- Big Data Tutorial,2020-03-06,16973,213,9,Mar
+1448,Tutorial 39- Gini Impurity Intuition In Depth In Decision Tree,2020-03-05,139972,3203,119,Mar
+1449,Tutorial 6-  Understanding Of Basic Hadoop Commands-Big Data Tutorial,2020-03-05,3751,56,2,Mar
+1450,Tutorial 5- Understanding Hadoop Command Linux- Big Data Tutorial,2020-03-05,10333,176,8,Mar
+1451,Tutorial 4- Basics  Of Linux And Practical Implementation- Big Data Tutorial,2020-03-04,8472,148,17,Mar
+1452,Tutorial 3- Hadoop System Setup- Big Data Tutorial,2020-03-04,16834,231,39,Mar
+1453,Tutorial 2- What All You Will Learn In This Big Data Series,2020-03-03,14110,323,30,Mar
+1454,Tutorial 1- Introduction of Big Data- Part 1,2020-03-03,35575,550,50,Mar
+1455,Tutorial 38- Decision Tree Information Gain,2020-03-03,192941,4508,208,Mar
+1456,Custom Ensemble Approach To Solve Machine Learning Problems,2020-03-02,3340,120,14,Mar
+1457,Tutorial 5- MongoDb With Python- Updating Records|Data Science,2020-02-29,13898,249,21,Feb
+1458,Tutorial 4- MongoDb With Python- Querying Json Documents|Data Science,2020-02-29,25167,398,21,Feb
+1459,Why And How Did I Get Into Data Science? Sharing My Data Science Experience In 20 min,2020-02-28,3029,166,23,Feb
+1460,Follow These Steps To Be Successful In IT Industries,2020-02-27,8457,452,11,Feb
+1461,Tutorial 36- Logistic Regression Indepth Intuition- Part 2| Data Science,2020-02-26,185650,4134,294,Feb
+1462,Tutorial 35- Logistic Regression Indepth Intuition- Part 1| Data Science,2020-02-25,262296,5550,182,Feb
+1463,Live Q&A Data Science,2020-02-23,4132,294,22,Feb
+1464,Sales Chat Bot Project Using Rasa NLU| Data Science,2020-02-23,19690,338,23,Feb
+1465,Resume Discussion for Data Science Role,2020-02-22,5050,188,24,Feb
+1466,Be A Guiding Star- Never Give Up|Saturday Motivation,2020-02-22,2887,264,42,Feb
+1467,Create Basic Conversational AI Chatbot using RASA NLU,2020-02-21,92854,1344,106,Feb
+1468,How To Learn Maths For Data Science By Self Study And For Free,2020-02-20,43973,1669,59,Feb
+1469,How To Learn Statistics By Self Study And For Free,2020-02-18,44239,1509,64,Feb
+1470,30 Days Interview Challenge For Data Science- Ft: Ineuron,2020-02-17,8633,429,39,Feb
+1471,Skillset Of Data Scientist In 2020 (Do not Miss this Video),2020-02-16,83283,3432,183,Feb
+1472,How To Translate Business Ideas Into Data Science Solutions,2020-02-15,2974,161,8,Feb
+1473,Advance House Price Prediction-Feature Selection,2020-02-15,58440,881,96,Feb
+1474,Skillset Of Data Analyst in 2020,2020-02-13,32711,1177,67,Feb
+1475,Interview Discussion- Solution For Tea Crop Prediction,2020-02-11,6809,310,31,Feb
+1476,Silver Play Button Unboxing #100k Subscribers strong,2020-02-10,3842,382,128,Feb
+1477,Live Q&A Join Our Affordable AI Course,2020-02-09,7318,299,50,Feb
+1478,Interview Discussion For Data Science- Solve This Use Case,2020-02-09,18662,417,40,Feb
+1479,How To Become A Data Analytics Manager(Rarest Role In Data Science),2020-02-08,12348,307,24,Feb
+1480,Tutorial 3- How To Connect Python With MongoDb- Pymongo Installation,2020-02-07,42212,530,39,Feb
+1481,Advance House Price Prediction-Feature Engineering Part 2,2020-02-06,65124,969,231,Feb
+1482,Tutorial 2- MongoDb Installation And Basic CRUD Operations,2020-02-06,32859,464,26,Feb
+1483,Tutorial 1- Why Do We Require MongoDB,2020-02-05,59410,1026,35,Feb
+1484,Different Type Of Criticism And How To Handle Them?- Motivation,2020-02-04,3509,231,38,Feb
+1485,Advance House Price Prediction-Feature Engineering Part 1,2020-02-03,79547,1231,96,Feb
+1486,Live Q&A ANSWERING YOUR QUESTIONS,2020-02-02,3882,172,15,Feb
+1487,Gartner Hype Cycle For Artificial Intelligence 2019,2020-02-02,2796,70,7,Feb
+1488,"Is Data Science, Machine Learning, Deep Learning Evergreen Jobs?",2020-02-01,13725,264,52,Feb
+1489,Advance House Price Prediction- Exploratory Data Analysis- Part 2,2020-02-01,93542,1575,146,Feb
+1490,Advance House Price Prediction- Exploratory Data Analysis- Part 1,2020-01-31,328627,3708,261,Jan
+1491,How Should You Go Ahead In Preparing Data Science Interviews,2020-01-30,6612,414,40,Jan
+1492,How To Decide Whether Data Science Is Right For You?,2020-01-29,30521,782,175,Jan
+1493,Tutorial 6- Data Transformation Using QlikSense,2020-01-29,4722,49,7,Jan
+1494,Impact Of Artificial Intelligence On HealthCare,2020-01-28,5530,192,19,Jan
+1495,Tutorial 5- QlikSense Hubs And Dashboard,2020-01-28,3245,35,5,Jan
+1496,Tutorial 34- Performance Metrics For Classification Problem In Machine Learning- Part1,2020-01-27,248082,5525,250,Jan
+1497,Step By Step Action Plan For Learning Data Science in 2020,2020-01-26,249185,8812,427,Jan
+1498,Salary Of Data Scientist In India And US In 2020,2020-01-25,175041,4208,331,Jan
+1499,We Reached 100k Subscribers. This Video is Dedicated To You All,2020-01-25,1795,173,43,Jan
+1500,Tutorial 4- QlikSense Installation- Business Intelligence,2020-01-23,3170,44,10,Jan
+1501,"Tutorial 33- P Value,T test, Correlation Implementation with Python- Hypothesis Testing",2020-01-23,169641,2646,144,Jan
+1502,How To Do I Manage My Time Apart from My Professional Life,2020-01-22,4380,235,35,Jan
+1503,Tutorial 3- Who are the End Users Of BI Visualization Tools- QlikSense Tutorial,2020-01-22,2998,27,2,Jan
+1504,Tutorial 2- Why BI Visualization Tools Are Required?,2020-01-22,6922,87,17,Jan
+1505,Tutorial 1- What is Data Visualization and Its Importance?,2020-01-21,34707,392,20,Jan
+1506,What is Data Leakage In Machine Learning?,2020-01-20,40495,2004,99,Jan
+1507,LiveQ&A,2020-01-20,3211,182,20,Jan
+1508,How To Debug Python Code In Spyder IDE,2020-01-20,78675,742,36,Jan
+1509,Make_Pipelines using Sklearn- Hyperparameter Tuning - Machine Learning,2020-01-17,3345,86,9,Jan
+1510,Tutorial 7: Deploying Machine Learning Models In Azure Cloud,2020-01-17,85273,1073,54,Jan
+1511,Performing Hyper Parameter Tuning Using Pipeline In Sklearn- Machine Learning,2020-01-15,22668,506,27,Jan
+1512,Creating Pipelines Using SKlearn- Machine Learning Tutorial,2020-01-14,85158,2022,96,Jan
+1513,Tutorial 6 :Deployment of Machine Learning Models in Google Cloud Platform,2020-01-12,112509,1543,80,Jan
+1514,"Tutorial 32- All About P Value,T test,Chi Square Test, Anova Test  and When  to Use What?",2020-01-10,569580,10853,308,Jan
+1515,Top PGDM Colleges For Data Science In India,2020-01-10,22886,400,77,Jan
+1516,Best Python Books To Read In 2020,2020-01-10,5380,164,14,Jan
+1517,Colleges For Msc In Data Science and Big Data Analytics In India,2020-01-09,63574,990,197,Jan
+1518,Auto Sklearn Tutorial- Quickly Selecting Machine Learning Algorithm and HyperTuning It,2020-01-09,13810,331,38,Jan
+1519,Story Telling- Important Aspects In Data Science,2020-01-08,14189,529,16,Jan
+1520,"Tutorial 31- Hypothesis Test, Type 1 Error, Type 2 Error",2020-01-06,296403,5703,147,Jan
+1521,Ethics And Data Science- Must Read Book For Data Science Aspirants,2020-01-05,4156,177,12,Jan
+1522,Best Free Data Sets For Data Science Projects,2020-01-04,29866,996,31,Jan
+1523,Best Free Books For Learning Data Science in 2020,2020-01-04,58516,1860,75,Jan
+1524,Tutorial 32- Problems In Simple Recurrent Neural Network,2020-01-03,95297,1947,92,Jan
+1525,Tutorial 31- Back Propagation In Recurrent Neural Network,2020-01-02,142277,3002,115,Jan
+1526,Important Steps To Improve Your Programming Skills,2019-12-29,7198,332,52,Dec
+1527,Tutorial 30- Recurrent Neural Network Forward Propogation With Time,2019-12-27,159316,3652,149,Dec
+1528,Last Live Q&A Of 2019,2019-12-27,3058,171,11,Dec
+1529,The Tree-Based Pipeline Optimization Tool (TPOT) AutoML- Genetic Programming,2019-12-26,8919,250,46,Dec
+1530,Tutorial 29- Why Use Recurrent Neural Network and Its Application,2019-12-25,211953,4081,73,Dec
+1531,Some Important Suggestions For Data Science Aspirants,2019-12-25,9110,462,72,Dec
+1532,"Tutorial 28- Create CNN Model Using Transfer Learning using Vgg 16, Resnet",2019-12-23,183017,3301,194,Dec
+1533,Tutorial 27- Create CNN Model and Optimize using Keras Tuner- Deep Learning,2019-12-23,130261,2021,142,Dec
+1534,Should We Use Machine Learning or Deep Learning For Data Science Project?,2019-12-22,20250,951,58,Dec
+1535,Machine Learning Project Vs Deep Learning Project,2019-12-21,8427,322,25,Dec
+1536,Tutorial 26- Create Image Dataset using Data Augmentation using Keras-Deep Learning-Data Science,2019-12-21,171007,2412,128,Dec
+1537,Step By Step Understanding Of Implementing Data Science Project,2019-12-20,102808,3751,95,Dec
+1538,Tutorial 25- Data Augmentation In CNN-Deep Learning,2019-12-19,101433,2274,62,Dec
+1539,Fresher and Experienced Professional Has This Common Question Regarding Data Science?,2019-12-18,6673,306,24,Dec
+1540,Data Science In Cyber Security In 2020,2019-12-17,17227,539,38,Dec
+1541,Thank You All For Sharing Your Knowledge,2019-12-16,1806,123,26,Dec
+1542,Data Science Q&A LIVE,2019-12-15,4539,262,22,Dec
+1543,Best Youtube Channels To Study Data Science For Free,2019-12-15,67212,3302,153,Dec
+1544,Various Roles and Responsibilities in Data Science,2019-12-14,3303,140,14,Dec
+1545,Tutorial 28- Ridge and Lasso Regression using Python and Sklearn,2019-12-11,121487,1823,111,Dec
+1546,Tutorial 27- Ridge and Lasso Regression Indepth Intuition- Data Science,2019-12-10,323082,7230,405,Dec
+1547,Tutorial 26- Linear Regression Indepth Maths Intuition- Data Science,2019-12-08,337020,6237,325,Dec
+1548,Data Science General Q&A,2019-12-08,3546,165,18,Dec
+1549,"Data Scientist, Domain Expertise, Data Engineer Top Skillsets Based On Gartner Survey",2019-12-08,2715,114,9,Dec
+1550,Role of Data Analyst Vs Role of Business Analyst,2019-12-07,5555,207,18,Dec
+1551,Data Scientist Vs Machine Learning Researcher Vs Machine Learning Engineer,2019-12-07,3503,152,19,Dec
+1552,Perform Web Scraping On Wikipedia- Data Science,2019-12-05,23094,462,87,Dec
+1553,Important Points Everybody Should Know While Implementing Data Science Projects,2019-12-04,6267,326,43,Dec
+1554,Tutorial 24-Z Score Statistics Data Science,2019-12-03,132457,2734,117,Dec
+1555,Air Quality Index Prediction- Data Collection Part 1,2019-12-03,181495,1553,360,Dec
+1556,How to Optimize Linked In Profile For Data Scientist Jobs,2019-12-02,10483,370,54,Dec
+1557,Tutorial 25- Probability Density function and CDF- EDA-Data Science,2019-11-30,148460,3566,176,Nov
+1558,Tutorial 24- Histogram in EDA- Data Science,2019-11-29,86080,1661,17,Nov
+1559,"Tutorial 23-Univariate, Bivariate and Multivariate Analysis- Part2 (EDA)-Data Science",2019-11-28,144301,2546,82,Nov
+1560,"Tutorial 22-Univariate, Bivariate and Multivariate Analysis- Part1 (EDA)-Data Science",2019-11-27,407409,7477,151,Nov
+1561,How Can A Non Technical Person Become Data Scientist,2019-11-27,162816,4690,502,Nov
+1562,AI VS ML VS DL VS Data Science,2019-11-26,2878434,69022,1764,Nov
+1563,A/B Testing In Data Science,2019-11-25,53236,1124,43,Nov
+1564,Word2Vec Easily Explained- Data Science,2019-11-24,171243,2604,127,Nov
+1565,Hiring Process Of Data Scientist and Interns,2019-11-23,17304,606,37,Nov
+1566,Best Programming Practices For Data Science,2019-11-22,23539,979,36,Nov
+1567,MLMINDS Data Science Course Review,2019-11-21,8989,194,39,Nov
+1568,What are the Prerequisites To Learn Data Science,2019-11-21,40165,1471,84,Nov
+1569,Top 5 Technology To Learn in 2020,2019-11-20,29097,936,87,Nov
+1570,Apply Data Science Technique In Your Domain,2019-11-19,2230,117,27,Nov
+1571,What Are Data Products?,2019-11-18,9136,265,16,Nov
+1572,How To Apply Reverse Engineering To Learn Data Science,2019-11-17,11287,553,25,Nov
+1573,How To Become Freelancer Data Scientist,2019-11-13,73779,2496,65,Nov
+1574,My Experience In Service Based and Product Based Company,2019-11-12,114560,3461,270,Nov
+1575,What Can We Do After Engineering? Career Guidance(MBA or MTech or Masters or UPSC),2019-11-11,4567,224,33,Nov
+1576,Tutorial 5- Deployment Of Movie Recommendation Model By My Subscriber In Heroku,2019-11-11,18566,324,25,Nov
+1577,Tutorial 24- Max Pooling Layer In CNN,2019-11-10,129363,2811,92,Nov
+1578,Tutorial 23- Operation Of CNN(CNN vs ANN),2019-11-10,116679,2863,91,Nov
+1579,Reverse Engineering -An Efficient Way To Learn Machine Learning,2019-11-09,8927,331,30,Nov
+1580,Machine Learning Researcher Vs Data Scientist,2019-11-08,2510,147,18,Nov
+1581,Standardization Vs Normalization- Feature Scaling,2019-11-07,300245,7968,279,Nov
+1582,How To Crack Interviews in Product Based Companies Like Amazon or Google,2019-11-06,24367,828,52,Nov
+1583,"Tutorial 21- Python OOPS Tutorial- Classes, Variables, Methods and Objects",2019-11-06,90254,1636,63,Nov
+1584,Business Analyst Vs Data Analyst,2019-11-05,45731,1567,66,Nov
+1585,Tutorial 20- How To Import All Important Python Data Science Libraries Using Pyforest,2019-11-04,54626,1224,54,Nov
+1586,"Skillset Data Scientist, Data Engineer and Domain Expertise Should Be Strong At",2019-11-04,3805,168,18,Nov
+1587,Tutorial 19-  Python Iterables vs Iterators,2019-11-04,64580,1454,47,Nov
+1588,Top 5 Programming Language To Learn in 2020,2019-11-03,10464,351,57,Nov
+1589,Tutorial 18- Python Advanced String Formatting,2019-11-03,54309,1038,22,Nov
+1590,Tutorial 17- Python List Comprehension,2019-11-03,70570,1476,33,Nov
+1591,My Path Towards 50K Subscribers,2019-11-02,959,91,36,Nov
+1592,Why Machine Learning Projects Fail In Production,2019-10-31,5993,306,34,Oct
+1593,Tutorial 4- Deployment Of ML Models In AWS EC2 Instance,2019-10-30,117475,2197,161,Oct
+1594,Live Q&A,2019-10-29,3279,193,27,Oct
+1595,Top 5 Python IDEs For Data Science,2019-10-28,31460,760,52,Oct
+1596,Happy Diwali EveryOne- Motivation And Inspiration Is All We Need,2019-10-27,1704,118,29,Oct
+1597,How To Review An Online Course For Data Science,2019-10-26,6849,234,113,Oct
+1598,Will AutoML Replace Data Scientist Job? Myth,2019-10-25,9108,384,42,Oct
+1599,Future Scope Of Data Science,2019-10-24,38246,1116,89,Oct
+1600,Never Give Up- My Story,2019-10-23,98848,5336,370,Oct
+1601,Tutorial 16- Filter Functions In Python,2019-10-23,67095,1158,28,Oct
+1602,Tutorial 15- Map Functions using Python,2019-10-22,99440,1927,54,Oct
+1603,Tutorial 14 - List Comprehension using Python,2019-10-22,3479,99,6,Oct
+1604,Tutorial 13- Python Lambda Functions,2019-10-22,78007,1602,35,Oct
+1605,Non Technical Skills That We Must Have As A Data Scientist,2019-10-22,4368,221,19,Oct
+1606,How To Implement A Real World Usecase or Project For Data Science,2019-10-21,9494,482,61,Oct
+1607,Steps To Get Jobs as Data Scientist For Freshers and Experienced Professionals,2019-10-21,8783,335,30,Oct
+1608,"Tutorial 12- Python Functions, Positional and Keywords Arguments",2019-10-20,90952,1490,33,Oct
+1609,My Path From Dot Net Developer To Data Scientist- Motivation,2019-10-19,28828,906,125,Oct
+1610,Automated Machine Learning In Python (Automl),2019-10-18,21841,673,54,Oct
+1611,Top 3 Skillset In Data Science That We Should Have,2019-10-17,10371,481,37,Oct
+1612,How To Go Ahead in Writing Research Papers,2019-10-16,30521,1140,66,Oct
+1613,How To Apply And Get Internship For Data Science Opportunities,2019-10-11,90680,3766,148,Oct
+1614,Fast.ai Course and Why We Should Learn It?,2019-10-10,28997,916,58,Oct
+1615,How Did I Learn Deep Learning in 2.5 months?,2019-10-09,46173,1764,88,Oct
+1616,Live Q&A- Answering your Questions.,2019-10-08,3874,236,38,Oct
+1617,Why Data Structures Are Important For Every Programmer?,2019-10-07,47097,2407,87,Oct
+1618,Why Data Scientist Require Knowledge In Linux OS?,2019-10-05,22259,909,69,Oct
+1619,Tutorial 3- Deployment of NLP Model in Heroku Cloud,2019-10-05,37931,625,62,Oct
+1620,Flask Vs Django and When Should You Use What?,2019-10-04,105289,3581,103,Oct
+1621,Why Are You Not Getting Interview Calls for Data Science?,2019-10-03,23205,1059,100,Oct
+1622,Live Q&A.,2019-10-02,3657,246,30,Oct
+1623,"Tutorial 10- Seaborn- Countplot(), Violinplot(), Boxplot()- Part2",2019-10-02,95282,1717,66,Oct
+1624,"Tutorial 9- Seaborn Tutorial- Distplot, Joinplot, Pairplot  Part 1",2019-10-02,150160,2625,142,Oct
+1625,Tutorial 8- Matplotlib (Simple Visualization Library),2019-10-02,159516,2424,64,Oct
+1626,"Tutorial 7- Pandas-Reading JSON,Reading HTML, Read PICKLE, Read EXCEL Files- Part 3",2019-09-30,132726,2249,113,Sep
+1627,Why and When Should we Perform Feature Normalization?,2019-09-30,26431,944,54,Sep
+1628,"Tutorial 6- Pandas,Reading CSV files With Various Parameters- Part 2",2019-09-29,201600,3347,134,Sep
+1629,Best Laptop Configuration For Learning Machine Learning and Deep Learning,2019-09-28,128032,3821,408,Sep
+1630,How to Prepare For Data Science Interviews,2019-09-27,53760,1794,88,Sep
+1631,"Tutorial 5- Pandas, Data Frame and Data Series Part-1",2019-09-26,227160,4171,134,Sep
+1632,How To Become Expertise in Exploratory Data Analysis,2019-09-25,182266,6008,148,Sep
+1633,Tutorial 4 - Numpy and Inbuilt Functions Tutorial,2019-09-25,311161,4466,236,Sep
+1634,"Tutorial 3- Python Sets, Dictionaries and Tuples",2019-09-24,226308,3159,94,Sep
+1635,Tutorial 2 - Python List  and Boolean Variables,2019-09-24,338830,4336,127,Sep
+1636,Tutorial 1- Anaconda Installation and Python Basics,2019-09-23,485295,5577,236,Sep
+1637,Selecting YouTube As A Career Option? Is It Worth?,2019-09-19,3239,159,31,Sep
+1638,How Did I Learn Machine Learning in 3 Months,2019-09-18,340169,12250,613,Sep
+1639,Detailed Salary Comparison Between Data Analyst and Data Scientist,2019-09-17,35913,776,84,Sep
+1640,Kaggle Competition- Dengue or Malaria Prediction Using Transfer Learning VGG19,2019-09-17,12598,177,25,Sep
+1641,Salary Comparison Between Data Scientist vs Software Engineer,2019-09-16,86677,2097,183,Sep
+1642,Kaggle Competition- Predicting PIMA Diabetes Prediction using Machine Learning,2019-09-16,19278,358,38,Sep
+1643,Live Q&A Internship Opportunities,2019-09-15,4759,396,47,Sep
+1644,Kaggle Competition- Implement A DNA Classifier using NLP,2019-09-14,14230,328,20,Sep
+1645,Kaggle Competition- Predict Stock Price Movement Based On News Headline using NLP,2019-09-14,89158,1781,107,Sep
+1646,Statistics-Finding Outliers in Dataset using Z- score and IQR,2019-09-13,88198,1958,79,Sep
+1647,Featuring Engineering- How To Handle Ordinal Categories(Ordinal Encoding),2019-09-13,38623,659,43,Sep
+1648,Statistics- What is Pearson Correlation Coefficient? Difference between Correlation and Covariance,2019-09-12,257350,5857,196,Sep
+1649,Featuring Engineering- Handle Categorical Features Many Categories(Count/Frequency Encoding),2019-09-12,88097,1881,52,Sep
+1650,Skills Required To Become A Data Analyst and a Data Scientist,2019-09-11,19936,714,75,Sep
+1651,Kaggle Competition- I Used Deep Learning Technique and did the Accuracy Increase? Part 3,2019-09-10,18633,295,41,Sep
+1652,Kaggle Competition - House Prices Regression Techniques(Hyperparameter Tuning)-Part 2,2019-09-09,53807,841,54,Sep
+1653,Kaggle Competition - House Prices: Advanced Regression Techniques Part1,2019-09-08,287810,4366,318,Sep
+1654,Various Roles and Responsibilities in Data Science,2019-09-08,18860,631,49,Sep
+1655,Live Q&A (Discussion Regarding Upcoming Videos),2019-09-07,2923,196,22,Sep
+1656,Machine Learning Engineer VS Data Scientist,2019-09-05,39359,1285,98,Sep
+1657,STATISTICS- Chebyshev's InEquality,2019-09-05,129836,2136,67,Sep
+1658,STATISTICS- What is Central Limit Theorem?,2019-09-04,211434,4023,102,Sep
+1659,STATISTICS- Gaussian/ Normal Distribution,2019-09-04,165215,3432,78,Sep
+1660,STATISTICS- PERCENTILES and QUANTILES,2019-09-03,87428,1960,68,Sep
+1661,STATISTICS-  Population VS Sample and it's Importance,2019-09-03,83992,2193,53,Sep
+1662,Guidelines To Prepare Resume For Data Scientist Role,2019-09-02,25887,902,60,Sep
+1663,STATISTICS- What are Random Variables and It's Types and its Importance?,2019-09-02,87867,2194,64,Sep
+1664,STATISTICS- Variance and Standard Devation,2019-09-01,242229,4281,94,Sep
+1665,"STATISTICS- Mean, Median And Mode Explained Easily",2019-09-01,190135,4220,138,Sep
+1666,Saturday Live Q&A,2019-08-31,3246,193,24,Aug
+1667,What is AdaBoost (BOOSTING TECHNIQUES),2019-08-31,339600,6201,234,Aug
+1668,Why Python is the Best Programming Language For Machine Learning?,2019-08-30,164334,3740,76,Aug
+1669,How To Get Data Science Jobs For Freshers,2019-08-29,156987,5352,252,Aug
+1670,Online Courses for Data Science Specialization,2019-08-28,274686,8925,875,Aug
+1671,How To Learn Data Science by Self Study and For Free,2019-08-27,546715,28119,1005,Aug
+1672,Do We Require Master OR PHD to Become Data Scientist?,2019-08-27,15624,613,76,Aug
+1673,Answering Your Questions and Some More Updates,2019-08-26,8648,340,96,Aug
+1674,Tutorial 2- Deployment of ML models in Heroku using FLASK,2019-08-25,178886,3964,360,Aug
+1675,Tutorial 1- Deployment of Models- Premises VS IAAS vs PAAS cloud Platforms,2019-08-25,145580,2123,63,Aug
+1676,How To Apply Data Science In Your Domain?,2019-08-24,5652,215,30,Aug
+1677,Tutorial 43-Random Forest Classifier and Regressor,2019-08-24,404328,13821,441,Aug
+1678,Important Tools and Libraries Used By Data Scientist,2019-08-23,32626,1001,57,Aug
+1679,Tutorial 42 - Ensemble: What is Bagging (Bootstrap Aggregation)?,2019-08-23,334151,8477,204,Aug
+1680,How To Learn Data Science Smartly?,2019-08-22,1658787,52612,1291,Aug
+1681,Tutorial 22- Padding in Convolutional Neural Network,2019-08-21,153611,3403,68,Aug
+1682,The Role of Maths in Data Science and How to Learn?,2019-08-21,106111,4072,188,Aug
+1683,Tutorial 21- What is Convolution operation in CNN?,2019-08-20,273081,5087,106,Aug
+1684,Tutorial 20- Convolution Neural Network vs Human Brain,2019-08-20,79785,1680,21,Aug
+1685,How To Handle Missing Values in Categorical Features,2019-08-20,119493,2781,117,Aug
+1686,Cosine Similarity and Cosine Distance,2019-08-19,111826,3141,141,Aug
+1687,Euclidean Distance and Manhattan Distance,2019-08-19,275179,8909,328,Aug
+1688,Why Do I Teach? Motivations,2019-08-17,5338,311,50,Aug
+1689,Data Engineer vs Data Analyst vs Data Scientist,2019-08-17,176920,5566,184,Aug
+1690,What Do A Data Scientist Do?,2019-08-16,31208,1093,57,Aug
+1691,Why Do We Need to Perform Feature Scaling?,2019-08-15,135862,3603,136,Aug
+1692,Different Types of Feature Engineering Encoding Techniques,2019-08-15,192442,4952,687,Aug
+1693,How to Crack Data Science Interviews- Motivations,2019-08-14,75641,2324,99,Aug
+1694,What should be your Salary Expectation as a Data Scientist?,2019-08-13,99965,1701,227,Aug
+1695,Step By Step Transition Towards Data Science,2019-08-12,140859,4713,235,Aug
+1696,Tutorial 37: Entropy In Decision Tree Intuition,2019-08-11,285029,4281,119,Aug
+1697,Feature Engineering-How to Perform One Hot Encoding for Multi Categorical Variables,2019-08-10,273514,3376,174,Aug
+1698,Complete Life Cycle of a Data Science Project,2019-08-10,56038,1596,71,Aug
+1699,My Path on Becoming a Data Scientist- Motivation,2019-08-09,159296,4399,460,Aug
+1700,Train Test Split vs K Fold vs Stratified K fold Cross Validation,2019-08-08,64432,1147,55,Aug
+1701,What is Cross Validation and its types?,2019-08-08,230275,5507,173,Aug
+1702,Tutorial 19- Training Artificial Neural Network using Google Colab GPU,2019-08-07,77788,1331,60,Aug
+1703,Tutorial 18- Hyper parameter Tuning To Decide Number of Hidden Layers in Neural Network,2019-08-06,81270,1362,114,Aug
+1704,Tutorial 17- Create Artificial Neural Network using Weight Initialization Tricks,2019-08-05,116819,2124,149,Aug
+1705,Tutorial 5- Content Based Recommendation System,2019-08-04,77656,1040,52,Aug
+1706,Tutorial 4- Book Recommendation using Collaborative Filtering,2019-08-03,43476,579,32,Aug
+1707,Tutorial 16- AdaDelta and RMSprop optimizer,2019-08-02,73526,1622,66,Aug
+1708,Tutorial 3- Book Recommendation System using Pearson Correlation,2019-08-02,33593,549,23,Aug
+1709,Tutorial 2-  Creating Recommendation Systems using Nearest Neighbors,2019-08-01,77141,1141,76,Aug
+1710,Tutorial 1- Weighted hybrid technique for Recommender system,2019-07-31,140046,1653,54,Jul
+1711,Tutorial 15- Adagrad Optimizers in Neural Network,2019-07-31,98789,2457,109,Jul
+1712,Tutorial 14- Stochastic Gradient Descent with Momentum,2019-07-30,118368,2645,114,Jul
+1713,Tutorial 13- Global Minima and Local Minima in Depth Understanding,2019-07-29,101546,2131,50,Jul
+1714,Tutorial 12- Stochastic Gradient Descent vs Gradient Descent,2019-07-28,221107,4483,99,Jul
+1715,Python Application to Track Amazon Product Prices,2019-07-27,7316,155,20,Jul
+1716,Recommendation Systems using Machine Learning,2019-07-26,127114,2118,42,Jul
+1717,Tutorial 11- Various Weight Initialization Techniques in Neural Network,2019-07-26,129965,2731,81,Jul
+1718,Tutorial 10- Activation Functions Rectified Linear Unit(relu) and Leaky Relu Part 2,2019-07-25,149891,2226,108,Jul
+1719,Tutorial 9- Drop Out Layers in Multi Neural Network,2019-07-24,174870,4137,167,Jul
+1720,Tutorial 8- Exploding Gradient Problem in Neural Network,2019-07-23,133468,3223,176,Jul
+1721,Tutorial 7- Vanishing Gradient Problem,2019-07-22,206272,4368,199,Jul
+1722,Tutorial 6-Chain Rule of Differentiation with BackPropagation,2019-07-19,190203,4226,249,Jul
+1723,Tutorial 5- How to train MultiLayer Neural Network and Gradient Descent,2019-07-18,211600,4984,251,Jul
+1724,Tutorial 4: How to train Neural Network with BackPropogation,2019-07-18,231131,5040,216,Jul
+1725,Tutorial 3-Activation Functions Part-1,2019-07-17,214707,3810,117,Jul
+1726,Tutorial 2- How does Neural Network Work,2019-07-17,204394,2974,80,Jul
+1727,Tutorial 1- Introduction to Neural Network and Deep Learning,2019-07-17,381398,5463,130,Jul
+1728,Malaria Disease Detection using Deep Learning,2019-07-15,23662,363,26,Jul
+1729,How to Read Dataset in Google Colab from Google Drive,2019-07-14,263860,3195,141,Jul
+1730,Finding an outlier in a dataset using Python,2019-07-13,194019,3360,118,Jul
+1731,Diabetes Prediction using Machine Learning from Kaggle,2019-07-12,108981,1810,85,Jul
+1732,How to choose number of hidden layers and nodes in Neural Network,2019-07-11,98602,1455,83,Jul
+1733,"Why, How and When to Scale Features in Machine Learning?",2019-07-10,28276,722,34,Jul
+1734,Credit card Risk Assessment using Machine Learning,2019-07-09,26371,451,26,Jul
+1735,DNA Sequencing Classifier using  Machine Learning,2019-06-28,34853,704,34,Jun
+1736,Tutorial 46-Handling imbalanced Dataset using python- Part 2,2019-06-27,71825,1579,96,Jun
+1737,Tutorial 45-Handling imbalanced Dataset  using python- Part 1,2019-06-27,132924,2062,98,Jun
+1738,Hyperparameter Optimization for Xgboost,2019-06-26,117331,2166,106,Jun
+1739,Credit Card Fraud Detection using Machine Learning from Kaggle,2019-06-25,210252,3028,130,Jun
+1740,Voting Classifier(Hard Voting and Soft Voting Classifier),2019-06-25,32283,592,24,Jun
+1741,Random Forest(Bootstrap Aggregation) Easily Explained,2019-06-24,30188,553,29,Jun
+1742,Stock Sentiment Analysis using News Headlines,2019-06-23,27937,508,37,Jun
+1743,Predicting Lungs Disease using Deep Learning,2019-06-22,55595,1068,57,Jun
+1744,Predicting Heart Disease using Machine Learning,2019-06-21,172463,2630,79,Jun
+1745,K Nearest Neighbour Easily Explained with Implementation,2019-06-18,244480,4033,94,Jun
+1746,How to Visualize Multiple Linear Regression in python,2019-06-18,34605,334,20,Jun
+1747,Deployment of Deep Learning Model using Flask,2019-06-17,92045,1443,101,Jun
+1748,Deploy Machine Learning Model using Flask,2019-06-16,281372,4547,194,Jun
+1749,Handling Missing Data Easily Explained| Machine Learning,2019-06-15,185619,3280,78,Jun
+1750,Cross Validation using sklearn and python | Machine Learning,2019-06-13,13043,266,11,Jun
+1751,Tutorial 29-R square and Adjusted R square Clearly Explained| Machine Learning,2019-06-12,154402,2952,144,Jun
+1752,Feature Selection Techniques Easily Explained | Machine Learning,2019-06-11,217728,4535,209,Jun
+1753,Curse of Dimensionality Easily explained| Machine Learning,2019-06-10,60583,1251,37,Jun
+1754,DBSCAN Clustering Easily Explained with Implementation,2019-06-05,142144,2738,79,Jun
+1755,Machine Learning Algorithm- Which one to choose for your Problem?,2019-05-30,216795,6815,251,May
+1756,Handle Categorical features using Python,2019-05-24,33326,666,45,May
+1757,Linear Regression Mathematical Intuition,2019-05-01,21878,369,23,May
+1758,How to switch your career to Data Science.,2019-04-12,21458,487,50,Apr
+1759,Setting up Raspberry pi 3 B+,2019-04-05,38605,359,7,Apr
+1760,Deep Learning in Medical Science,2019-04-04,77215,459,26,Apr
+1761,How we can apply Machine Learning in Finance,2019-04-03,16107,305,12,Apr
+1762,Complete Life Cycle of a Data Science Project,2019-03-27,71526,1125,28,Mar
+1763,Draw rectangle from webcam and sketch process it on a live feed,2019-03-03,11158,142,9,Mar
+1764,Unlock Your Application With Your Face using OpenCV,2019-02-26,17652,375,37,Feb
+1765,Gender Classifier and Age Estimator using Resnet Convolution Neural Network,2019-02-25,39653,542,67,Feb
+1766,Implement Transfer Learning with a generic Code Template,2019-02-21,6637,119,16,Feb
+1767,Hierarchical Clustering intuition,2019-02-14,66602,1284,15,Feb
+1768,Create custom Alexa Skill- Lambda function- Part2,2019-02-14,3852,33,4,Feb
+1769,Create custom Alexa Skill- Intent Interface- Part1,2019-02-14,10644,90,12,Feb
+1770,K Means Clustering Intuition,2019-02-13,149466,2609,84,Feb
+1771,K Nearest Neighbor classification with Intuition and practical solution,2019-02-12,155895,3069,93,Feb
+1772,RandomizedSearchCV- Select the best hyperparameter for any Classification Model,2019-02-09,32310,577,37,Feb
+1773,GridSearchCV- Select the best hyperparameter for any Classification Model,2019-02-08,85571,1871,133,Feb
+1774,Artificial Neural Network for Customer's Exit Prediction from Bank,2019-02-06,18350,303,44,Feb
+1775,"Precision, Recall and F1-Score",2019-02-05,90863,1276,55,Feb
+1776,"TPR,FPR,FNR,TNR, Confusion Matrix",2019-02-04,74003,1474,82,Feb
+1777,Movie Recommender System using Python,2019-02-02,185266,3451,147,Feb
+1778,Dimensional Reduction| Principal Component Analysis,2019-02-02,162321,3102,134,Feb
+1779,Multiple Linear Regression using python and sklearn,2019-01-31,151316,3089,134,Jan
+1780,OpenPose Tutorial with Tensorflow,2019-01-23,22189,157,12,Jan
+1781,Using OpenFace for Face recognition in Keras,2019-01-22,9079,48,16,Jan
+1782,"Reading, Writing and Displaying images with Opencv| OpenCV Tutorial",2019-01-19,21647,294,34,Jan
+1783,OpenCV Installation | OpenCV tutorial,2019-01-19,48553,423,8,Jan
+1784,Face and Eye Detection from Images using HAAR Cascade Classifier,2019-01-19,25587,331,31,Jan
+1785,Car Detection using HAAR Cascade and Opencv from Videos.,2019-01-19,14381,179,12,Jan
+1786,Pedestrian Detection using OpenCV from Videos,2019-01-19,14335,218,5,Jan
+1787,Face and Eye Detection from Videos using HAAR Cascade Classifier,2019-01-19,29560,449,27,Jan
+1788,Face Recognition using open CV and VGG 16 Transfer Learning,2019-01-18,33285,471,49,Jan
+1789,Tutorial 11-Exploratory Data Analysis(EDA) of Titanic dataset,2019-01-17,322477,6144,288,Jan
+1790,Implementing a Spam classifier in python| Natural Language Processing,2019-01-14,114729,2333,170,Jan
+1791,Tutorial 44-Balanced vs Imbalanced Dataset and how to handle Imbalanced Dataset,2019-01-11,42470,942,61,Jan
+1792,"Confusion matrix, Precision, Recall| Data Science Interview questions",2019-01-10,29435,637,42,Jan
+1793,"CBSE to introduce artificial intelligence courses in classes 8, 9, 10",2019-01-06,1512,14,2,Jan
+1794,Covariance in Statistics,2019-01-05,137104,2903,71,Jan
+1795,Log Normal Distribution in Statistics,2019-01-05,141517,2108,91,Jan
+1796,Natural Language Processing|TF-IDF for Machine Learning| Text Prerocessing,2019-01-04,93237,2039,84,Jan
+1797,Gaussian distribution or Normal Distribution in statisctics,2019-01-03,119011,2298,65,Jan
+1798,Natural Language Processing|BagofWords,2019-01-03,101363,2073,92,Jan
+1799,Natural Language Processing|Lemmatization,2019-01-02,83611,1224,46,Jan
+1800,Natural Language Processing|Stemming,2019-01-01,103460,1714,55,Jan
+1801,Natural Language Processing|Tokenization,2019-01-01,194704,2967,71,Jan
+1802,Population vs Sample in Statistics,2018-12-31,196146,2182,78,Dec
+1803,How to select the best model using cross validation in python,2018-09-04,68387,1580,79,Sep
+1804,Computer Vision using Microsoft Cognitive Services for Images,2018-07-25,19176,208,9,Jul
+1805,Principle Component Analysis (PCA) using sklearn and python,2018-07-02,219572,3763,157,Jul
+1806,PySpark Tutorial for Beginners | Apache Spark with Python -Linear Regression Algorithm,2018-06-06,42002,636,42,Jun
+1807,Creating a Dataset and training an Artificial Neural Network with Keras,2018-02-25,27305,264,34,Feb
+1808,Artificial Neural Network Intuition,2018-02-24,41191,274,7,Feb
+1809,Create an Artifical Neural Network using Keras in 5 minutes,2018-02-22,10034,103,19,Feb
+1810,Important libraries used in python Data Science- Machine Learning Tutorial with Python and R-Part 4,2017-11-26,22786,198,15,Nov
+1811,Anaconda installation with Packages- Machine Learning Tutorial with Python and R-Part 3,2017-11-26,79616,369,39,Nov
+1812,What is Supervised Machine Learning- Machine Learning Tutorial with Python and R-Part 2,2017-11-26,38810,427,16,Nov
+1813,What is Machine Learning in Data Science- Machine Learning Tutorial with Python and R-Part 1,2017-11-25,160344,983,51,Nov
+1814,Maeri unplugged by Krish and band,2014-06-01,6347,160,16,Jun
