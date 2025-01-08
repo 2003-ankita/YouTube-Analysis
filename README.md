@@ -26,4 +26,3 @@ To get started, first install the dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
